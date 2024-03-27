@@ -1,4 +1,4 @@
-# community
+# Welcome to the global OpenEBS community...
 Welcome to the Global OpenEBS Community home
 This repo ia a place were we are centralizing all global OpenEBS activities thatr span horizontally across thge entire OpenEBS project, all repos and sub-repos.
 
