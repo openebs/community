@@ -3,9 +3,9 @@
 
 ## [openebs.io](https://www.openebs.io/)
 
-Welcome to the Global OpenEBS Community home
-This repo ia a place were we are centralizing all global OpenEBS activities thatr span horizontally across thge entire OpenEBS project, all repos and sub-repos.
-
+Welcome to the Global OpenEBS Community home.<BR>
+This repo ia the main place were we are centralizing all global OpenEBS activities that span horizontally across the entire OpenEBS project, all repos and sub-repos.<BR>
+<BR>
 This Global repo is managed by the OpenEBS Admins, Maintainers and Senior leaders in the OpenEBS team.
 Currently is is being curated by...
 - Ed Robinson
