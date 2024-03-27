@@ -14,7 +14,7 @@ Currently is is being curated by...
 >
 > :rocket: &nbsp; Ed Robinson | @edrob999 <BR>
 > :star: &nbsp; David Brace | @orville-wright <BR>
-> :zap: &nbsp; Vishnu | Attur @avishnu <BR>
+> :zap: &nbsp; Vishnu Attur | @avishnu <BR>
 > :sunglasses: &nbsp; Tiago Castor | @tiagolobocastro <BR>
 
 Thanks for dropping by.
