@@ -17,5 +17,12 @@ Currently is is being curated by...
 > :zap: &nbsp; Vishnu Attur | @avishnu <BR>
 > :sunglasses: &nbsp; Tiago Castor | @tiagolobocastro <BR>
 
+<BR>
+
+> [!IMPORTANT]
+> We are grateful for the innovative Data Storage companies and their amazing engineering contributors that contrinue to our project. Major sponsorship is provided by [DataCore](https://datacore.com), who donates a large team of dedicated Product Dev/Engineers, Product Mgmt, Marketing, Biz and operational leaders as well as significant engineering infrastructure rescources. (DataCore, Inc. acquired the company that create openEBS in 2021). OpenEBS has 100's of amazing individuals, contributors and storage engineers who provide brainstorming ideas, feedback, code reviews and high-quality code to the project. - All who are passionate about storage and Data are welcome here.
+>
+
+<BR>
 Thanks for dropping by.
 
