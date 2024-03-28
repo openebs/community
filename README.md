@@ -21,7 +21,7 @@ Currently is is being curated by...
 <BR>
 
 > [!IMPORTANT]
-> We are grateful for the innovative Data Storage companies and their amazing engineers that contribute to our project. Major sponsorship is provided by [DataCore](https://datacore.com), who donates a large team of dedicated Dev/QA/Engineers, Product Mgmt, Marketing, Biz and operational leaders as well as significant engineering infrastructure rescources. Without DataCore, Inc... OpenEBS would not be the successful product that is it today. (DataCore, Inc. acquired the company that created openEBS in 2021). OpenEBS has 100's of amazing individuals, contributors and storage engineers who provide brainstorming ideas, feedback, code reviews and high-quality code to the project. - All who are passionate about storage and Data are welcome here.
+> We are a community of innovative Data Storage engineers that contribute to this project. We are greatful for the Major sponsorship that is provided by [DataCore](https://datacore.com), who donates a large team of dedicated Dev/QA/Engineers, Product Mgmt, Marketing, Business and Operational leadership as well as significant engineering infrastructure rescources and financial funding. Without DataCore, Inc... OpenEBS would not be the successful product that is it today. OpenEBS is teh result of 100's of amazing individuals, contributors and storage engineers who provide brainstorming ideas, feedback, code reviews and high-quality code to the project. - All who are passionate about storage and Data are welcome here.
 >
 
 <BR>
