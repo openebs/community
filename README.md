@@ -18,15 +18,20 @@ Currently is is being curated by...
 > :sunglasses: &nbsp; Tiago Castor | @tiagolobocastro <BR>
 
 <BR>
+<BR>
 
 > [!IMPORTANT]
 > We are grateful for the innovative Data Storage companies and their amazing engineers that contribute to our project. Major sponsorship is provided by [DataCore](https://datacore.com), who donates a large team of dedicated Dev/QA/Engineers, Product Mgmt, Marketing, Biz and operational leaders as well as significant engineering infrastructure rescources. Without DataCore, Inc... OpenEBS would not be the successful product that is it today. (DataCore, Inc. acquired the company that created openEBS in 2021). OpenEBS has 100's of amazing individuals, contributors and storage engineers who provide brainstorming ideas, feedback, code reviews and high-quality code to the project. - All who are passionate about storage and Data are welcome here.
 >
 
+<BR>
+<BR>
+
 > [!NOTE]
-> CNCF Project status : ARCHIVE
-> The OpenEBS project is currently undergoing an extensive restructing initative. We are archviing out old projects to a CNCF owned repo OpeneEBS-Archive (https://github.com/openebs-archive).<BR>
-> The product is in unifying a number of repos and technbology into one core code-base. See our main repo for details.
+> CNCF Project status : ARCHIVE <BR>
+> In Jan 2024, under the guidnace of CNCF TOC, our project movde from Sandbox level to Archvie level so that the entire project could impliemnt an extensive restructing initative.<BR>
+> We are actively archving out old projects, repos and dependancies to a CNCF owned repo called: OpeneEBS-Archive (https://github.com/openebs-archive).<BR>
+> The product team is unifying a 4 main repos and technbology sttacking into one core OpnenEBS code-base. See our main repo for more details.
 <BR>
 
 OpenEBS is a CNCF project and DataCore, Inc is a CNCF Silver member.DataCore support's CNCF extensively and has funded OpenEBS participating in every KubeCon event since 2020. Our project team is managed under the CNCF Storage Landscape and we contribute to the CNCF CSI and TAG Storage project initiatives. We proudly support CNCF Cloud Native Community Groups initatives.<BR>
