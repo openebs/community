@@ -26,11 +26,7 @@ Currently is is being curated by...
 <BR>
 OpenEBS is a CNCF project and DataCore, Inc is a CNCF Silver member.DataCore support's CNCF extensively and has funded OpenEBS participating in every KubeCon event since 2020. Our project team is managed under the CNCF Storage Landscape and we contribute to the CNCF CSI and TAG Storage project initiatives.<BR>
 
-[![CNCF logo](/images/CNCF_csi-horizontal-color.png width="480")](https://www.cncf.io/)
-<img src="/images/CNCF_csi-horizontal-color.png" width="480">
-
-
-
+<img src="/images/CNCF_csi-horizontal-color.png" width="360"> &nbsp &nbsp &nbsp &nbsp <img src="/images/CNCF_tag-storage-horizontal-color.png" width="360"
 [![CNCF logo](/images/CNCF_member-silver-color.svg)](https://www.datacore.com/)
  
 <BR>
