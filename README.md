@@ -28,7 +28,7 @@ OpenEBS is a CNCF project and DataCore, Inc is a CNCF Silver member.DataCore sup
 
 [![CNCF logo](/images/CNCF_member-silver-color.svg)](https://www.datacore.com/)
 
-<img src="/images/CNCF_csi-horizontal-color.png" width="360"> <img src="/images/CNCF_tag-storage-horizontal-color.png" width="360">  <img src="/images/CNCF_cncg-icon-color.png" width="180">
+<img  alt="Contain Storage Interface group" src="/images/CNCF_csi-horizontal-color.png" width="360"> <img alt="Storage Technical Advisory Group" src="/images/CNCF_tag-storage-horizontal-color.png" width="360">  <img src="/images/CNCF_cncg-icon-color.png" width="180">
 
  
 <BR>
