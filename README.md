@@ -29,9 +29,9 @@ Currently is is being curated by...
 
 > [!NOTE]
 > CNCF Project status : ARCHIVE <BR>
-> In Jan 2024, under the guidnace of CNCF TOC, our project movde from Sandbox level to Archvie level so that the entire project could impliemnt an extensive restructing initative.<BR>
-> We are actively archving out old projects, repos and dependancies to a CNCF owned repo called: OpeneEBS-Archive (https://github.com/openebs-archive).<BR>
-> The product team is unifying a 4 main repos and technbology sttacking into one core OpnenEBS code-base. See our main repo for more details.
+> In Jan 2024, under the guidnace of CNCF TOC, our project moved from Sandbox level to Archvie level so that we could impliemnt an extensive restructing initative.<BR>
+> We are actively archiving out old projects, repos and dependancies to a CNCF owned repo called: OpeneEBS-Archive (https://github.com/openebs-archive).<BR>
+> The product team is unifying 4 main repos (Mayastor, LocalPV-LVM, LocalPV-ZFS, LocalPV-Hostpath) and their support technbology stack repos into one core OpnenEBS code-base. See our main repo for more details.
 <BR>
 
 [![CNCF logo](/images/CNCF_member-silver-color.svg)](https://www.datacore.com/)
