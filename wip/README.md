@@ -26,7 +26,7 @@ This is how you structure your COMMITT messages...
 <BR>
 
 ---
-> [!IMPORTANT] <BR> 
+> [!IMPORTANT]
 > **type** &nbsp;&nbsp;  **(scope):** &nbsp;&nbsp; **subject/description** &nbsp;&nbsp;  **meta** <BR>
 <BR>
 
@@ -80,7 +80,9 @@ The **Subject/Description** is a free format description of what work you did & 
 - avoid special characters (e.g.  @, #, !, ', <>, [] etc )
 - be aware that users will view this info via differnt GIT tools (e.g. cli, IDE, WebApp, MobileApp, Browser, API, JSON etc) and each app will truncate the info differntly. So shorter the better. 10 words if a fairly good limit. 
 <BR>
+
 ---
+
 **Meta**
 
 We generally do not use the  **Meta** keyword. It provides embeded API/App control commands to CI-Pipeline tools and GitHub Enabled apps, or scripts the process output (txt/json). You can avoid it unless you absolutely need it. 
