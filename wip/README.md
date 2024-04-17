@@ -26,8 +26,8 @@ This is how you structure your COMMITT messages...
 <BR>
 
 ---
-> [!IMPORTANT] 
-> <type>  (<scope>): <subject/description>  <meta>
+> [!IMPORTANT] <BR> 
+> **type** &nbsp;&nbsp;  **(scope):** &nbsp;&nbsp; **subject/description** &nbsp;&nbsp;  **meta** <BR>
 <BR>
 
 **Type of work**: 
@@ -72,7 +72,7 @@ The **Scope**  is a 1 word keyword. It generally references the thing, module, p
 
 **Subject / Description**
 
-the **Subject/Description** is a free format description of what work you did & why.
+The **Subject/Description** is a free format description of what work you did & why.
 - It should be a short succinct description of the change
 - use imperative, present tense: “change” not “changed” nor “changes”
 - don't capitalize first letter
@@ -80,3 +80,7 @@ the **Subject/Description** is a free format description of what work you did & 
 - avoid special characters (e.g.  @, #, !, ', <>, [] etc )
 - be aware that users will view this info via differnt GIT tools (e.g. cli, IDE, WebApp, MobileApp, Browser, API, JSON etc) and each app will truncate the info differntly. So shorter the better. 10 words if a fairly good limit. 
 <BR>
+---
+**Meta**
+
+We generally do not use the  **Meta** keyword. It provides embeded API/App control commands to CI-Pipeline tools and GitHub Enabled apps, or scripts the process output (txt/json). You can avoid it unless you absolutely need it. 
