@@ -19,5 +19,5 @@
 
 <BR>
 <BR>
-This is some change that is coming. You can run but you can't hide....
+This is change. Change is coming. You can run but you can't hide....
 <BR>
