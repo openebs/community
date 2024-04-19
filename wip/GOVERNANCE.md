@@ -13,7 +13,7 @@
 
 The OpenEBS project has four roles:<BR>
 
-| Level | Member type | Description or scope and role |
+| Level | Member type | Example description, scope and role |
 | :---  | :--- | :--- |
 | 1     | **Steering Committee** | Sets project governance, operating guidelines and provides oversight. Steering committee members are elected or removed by the current steering committee. Steering Committee members authority applies to the OpenEBS organization and every sub-project in the organization. |
 | 2     | **Maintainers** | Roadmap, contribution guidelines, Review, Approve/Reject, Merge, Manage repos. Maintainers are elected or removed by the current maintainers, appointed or removed by the steering committee. A maintainer’s authority applies to the OpenEBS organization and every sub-project in the organization (unless they have been appointed as a [special maintainer](#special-projects-and-special-maintainers) |
@@ -35,14 +35,14 @@ These roles are described in more detail below:
 
 ### Steering Committee
 The steering committee is in charge of setting the OpenEBS project operating procedures:
-* Project vision, mission statement and scope, restraints conformance guidelines as recorded in the OpenEBS Vision document
-* Product Governance as recorded in this document 
+* [Project Vision](./VISION), mission statement and scope, restraints conformance guidelines as recorded in the OpenEBS Vision document
+* [Product Governance](./GOVERNANCE) as recorded in this document 
 * Assigning or removing maintainers
 
 The steering committee is composed of one or more representatives from organizations with significant investment in the OpenEBS project (eligible organizations). Eligible organizations are:
 
-* DataCore Software (DataCore)
-* Cloud Native Computing Foundation (CNCF)
+* [DataCore Software (DataCore)](https://datacore.com)
+* [Cloud Native Computing Foundation (CNCF)](https://cncf.io)
 
 An eligible organization may assign one member to the Steering committee. The steering committee meets as needed, and may vote to assign or remove other members or to make changes to the operating procedures. Unless otherwise agreed by the Steering Committee, a vote is carried with a ⅔ majority of votes in favor. Voting is in private, with decisions recorded in “Appendix 1: Steering Committee Members and Decisions” section of this document.
 
@@ -99,8 +99,6 @@ OpenEBS welcomes people who simply want to Adopt the OpenEBS product, and welcom
 All sub projects within the OpenEBS organization abide by the common umbrella governance and policies, and a maintainer has authority over all sub projects, with these exceptions.
 
 The OpenEBS maintainers may elect, or the Steering Committee may assign:
-
-
 
 * A “special maintainer” for one or more sub projects (typically where the individual has specialist knowledge for a discrete area of the project)
 * A “special project” that operates with deviation from the common umbrella governance and rules. The deviations are listed in the project’s README.md.
