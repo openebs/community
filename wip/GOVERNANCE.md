@@ -15,6 +15,18 @@ The OpenEBS project has four roles:
 * Maintainers. Manage project scope, roadmap, contribution guidelines. Maintainers are elected or removed by the current maintainers, appointed or removed by the steering committee. A maintainer’s authority applies to the OpenEBS organization and every sub-project in the organization (unless they have been appointed as a special maintainer).
 * Contributors. Contribute code, testing, documentation to the project. A contributor’s authority applies to one or more sub projects.
 * Adopters. Use the OpenEBS product without contributing to the project. An adopter has  authority to raise issues, participate in discussions on sub projects with a public forum.
+<BR>
+
+
+> **This community** is managed by the OpenEBS Admins, Maintainers and Senior leaders of the OpenEBS project team.
+> <BR>
+>
+> :rocket: &nbsp; Ed Robinson | @edrob999 <BR>
+> :star: &nbsp; David Brace | @orville-wright <BR>
+> :zap: &nbsp; Vishnu Attur | @avishnu <BR>
+> :sunglasses: &nbsp; Tiago Castor | @tiagolobocastro <BR>
+<BR>
+
 
 These roles are described in more detail below:
 
