@@ -6,30 +6,22 @@
 > This document is: OpenEBS Project Governance. OpenEBS is an umbrella project,  composed as a federation of individual sub projects (repositories). This document applies to both the umbrella project and to every sub-project in the OpenEBS organization.
 <BR>
 
-## See Also
-* [Project Vision:](./VISION.md} | Values: Mission Statement and Scope | Restraints: Conformance
-
-<BR>
-[Project Vision:](VISION.md} <BR>
-[Project Vision:](./VISION.md} <BR>
-[Project Vision:](../VISION.md} <BR>
-[Project Vision:](../wip/VISION.md} <BR>
-[Project Vision:](wip/VISION.md} <BR>
-[Project Vision:](/community/wip/VISION.md} <BR>
-[Project Vision:](community/wip/VISION.md} <BR>
-[Project Vision:](/openebs/community/wip/VISION.md} <BR>
-[Project Vision:](/wip/VISION.md} <BR>
-[Project Vision:](community/edit/develop/wip/GOVERNANCE.md} <BR>
-[Project Vision:](https://github.com/openebs/community/edit/develop/wip/VISION.md} <BR>
+### Key references docs:
+> [Project Vision](./VISION) &nbsp; | &nbsp; Values: Mission Statement and Scope &nbsp; | &nbsp; Restraints: Conformance &nbsp; | &nbsp; [Contributing: ](./CONTRIBUTING)
 
 <BR>
 
-## Steering Committee, Maintainers, Contributors and Adopters
+### Steering Committee, Maintainers, Contributors and Adopters
+---
 The OpenEBS project has four roles:
-* Steering Committee members. Sets project governance, operating guidelines and provides oversight. Steering committee members are elected or removed by the current steering committee. Steering Committee members authority applies to the OpenEBS organization and every sub-project in the organization.
-* Maintainers. Manage project scope, roadmap, contribution guidelines. Maintainers are elected or removed by the current maintainers, appointed or removed by the steering committee. A maintainer’s authority applies to the OpenEBS organization and every sub-project in the organization (unless they have been appointed as a special maintainer).
-* Contributors. Contribute code, testing, documentation to the project. A contributor’s authority applies to one or more sub projects.
-* Adopters. Use the OpenEBS product without contributing to the project. An adopter has  authority to raise issues, participate in discussions on sub projects with a public forum.
+- **Steering Committee members:**
+   - Sets project governance, operating guidelines and provides oversight. Steering committee members are elected or removed by the current steering committee. Steering Committee members authority applies to the OpenEBS organization and every sub-project in the organization.
+- **Maintainers. Manage project scope:**
+   - Roadmap, contribution guidelines. Maintainers are elected or removed by the current maintainers, appointed or removed by the steering committee. A maintainer’s authority applies to the OpenEBS organization and every sub-project in the organization (unless they have been appointed as a special maintainer).
+- **Contributors:**
+   - Contribute code, testing, documentation to the project. A contributor’s authority applies to one or more sub projects.
+- **Adopters:**
+   - Use the OpenEBS product without contributing to the project. An adopter has  authority to raise issues, participate in discussions on sub projects with a public forum.
 <BR>
 
 
