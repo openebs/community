@@ -7,7 +7,22 @@
 <BR>
 
 ## See Also
-* [OpenEBS Vision: Project Vision](VISION.md}; Values; Mission Statement and Scope; Restraints; Conformance
+* [Project Vision:](./VISION.md} | Values: Mission Statement and Scope | Restraints: Conformance
+
+<BR>
+[Project Vision:](VISION.md} <BR>
+[Project Vision:](./VISION.md} <BR>
+[Project Vision:](../VISION.md} <BR>
+[Project Vision:](../wip/VISION.md} <BR>
+[Project Vision:](wip/VISION.md} <BR>
+[Project Vision:](/community/wip/VISION.md} <BR>
+[Project Vision:](community/wip/VISION.md} <BR>
+[Project Vision:](/openebs/community/wip/VISION.md} <BR>
+[Project Vision:](/wip/VISION.md} <BR>
+[Project Vision:](community/edit/develop/wip/GOVERNANCE.md} <BR>
+[Project Vision:](https://github.com/openebs/community/edit/develop/wip/VISION.md} <BR>
+
+<BR>
 
 ## Steering Committee, Maintainers, Contributors and Adopters
 The OpenEBS project has four roles:
