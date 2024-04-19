@@ -5,12 +5,11 @@
 
 There are many ways you can contribute to OpenEBS:
 <BR>
-> :blush:
->:arrow_forward:
 
 ## Ask a question
 If you have questions about using OpenEBS, please use the OpenEBS Kubernetes slack channel, it is open for anyone to ask a question:
-:arrow_forward: [OpenEBS Kubernetes Slack channel](https://kubernetes.slack.com/messages/openebs/)
+<BR>
+>:arrow_forward:[OpenEBS Kubernetes Slack channel](https://kubernetes.slack.com/messages/openebs/)
 ## Report a product issue
 
 If you have a problem using OpenEBS, first check the [troubleshooting guide](https://openebs.io/docs/troubleshooting), you can also ask a question in the OpenEBS Kubernetes Slack channel.
@@ -18,9 +17,9 @@ If you have a problem using OpenEBS, first check the [troubleshooting guide](htt
 If you have an issue not solved by the troubleshooting guide or by asking a question in Slack, first check the GitHub issue list to see if the issue is already recorded, then add a New Issue. 
 
 We use a centralized GitHub issue tracker for all product issues:
-
-► [OpenEBS Product Issues](https://github.com/openebs/openebs/issues)
-
+<BR>
+>:arrow_forward:[OpenEBS Product Issues](https://github.com/openebs/openebs/issues)
+<BR>
 When raising issues, please specify the following:
 
 
