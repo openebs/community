@@ -4,6 +4,9 @@
 <BR>
 
 There are many ways you can contribute to OpenEBS:
+<BR>
+> :blush:
+>:arrow_forward:
 
 ## Ask a question
 If you have questions about using OpenEBS, please use the OpenEBS Kubernetes slack channel, it is open for anyone to ask a question:
