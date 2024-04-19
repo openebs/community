@@ -26,7 +26,7 @@ The OpenEBS project has four roles:
 > :zap: &nbsp; Vishnu Attur | @avishnu <BR>
 > :sunglasses: &nbsp; Tiago Castor | @tiagolobocastro <BR>
 <BR>
-
+---
 
 These roles are described in more detail below:
 
