@@ -18,14 +18,13 @@ The OpenEBS project has four roles:
 <BR>
 
 
-> **This community** is managed by the OpenEBS Admins, Maintainers and Senior leaders of the OpenEBS project team.
+> **This community** is managed by the OpenEBS Admins, Maintainers and Senior leaders of the project team.
 > <BR>
 >
-> :rocket: &nbsp; Ed Robinson | @edrob999 <BR>
-> :star: &nbsp; David Brace | @orville-wright <BR>
-> :zap: &nbsp; Vishnu Attur | @avishnu <BR>
+> :rocket: &nbsp; Ed Robinson      | @edrob999 <BR>
+> :star: &nbsp; David Brace        | @orville-wright <BR>
+> :zap: &nbsp; Vishnu Attur        | @avishnu <BR>
 > :sunglasses: &nbsp; Tiago Castor | @tiagolobocastro <BR>
-<BR>
 ---
 
 These roles are described in more detail below:
