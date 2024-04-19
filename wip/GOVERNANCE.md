@@ -7,7 +7,7 @@
 <BR>
 
 ## See Also
-* OpenEBS Vision: Project Vision; Values; Mission Statement and Scope; Restraints; Conformance
+* [OpenEBS Vision: Project Vision](VISION.md}; Values; Mission Statement and Scope; Restraints; Conformance
 
 ## Steering Committee, Maintainers, Contributors and Adopters
 The OpenEBS project has four roles:
