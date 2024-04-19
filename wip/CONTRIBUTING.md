@@ -9,7 +9,7 @@ There are many ways you can contribute to OpenEBS:
 ## Ask a question
 If you have questions about using OpenEBS, please use the OpenEBS Kubernetes slack channel, it is open for anyone to ask a question:
 <BR>
->:arrow_forward: [OpenEBS Kubernetes Slack channel](https://kubernetes.slack.com/messages/openebs/)
+:arrow_forward: [OpenEBS Kubernetes Slack channel](https://kubernetes.slack.com/messages/openebs/)
 <BR>
 ## Report a product issue
 
@@ -19,7 +19,7 @@ If you have an issue not solved by the troubleshooting guide or by asking a ques
 
 We use a centralized GitHub issue tracker for all product issues:
 <BR>
->:arrow_forward: [OpenEBS Product Issues](https://github.com/openebs/openebs/issues)
+:arrow_forward: [OpenEBS Product Issues](https://github.com/openebs/openebs/issues)
 <BR>
 When raising issues, please specify the following:
 * Summary of the issue
@@ -30,7 +30,7 @@ When raising issues, please specify the following:
 ## Report a documentation issue
 We use the same GitHub issue tracker for documentation issues, with a label for documentation:
 <BR>
->:arrow_forward: [OpenEBS Documentation Issues](https://github.com/openebs/openebs/labels/documentation%2Fdevel)
+:arrow_forward: [OpenEBS Documentation Issues](https://github.com/openebs/openebs/labels/documentation%2Fdevel)
 <BR>
 Issues are triaged and prioritized in the regular community meeting
 
@@ -38,7 +38,7 @@ Issues are triaged and prioritized in the regular community meeting
 ## Report a security issue or vulnerability
 Because of the sensitive nature of security issues (reporting a security issue also alerts bad-actors of the security issue), we ask you report these by emailing the umbrella project maintainers
 <BR>
->:arrow_forward: [Email security issue to OpenEBS maintainers](mailto:cncf-openebs-maintainers@lists.cncf.io)
+:arrow_forward: [Email security issue to OpenEBS maintainers](mailto:cncf-openebs-maintainers@lists.cncf.io)
 <BR>
 After addressing any security issue, they will be discussed in the regular community meeting
 
@@ -53,7 +53,7 @@ Provide PRs with appropriate tags for bug fixes to the source code. For a list o
 
 Refer to this [document](https://github.com/openebs/openebs/blob/main/contribute/design/code-structuring.md) for more information on code structuring and guidelines to follow on the same. You can discuss contributions in our OpenEBS developer Kubernetes Slack Channel:
 <BR>
->:arrow_forward: [OpenEBS DEV Kubernetes Slack Channel](https://kubernetes.slack.com/messages/openebs-dev/)
+:arrow_forward: [OpenEBS DEV Kubernetes Slack Channel](https://kubernetes.slack.com/messages/openebs-dev/)
 <BR>
 
 ## Solve Existing Issues
@@ -61,7 +61,7 @@ Head over to [issues](https://github.com/openebs/openebs/issues) to find issues 
 
 A person looking to contribute can take up an issue by claiming it as a comment/assign their GitHub ID to it. In case there is no PR or update in progress for a week on the said issue, then the issue reopens for anyone to take up again. We need to consider high priority issues/regressions where response time must be a day or so. You can discuss the issue in our OpenEBS developer Kubernetes Slack Channel:
 <BR>
->:arrow_forward: [OpenEBS DEV Kubernetes Slack Channel](https://kubernetes.slack.com/messages/openebs-dev/)
+:arrow_forward: [OpenEBS DEV Kubernetes Slack Channel](https://kubernetes.slack.com/messages/openebs-dev/)
 <BR>
 
 ## Sponsor a new feature or enhancement
@@ -99,11 +99,10 @@ Use your real name (sorry, no pseudonyms or anonymous contributions). If you set
 ## Regular Community Meeting
 
 open EBS hosts a bi-weekly (fortnightly) community meeting on Tuesday 7:00an Americas/Los Angeles time, using the [CNCF's community event platform](https://community.cncf.io/openebs-community/). Please register for the event, prior to the meeting. You'd have to register for the meeting before the actual meeting time.
-
 <BR>
->:arrow_forward: [Add agenda items for the next meeting](https://hackmd.io/tRmnyg9AQPShxFAXOyFpSA?edit)
+:arrow_forward: [Add agenda items for the next meeting](https://hackmd.io/tRmnyg9AQPShxFAXOyFpSA?edit)
 <BR>
->:arrow_forward: [Review minutes from previous meetings](https://hackmd.io/tRmnyg9AQPShxFAXOyFpSA?edit)
+:arrow_forward: [Review minutes from previous meetings](https://hackmd.io/tRmnyg9AQPShxFAXOyFpSA?edit)
 <BR>
 
 ## Other ways to keep in touch
@@ -112,17 +111,17 @@ open EBS hosts a bi-weekly (fortnightly) community meeting on Tuesday 7:00an Ame
 
 You can email the maintainers at any time:
 <BR>
->:arrow_forward: [Email OpenEBS maintainers](mailto:cncf-openebs-maintainers@lists.cncf.io)
+:arrow_forward: [Email OpenEBS maintainers](mailto:cncf-openebs-maintainers@lists.cncf.io)
 
 ### Mailing List
 
 OpenEBS announces new features and enhancements to an CNCF email group
 <BR>
->:arrow_forward: [CNCF OpenEBS announcements](https://lists.cncf.io/g/cncf-openebs-announcements)
-
+:arrow_forward: [CNCF OpenEBS announcements](https://lists.cncf.io/g/cncf-openebs-announcements)
 
 ### Social Media
+Social media links
 <BR>
->:arrow_forward: [Twitter/X OpenEBS page](https://twitter.com/openebs)
+:arrow_forward: [TwitterX OpenEBS page](https://twitter.com/openebs/)
 <BR>
->:arrow_forward: [LinkedIn OpenEBS page](https://www.linkedin.com/company/openebs)
+:arrow_forward: [LinkedIn OpenEBS page](https://www.linkedin.com/company/openebs/)
