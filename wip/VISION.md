@@ -48,6 +48,7 @@ In the past, the OpenEBS project has tried to accomplish too much. Our scope was
 | 8. | Block, file, Object level ```application``` storage services |
 | 9. | ```Rest API``` for accessing all capabilities |
 | 10. | Storage Reporting, alerting, monitoring, metrics |
+| 11. | Read/Write Access Modes: RWO, ROX, RWOP - (*RWX with specific limitations) | 
 <BR>
 
 > **Out-of-Scope**
