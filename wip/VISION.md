@@ -16,19 +16,19 @@ In this document we present the project:
 **Our Mission Statement:** OpenEBS is a *CNCF project* that provides fast, resilient, available, native, enterprise-grade storage to applications running in *Kubernetes clusters*. 
 
 | Vision | Definiton and description of vision     |
-| :---   | :---                                    |
+| :---       | :---                                    |
 | *CNCF* | OpenEBS is an open source project operating within CNCF Storage Landscape guidelines, and is focused on achieving ```Graduated Level``` status.   |
-| *Pesona* | Multiple storage services and operating modes; ```Node Local```, ```Fabric Attached```, ```Replicated```, ```Non-Replicated```, ```Protected``` and ```non-protected``` storage.  |
+| *Persona* | Multiple storage services covering the follwing operating modes; ```Node Local```, ```Fabric Attached```, ```Replicated```, ```Non-Replicated```, ```Protected``` and ```non-protected``` storage.  |
 | *Fast* | Optimized multiple storage drivers and storage media types, with a particular focus on Solid State Flash media.  |
 | *Resilient* | Storage is highly resilent and self-healing. Reads and writes are protected even as containers or nodes are terminated. Volumes and Data Writes can be replicated across nodes via replication. Snapshots and cloning providing additional levelsof tolerance,  resilance & self-healing. |
 | *Available* | Storage attached to one node can be made addressible to applications running on any node within the cluster through a ```“Nexus” Virtual SAN Fabric``` (i.e. Block mode Storage Area Network). |
-| *Native* | Implemented as “container native storage”, a Kubernetes netively integrated component, optimized for storage contained inside a Kubernetes cluster. (Hyper converged). |
+| *Native* | Implemented as ```container native storage```, a Kubernetes netively integrated component, optimized for storage contained inside a Kubernetes cluster. (Hyper converged). |
 | *Enterprise grade* | A fully featured, community proven, rigorously tested, trustworthy, Mission Critical product. |
-| *Kubernetes*: OpenEBS focus is for Kubernetes on Linux. |
+| *Kubernetes* | OpenEBS focus is for Kubernetes on Linux. |
 <BR>
 
-| [!IMPORTANT]
->With OpenEBS users can attach an storage media (any block-mode storage device) to a node, and assign it to be managed by OpenEBS; where the system can be configurred to provide access to provisioned Storage volumes across any container within the cluster. You can address block devices across nodes and create volume snapshots/clones. You can set up Highly flexible local volumes and expand the volume and filesystem while online. You can trust OpenEBS whether you are a hobbyist programmer, small business or large enterprise. 
+> [!IMPORTANT]
+> With OpenEBS users can attach an storage media (any block-mode storage device) to a node, and assign it to be managed by OpenEBS; where the system can be configurred to provide access to provisioned Storage volumes across any container within the cluster. You can address block devices across nodes and create volume snapshots/clones. You can set up Highly flexible local volumes and expand the volume and filesystem while online. You can trust OpenEBS whether you are a hobbyist programmer, small business or large enterprise. 
 <BR>
 
 ### Scope
