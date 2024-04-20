@@ -89,7 +89,7 @@ The OpenEBS project produces the OpenEBS Standard product. Many vendors have inc
 The OpenEBS project and CNCF recognize the importance of supporting this, and maintain a conformance program for vendors to use OpenEBS technology and OpenEBS marks.
 
 ## Rules and Governance
-The [OpenEBS GitHub organization](https://github.com/openebs) has multiple repositories, for the purpose of organizing project information, source code, assets, Intellectual property (IP) and resources. Every repository in the organization follows the same set of  “umbrella” Project Rules and [Governance](./GOVERNANCE.md). All community wide infomation  is located in the [OpenEBS Community Repository](../../community/).
+The [OpenEBS GitHub organization](https://github.com/openebs) has multiple repositories, for the purpose of organizing project information, source code, assets, Intellectual property (IP) and resources. Every repository in the organization follows the same set of  “umbrella” Project Rules and [Governance](./GOVERNANCE.md). All community wide infomation  is located in the [OpenEBS Community Repository](https://github.com/openebs/community).
 
 
 ## Archvie Organization
