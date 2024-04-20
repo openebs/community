@@ -66,7 +66,7 @@ In the past, the OpenEBS project has tried to accomplish too much. Our scope was
 ---
 
 ## Values
-The OpenEBS project and its leadership embrace the values of CNCF: [https://github.com/kubernetes/community/blob/master/values.md](https://github.com/kubernetes/community/blob/master/values.md)
+The OpenEBS project and its leadership embrace the [values of CNCF](https://github.com/kubernetes/community/blob/master/values.md)
 
 ## Restraints
 OpenEBS is a self-governing project, and operates within the following restraints:
@@ -89,7 +89,7 @@ The OpenEBS project produces the OpenEBS Standard product. Many vendors have inc
 The OpenEBS project and CNCF recognize the importance of supporting this, and maintain a conformance program for vendors to use OpenEBS technology and OpenEBS marks.
 
 ## Rules and Governance
-The [OpenEBS GitHub organization](https://github.com/openebs) has multiple repositories, for the purpose of organizing project information, source code, assets, Intellectual property (IP) and resources. Every repository in the organization follows the same set of  “umbrella” Project Rules and [Governance](./GOVERNANCE). All community wide infomation  is located in the [OpenEBS Community Repository](../../community/).
+The [OpenEBS GitHub organization](https://github.com/openebs) has multiple repositories, for the purpose of organizing project information, source code, assets, Intellectual property (IP) and resources. Every repository in the organization follows the same set of  “umbrella” Project Rules and [Governance](./GOVERNANCE.md). All community wide infomation  is located in the [OpenEBS Community Repository](../../community/).
 
 
 ## Archvie Organization
@@ -97,4 +97,4 @@ The [OpenEBS GitHub organization](https://github.com/openebs) has multiple repos
 > The OpenEBS project Leadership/Maintainers also administer the affiliated [**OpenEBS-archive organization**](https://github.com/openebs-archive). <BR>
 > 1. This parallel organization is **OWNED by CNCF** and administrated as a reference archive for OpenEBS ```Legacy``` and ```Deprecated``` OpenEBS repositories, assets, IP, source code, dependancies and rescources. <BR>
 > 2. From time to time, we reserve then right to selectively Deprecate and Archive OpenEBS components and  physically migrate them ```**out-of**``` the OpenEBS Parent project; and into the Archive organization. This process **officially removes** those OpenEBS components from the parent OpenEBS project/product. All entites held within the Archive org are **NO LONGER** an active component of the OpenEBS Parent project/product. <BR>
-> 3. The Archvie org is **NOT** intended for active code or community contributions. The [Proejct Rules and Governance](./GOVERNANCE) also apply to the OpenEBS-archive organization, unless explicitly stated otherwise in the OpenEBS-archive organization README. <BR>
+> 3. The Archvie org is **NOT** intended for active code or community contributions. The [Proejct Rules and Governance](./GOVERNANCE.md) also apply to the OpenEBS-archive organization, unless explicitly stated otherwise in the OpenEBS-archive organization README. <BR>
