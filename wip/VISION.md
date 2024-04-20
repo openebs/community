@@ -80,7 +80,7 @@ OpenEBS is a self-governing project, and operates within the following restraint
 > [!IMPORTANT]
 > * OpenEBS was created by MayaData (now part of DataCore Software, Inc.), and donated to CNCF in 2019
 > * DataCore engineers contribute a majority of the contributors, program management, Engineering, Dev, QA rescources as well as considerbale funding to the daily operations of the project.
-> * The project requires multiple Full-Time ```Subject Matter Experts```, Full-Time storage engineers and Full-Time QA Engineers/testers. While the project requires this commitment, it is expected DataCore engineers may be be a majority of the contributing Eng/Dev/QA/PM community.
+> * The project requires multiple Full-Time ```Subject Matter Experts```, Full-Time storage engineers and Full-Time QA Engineers/testers. While the project requires this commitment, it is expected DataCore engineers may be a majority of the contributing Eng/Dev/QA/PM community.
 > * OpenEBS is a community project, and DataCore has been and continues to be a significant part of the community 
 
 ## Conformance
@@ -89,6 +89,12 @@ The OpenEBS project produces the OpenEBS Standard product. Many vendors have inc
 The OpenEBS project and CNCF recognize the importance of supporting this, and maintain a conformance program for vendors to use OpenEBS technology and OpenEBS marks.
 
 ## Rules and Governance
-The OpenEBS GitHub organization (https://github.com/openebs) has multiple repositories, for the purpose of organizing information, source code, assets, Intellectual property (IP) and resources. Every repository in the organization follows the same set of  “umbrella” Rules and Governance; which is located in the [OpenEBS Community Repository](GOVERNANCE).
+The [OpenEBS GitHub organization](https://github.com/openebs) has multiple repositories, for the purpose of organizing project information, source code, assets, Intellectual property (IP) and resources. Every repository in the organization follows the same set of  “umbrella” Project Rules and [Governance](./GOVERNANCE). All community wide infomation  is located in the [OpenEBS Community Repository](../../community/).
 
-The OpenEBs project also co-administeres the affiliated [**OpenEBS-archive organization**](https://github.com/openebs-archive). This organization is **OWNED by CNCF** and administrated as a reference archive for ```legacy``` and ```deprecated``` repositories. It is not intended for active code or community contributions.. The OpenEBS Rules and Governance also apply to the OpenEBS-archive organization, unless explicitly stated otherwise in the OpenEBS-archive organization README. 
+
+## Archvie Organization
+> [!IMPORTANT]
+> The OpenEBS project Leadership/Maintainers also administer the affiliated [**OpenEBS-archive organization**](https://github.com/openebs-archive). <BR>
+> 1. This parallel organization is **OWNED by CNCF** and administrated as a reference archive for OpenEBS ```Legacy``` and ```Deprecated``` OpenEBS repositories, assets, IP, source code, dependancies and rescources. <BR>
+> 2. From time to time, we reserve then right to selectively Deprecate and Archive OpenEBS components and  physically migrate them ```**out-of**``` the OpenEBS Parent project; and into the Archive organization. This process **officially removes** those OpenEBS components from the parent OpenEBS project/product. All entites held within the Archive org are **NO LONGER** an active component of the OpenEBS Parent project/product. <BR>
+> 3. The Archvie org is **NOT** intended for active code or community contributions. The [Proejct Rules and Governance](./GOVERNANCE) also apply to the OpenEBS-archive organization, unless explicitly stated otherwise in the OpenEBS-archive organization README. <BR>
