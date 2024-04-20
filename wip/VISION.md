@@ -72,14 +72,16 @@ The OpenEBS project and its leadership embrace the values of CNCF: [https://gith
 OpenEBS is a self-governing project, and operates within the following restraints:
 
 ### CNCF
-* OpenEBS is a CNCF (Cloud Native Computing Foundation) project. The project is open source, and operations are governed by CNCF rules set up for CNCF projects. 
-* The OpenEBS project adds domain-specific Governance, Contribution and operating rules on top of the CNCF rules. We provide for exceptions from the CNCF rules if approved by CNCF Technical Oversight Committee (TOC)
+* OpenEBS is a CNCF (Cloud Native Computing Foundation) project. 
+* The OpensEBS project is open source, and operations are governed by CNCF rules set up for CNCF projects.
+* The OpenEBS project adds ```domain-specific Governance```, ```Contribution``` and ```operating rules``` on **top of the CNCF rules**. We provide for exceptions from the CNCF rules if approved by CNCF Technical Oversight Committee (TOC).
 
 ### DataCore
-* OpenEBS was created by MayaData (now part of DataCore), and donated to CNCF in 2019
-* DataCore engineers contribute a majority of the contributors and program management to the project
-* The project requires multiple full-time engineers and full-time testers. While the project requires this commitment, it is expected DataCore engineers will continue to be the primary contributors.
-* OpenEBS is a community project, and DataCore has been and continues to be a significant part of the community 
+> [!IMPORTANT]
+> * OpenEBS was created by MayaData (now part of DataCore Software, Inc.), and donated to CNCF in 2019
+> * DataCore engineers contribute a majority of the contributors, program management, Engineering, Dev, QA rescources as well as considerbale funding to the daily operations of the project.
+> * The project requires multiple Full-Time ```Subject Matter Experts```, Full-Time storage engineers and Full-Time QA Engineers/testers. While the project requires this commitment, it is expected DataCore engineers may be be a majority of the contributing Eng/Dev/QA/PM community.
+> * OpenEBS is a community project, and DataCore has been and continues to be a significant part of the community 
 
 ## Conformance
 The OpenEBS project produces the OpenEBS Standard product. Many vendors have incorporated, or wish to incorporate a version of OpenEBS as a component within their own product offering, including Microsoft Azure, DataCore and Civo. 
@@ -87,6 +89,6 @@ The OpenEBS project produces the OpenEBS Standard product. Many vendors have inc
 The OpenEBS project and CNCF recognize the importance of supporting this, and maintain a conformance program for vendors to use OpenEBS technology and OpenEBS marks.
 
 ## Rules and Governance
-The OpenEBS GitHub organization has multiple repositories, for the purpose of organizing information, source code and resources. Every repository in the organization follows the same set of  “umbrella” Rules and Governance located in the OpenEBS Community Repository.
+The OpenEBS GitHub organization (https://github.com/openebs) has multiple repositories, for the purpose of organizing information, source code, assets, Intellectual property (IP) and resources. Every repository in the organization follows the same set of  “umbrella” Rules and Governance; which is located in the [OpenEBS Community Repository](GOVERNANCE).
 
-The OpenEBs project also maintains the OpenEBS-archive organization. This is a reference archive for legacy and deprecated repositories, and is not intended for active code contributions. The OpenEBS Rules and Governance also apply to the OpenEBS-archive organization, unless explicitly stated otherwise in the OpenEBS-archive organization README. 
+The OpenEBs project also co-administeres the affiliated [**OpenEBS-archive organization**](https://github.com/openebs-archive). This organization is **OWNED by CNCF** and administrated as a reference archive for ```legacy``` and ```deprecated``` repositories. It is not intended for active code or community contributions.. The OpenEBS Rules and Governance also apply to the OpenEBS-archive organization, unless explicitly stated otherwise in the OpenEBS-archive organization README. 
