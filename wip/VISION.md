@@ -72,14 +72,14 @@ The OpenEBS project and its leadership embrace the [values of CNCF](https://gith
 OpenEBS is a self-governing project, and operates within the following restraints:
 
 ### CNCF
-* OpenEBS is a CNCF (Cloud Native Computing Foundation) project. 
+* OpenEBS is a [CNCF (Cloud Native Computing Foundation)](https://cncf.io) project. 
 * The OpensEBS project is open source, and operations are governed by CNCF rules set up for CNCF projects.
 * The OpenEBS project adds ```domain-specific Governance```, ```Contribution``` and ```operating rules``` on **top of the CNCF rules**. We provide for exceptions from the CNCF rules if approved by CNCF Technical Oversight Committee (TOC).
 
 ### DataCore
 > [!IMPORTANT]
-> * OpenEBS was created by MayaData (now part of DataCore Software, Inc.), and donated to CNCF in 2019
-> * DataCore engineers contribute a majority of the contributors, program management, Engineering, Dev, QA rescources as well as considerbale funding to the daily operations of the project.
+> * OpenEBS was created by MayaData (now part of [DataCore Software, Inc.](https://datacore.com) ), and donated to [CNCF](https://cncf.io) in 2019.
+> * DataCore engineers contribute a majority of the contributions, program management, Engineering, Dev, QA rescources as well as considerbale infrastructure funding to the daily operations of the project.
 > * The project requires multiple Full-Time ```Subject Matter Experts```, Full-Time storage engineers and Full-Time QA Engineers/testers. While the project requires this commitment, it is expected DataCore engineers may be a majority of the contributing Eng/Dev/QA/PM community.
 > * OpenEBS is a community project, and DataCore has been and continues to be a significant part of the community 
 
