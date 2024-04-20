@@ -18,9 +18,9 @@ In this document we present the project:
 | Vision | Definiton and description of vision     |
 | :---       | :---                                    |
 | *CNCF* | OpenEBS is an open source project operating within CNCF Storage Landscape guidelines, and is focused on achieving ```Graduated Level``` status.   |
-| *Persona* | Multiple storage services covering the follwing operating modes; ```Node Local```, ```Fabric Attached```, ```Replicated```, ```Non-Replicated```, ```Protected``` and ```non-protected``` storage.  |
+| *Persona* | Multiple storage services covering the follwing operating modes; ```Node Local```, ```Fabric Attached```, ```Replicated```, ```Non-Replicated```, ```Protected``` and ```non-protected```, ```Highly Available``` storage.  |
 | *Fast* | Optimized multiple storage drivers and storage media types, with a particular focus on Solid State Flash media.  |
-| *Resilient* | Storage is highly resilent and self-healing. Reads and writes are protected even as containers or nodes are terminated. Volumes and Data Writes can be replicated across nodes via replication. Snapshots and cloning providing additional levelsof tolerance,  resilance & self-healing. |
+| *Resilient* | Storage is highly resilent and self-healing. Reads and writes are protected even as containers or nodes are terminated. Volumes and Data Writes can be replicated across nodes via replication. Snapshots and cloning provide additional levels of tolerance,  resilance & self-healing. |
 | *Available* | Storage attached to one node can be made addressible to applications running on any node within the cluster through a ```“Nexus” Virtual SAN Fabric``` (i.e. Block mode Storage Area Network). |
 | *Native* | Implemented as ```container native storage```, a Kubernetes netively integrated component, optimized for storage contained inside a Kubernetes cluster. (Hyper converged). |
 | *Enterprise grade* | A fully featured, community proven, rigorously tested, trustworthy, Mission Critical product. |
@@ -32,27 +32,38 @@ In this document we present the project:
 <BR>
 
 ### Scope
-In the past, the OpenEBS project has tried to accomplish too much. We are explicitly naming the following capabilities as in-scope and out-of-scope for the project:
+In the past, the OpenEBS project has tried to accomplish too much. Our scope was too broad and not clearly defined enouigh for our community. We are explicitly naming the following capabilities as ```in-scope``` and ```out-of-scope``` for the project:
 
-**In Scope**
-* OpenEBS Standard product, with installation via Helm charts for Kubernetes
-* Non-replicated (local) and replicated (distributed) block-level storage
-* Block mode storage integration
-* Filesystem integration (Kernel, FUSE)
-* Object Storage 
-* Container-wide storage vSAN fabric
-* Block-level and file-level storage Data Mgmt capabilities
-* Rest API for accessing all capabilities
+> **In Scope** <BR>
 
-**Out-of-Scope**
-* Updates to legacy/duplicated storage drivers (archived in the OpenEBS-archive organization)
-* Graphical user interface for setup, administration, reporting, dashboards
-* Vendor-specific proprietary integrations, including vendor-specific cloud hosting integrations and optimizations
-* Vendor-specific authentication, authorization, key management
-* Application-level optimizations and Storage operations beyond what is provided in the file system and kernel drivers (the OpenEBS project does not improve upon or develop our own file systems, nor do we add optimization capabilities)
+| Item  | Scope and description     |
+| :---: | :---                      |
+| 1. | OpenEBS Standard product, with installation via Helm charts for Kubernetes |
+| 2. | ```Block mode``` storage managment and integration |
+| 3. | ```Local``` and ```Fabric Addressible``` block-mode storage services |
+| 4. | ```Non-replicated``` (Single Node resident) and ```Replicated``` (Multi-Node Distributed) block-level storage |
+| 5. | ```Filesystem``` integrations (Kernel, FUSE) |
+| 6. | ```Object Storage``` integrations (Product Native and 3rd party) |
+| 7. | Cluster-wide storage ```vSAN Fabric``` (Block mode) |
+| 8. | Block, file, Object level ```application``` storage services |
+| 9. | ```Rest API``` for accessing all capabilities |
+| 10. | Storage Reporting, alerting, monitoring, metrics |
+<BR>
 
-Any Issues, Pull Requests, feature requests (OEP’s), contributions, and roadmap requests will be evaluated against these scopes, and OpenEBS mission statement.
+> **Out-of-Scope**
 
+| Item  | Scope and description     |
+| :---: | :---                      |
+| 1. | Updates to legacy/duplicated storage drivers (archived in the OpenEBS-archive organization) |
+| 2. | Graphical user interface for setup, administration, reporting, dashboards |
+| 3. | Vendor-specific proprietary integrations, including vendor-specific cloud hosting integrations and optimizations |
+| 4. | Vendor-specific authentication, authorization, key management |
+| 5. | Application-level optimizations and Storage operations beyond what is provided in the file system and kernel drivers (the OpenEBS  project does not improve upon or develop our own file systems, nor do we add optimization capabilities)
+<BR>
+
+**ALL** Issues, Pull Requests, feature requests (OEP’s), contributions, and roadmap requests will be evaluated against these scopes, and OpenEBS mission statement.
+
+---
 
 ## Values
 The OpenEBS project and its leadership embrace the values of CNCF: [https://github.com/kubernetes/community/blob/master/values.md](https://github.com/kubernetes/community/blob/master/values.md)
