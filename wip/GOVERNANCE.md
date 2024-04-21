@@ -5,7 +5,7 @@
 > [!Important]
 > This document is: OpenEBS Project Governance. OpenEBS is an umbrella project,  composed as a federation of individual sub projects (repositories). This document applies to both the umbrella project and to every sub-project in the OpenEBS organization.
 ### Key references docs:
-> [Project Vision](./VISION) &nbsp; | &nbsp; [Values: Mission Statement and Scope](./VISION.md#vision-mission-statement-and-scope) &nbsp; | &nbsp; [Restraints](./VISION.md#restraints) &nbsp; | [Conformance](./VISION.md#conformance) &nbsp; | &nbsp; [Contributing: ](./CONTRIBUTING)
+> [Project Vision](./VISION.md) &nbsp; | &nbsp; [Values: Mission Statement and Scope](./VISION.md#vision-mission-statement-and-scope) &nbsp; | &nbsp; [Restraints](./VISION.md#restraints) &nbsp; | [Conformance](./VISION.md#conformance) &nbsp; | &nbsp; [Contributing: ](./CONTRIBUTING.md)
 ---
 <BR>
 
