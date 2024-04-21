@@ -49,7 +49,7 @@ In the past, the OpenEBS project has tried to accomplish too much. Our scope was
 | 9. | ```Rest API``` and ```Cli``` for accessing all capabilities |
 | 10. | Storage Reporting, alerting, monitoring, metrics |
 | 11. | Read/Write Access Modes for RWO, ROX, RWOP - (*RWX with strict limitations) |
-| 12. | Deployable as ```On-premiss```, ```SaaS/PaaS in-cloud```, ```Bare Metal```, ```HyperVisor``` hosted | 
+| 12. | Deployable as ```On-premise```, ```SaaS/PaaS in-cloud```, ```Bare Metal```, ```HyperVisor``` infrastructure | 
 <BR>
 
 > **Out-of-Scope**
@@ -80,7 +80,7 @@ OpenEBS is a self-governing project, and operates within the following restraint
 
 
 [![CNCF logo](/images/CNCF_member-silver-color.svg)](https://www.datacore.com/)
-DataCore, Inc is a CNCF Silver member. DataCore support's CNCF extensively and funds all OpenEBS CNCF events. The project team is managed under the CNCF Storage Landscape and contributes to the CNCF CSI and TAG Storage project initiatives. We proudly support CNCF Cloud Native Community Groups initatives.<BR>
+DataCore, Inc is a CNCF Silver member. DataCore support's CNCF extensively and funds all OpenEBS CNCF events. The project team is managed under the CNCF Storage Landscape and contributes to the CNCF CSI and TAG Storage project initiatives at the CNCF membership level that funding allows. OpenEBS proudly supports CNCF Cloud Native Community Groups initatives.<BR>
 <BR>
 
 
@@ -96,9 +96,10 @@ DataCore, Inc is a CNCF Silver member. DataCore support's CNCF extensively and f
 > * OpenEBS is a community project, and DataCore has been and continues to be a significant part of the community 
 
 ## Conformance
-The OpenEBS project produces the OpenEBS Standard product. Many vendors have incorporated, or wish to incorporate a version of OpenEBS as a component within their own product offering, including Microsoft Azure, DataCore and Civo. 
+The OpenEBS project produces the OpenEBS product referred to as **```Open Source STANDARD```** (OSS).<BR>
+Many commercial and non-commerical vendors have incorporated, or wish to incorporate a version of OpenEBS as a component or integrated service within their own product offering, including Microsoft Azure, DataCore and Civo. [see ADOPTERS file](https://github.com/openebs/openebs/blob/main/ADOPTERS.md)
 
-The OpenEBS project and CNCF recognize the importance of supporting this, and maintain a conformance program for vendors to use OpenEBS technology and OpenEBS marks.
+The OpenEBS project and CNCF recognize the importance of supporting this, and maintain a conformance program for vendors to use OpenEBS technology, and OpenEBS marks.
 
 ## Rules and Governance
 The [OpenEBS GitHub organization](https://github.com/openebs) has multiple repositories, for the purpose of organizing project information, source code, assets, Intellectual property (IP) and resources. Every repository in the organization follows the same set of  “umbrella” Project Rules and [Governance](./GOVERNANCE.md). All community wide infomation  is located in the [OpenEBS Community Repository](https://github.com/openebs/community).
