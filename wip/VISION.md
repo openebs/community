@@ -41,21 +41,22 @@ In the past, the OpenEBS project has tried to accomplish too much. Our scope was
 | 1. | OpenEBS Standard product, with installation via Helm charts for Kubernetes |
 | 2. | ```Block mode``` storage managment and integration |
 | 3. | ```Local``` and ```Fabric Addressible``` block-mode storage services |
-| 4. | ```Non-replicated``` (Single Node resident) and ```Replicated``` (Multi-Node Distributed) block-level storage |
+| 4. | ```Non-replicated``` (Single Node resident vol) and ```Replicated``` (Multi-Node Distributed vol) block-level storage |
 | 5. | ```Filesystem``` integrations (Kernel, FUSE) |
 | 6. | ```Object Storage``` integrations (Product Native and 3rd party) |
-| 7. | Cluster-wide storage ```vSAN Fabric``` (Block mode) |
+| 7. | Cluster-wide Block mode storage address space ```vSAN Fabric``` |
 | 8. | Block, file, Object level ```application``` storage services |
-| 9. | ```Rest API``` for accessing all capabilities |
+| 9. | ```Rest API``` and ```Cli``` for accessing all capabilities |
 | 10. | Storage Reporting, alerting, monitoring, metrics |
-| 11. | Read/Write Access Modes: RWO, ROX, RWOP - (*RWX with specific limitations) | 
+| 11. | Read/Write Access Modes for RWO, ROX, RWOP - (*RWX with strict limitations) |
+| 12. | Deployable as ```On-premiss```, ```SaaS/PaaS in-cloud```, ```Bare Metal```, ```HyperVisor``` hosted | 
 <BR>
 
 > **Out-of-Scope**
 
 | Item  | Scope and description     |
 | :---: | :---                      |
-| 1. | Updates to legacy/duplicated storage drivers (archived in the OpenEBS-archive organization) |
+| 1. | Updates to legacy/deprecated storage drivers (archived in the OpenEBS-archive organization) |
 | 2. | Graphical user interface for setup, administration, reporting, dashboards |
 | 3. | Vendor-specific proprietary integrations, including vendor-specific cloud hosting integrations and optimizations |
 | 4. | Vendor-specific authentication, authorization, key management |
@@ -76,6 +77,16 @@ OpenEBS is a self-governing project, and operates within the following restraint
 * OpenEBS is a [CNCF (Cloud Native Computing Foundation)](https://cncf.io) project. 
 * The OpensEBS project is open source, and operations are governed by CNCF rules set up for CNCF projects.
 * The OpenEBS project adds ```domain-specific Governance```, ```Contribution``` and ```operating rules``` on **top of the CNCF rules**. We provide for exceptions from the CNCF rules if approved by CNCF Technical Oversight Committee (TOC).
+
+
+[![CNCF logo](/images/CNCF_member-silver-color.svg)](https://www.datacore.com/)
+DataCore, Inc is a CNCF Silver member. DataCore support's CNCF extensively and funds all OpenEBS CNCF events. The project team is managed under the CNCF Storage Landscape and contributes to the CNCF CSI and TAG Storage project initiatives. We proudly support CNCF Cloud Native Community Groups initatives.<BR>
+<BR>
+
+
+| <img  alt="Container Storage Interface group" align="left" src="/images/CNCF_csi-horizontal-color_2024.png" width="320" /> | <img alt="Storage Technical Advisory Group" align="center" src="/images/CNCF_tag-storage-horizontal-color_2024.png" width="320" /> | &emsp; &emsp; <img alt="Cloud Native Community Groups" align="right" src="/images/CNCF_cncg-icon-color_2024.png" width="200" /> |
+| :---         |     :---:      |          ---: |
+
 
 ### DataCore
 > [!IMPORTANT]
