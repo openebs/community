@@ -5,7 +5,7 @@
 > [!Important]
 > This document is: OpenEBS Project Governance. OpenEBS is an umbrella project,  composed as a federation of individual sub projects (repositories). This document applies to both the umbrella project and to every sub-project in the OpenEBS organization.
 ### Key references docs:
-> [Project Vision](./VISION.md) &nbsp; | &nbsp; [Values: Mission Statement and Scope](./VISION.md#scope ) &nbsp; | &nbsp; [Restraints](./VISION.md#restraints) &nbsp; | [Conformance](./VISION.md#conformance) &nbsp; | &nbsp; [Contributing: ](./CONTRIBUTING.md)
+> [Project Vision](./VISION.md) &nbsp; | &nbsp; [Values: Mission Statement and Scope](./VISION.md#vision-mission-statement-and-scope ) &nbsp; | &nbsp; [Restraints](./VISION.md#restraints) &nbsp; | &nbsp; [Conformance](./VISION.md#conformance) &nbsp; | &nbsp; [Contributing: ](./CONTRIBUTING.md)
 ---
 <BR>
 
@@ -16,7 +16,7 @@ The OpenEBS project has four roles:<BR>
 | Level | Member type | Example description, scope and role |
 | :---  | :--- | :--- |
 | 1     | **Steering Committee** | Sets project governance, operating guidelines and provides oversight. Steering committee members are elected or removed by the current steering committee. Steering Committee members authority applies to the OpenEBS organization and every sub-project in the organization. |
-| 2     | **Maintainers** | Roadmap, contribution guidelines, Review, Approve/Reject, Merge, Manage repos. Maintainers are elected or removed by the current maintainers, appointed or removed by the steering committee. A maintainer’s authority applies to the OpenEBS organization and every sub-project in the organization (unless they have been appointed as a [special maintainer](#special-projects-and-special-maintainers) |
+| 2     | **Maintainers** | Roadmap, contribution guidelines, Review, Approve/Reject, Merge, Manage repos. Maintainers are elected or removed by the current maintainers, appointed or removed by the steering committee. A maintainer’s authority applies to the OpenEBS organization and every sub-project in the organization; unless they have been appointed as a [special maintainer](#special-projects-and-special-maintainers) |
 | 3     | **Contributors:** | Contribute code, testing, documentation to the project. A contributor’s authority applies to one or more sub projects. |
 | 4     | **Adopters:** | Use the OpenEBS product without contributing to the project. An adopter has  authority to raise issues, participate in discussions on sub projects with a public forum. |
 
