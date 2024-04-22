@@ -3,35 +3,46 @@
 >This document is: OpenEBS Contributing Guidelines. OpenEBS is an umbrella project,  composed as a federation of individual sub projects (repositories). This document applies to the umbrella project, every sub project and repository in the OpenEBS organization.
 <BR>
 
-There are many exciting ways you can contribute to OpenEBS. <BR>
-- We are a large GutHub project that consts of many active members operating globally, across all timezones, 24 x 7 x 365.
-- There are may differnt methods, processes, forums and project tools to continute via 
-- This means that contrinuting can be a little scary at times (like many large CNCF Open source GitHub hosted projects). <BR>
-- If you are unsure or afraid of anything, just ask via Slack, Discussion or Issue. / Its simple.
+There are many exciting ways you can contribute to OpenEBS  ❤️. <BR>
+- We are a large GitHub project that consists of many active members operating globally, across all time zones, 24 x 7 x 365.
+- There are many different methods, processes, forums, and project tools to use when contributing. 
+- This means that contributing can be a little scary at times (like many large CNCF Open source GitHub hosted projects). <BR>
+- If you are unsure or afraid of anything, just ask via Slack, Discussion, or Issue. // It’s simple.
 
-This doccuemnt will help guide your experience to provide you with the best and most efficent interaction possible. 
+This document will help guide your experience to provide you with the best and most efficient interaction possible.
+
 
 
 <BR>
 
 
 ## Ask a question :question:
-**Try our Slack channel First**: If you have questions about using OpenEBS, please use the CNCF Kubernetes **OpenEBS slack channel**, it is open for anyone to ask a question:
+**Try our Slack channel First**:  &nbsp; If you have questions about using OpenEBS, please use the CNCF Kubernetes **OpenEBS slack channel**, it is open for anyone to ask a question:
 <BR>
 > :arrow_forward: [OpenEBS Kubernetes Slack channel](https://kubernetes.slack.com/messages/openebs/)
 <BR>
 
+
 # Issues
-```Issues``` are a standard GitHub way of working. GutHub Issues are the 2nd most common way (after Slack) that users interact and contrinute to the project. Working with Issues requries you to make a few simple decisions.
+```Issues``` are a standard way of working and contributing to GitHub projects. GitHub Issues are the** 2nd most** common way (after Slack) that users interact and contribute to the project. Working with Issues requires you to make a few simple decisions.
 - is my issue more of a discussion topic?
 - Does my Issue relate to a Product?
-- Is it an issue that spans Horizontally across the all products?
+- Is it an issue that spans Horizontally across all products?
 - Is my issue related to technology, bugs, product, code?
-- Is my issue more relevant to roadmp, strategy, docs (not technology, bugs, product, code)?
+- Is my issue more relevant to roadmap, strategy, docs (not technology, bugs, product, code)?
 ```ruby
 After this, you're ready to create an Issue and know where to create it.
 ```
 
+<BR>
+
+- ### ```Issues come in 3 basic flavors```
+1. Organizational issues that don't related to products, technology, or code
+   - For this type of issue, [create your issue here](https://github.com/openebs/openebs/issues) 
+3. Issues that span multiple products
+   - For this type of issue, [create your issue here](https://github.com/openebs/openebs/issues)
+4. Issues focused on 1 specific Product
+   - For this type of issue, create your issue in the Issue tab of the correct project/product repo
 <BR>
 
 ### Reporting a product issue
@@ -40,15 +51,15 @@ After this, you're ready to create an Issue and know where to create it.
 If you have a problem using OpenEBS, first check the [troubleshooting guide](https://openebs.io/docs/troubleshooting), you can also ask a question in the CNCF Kubernetes **OpenEBS slack channel**.
 
 > [!NOTE]
-> - Our support and enginering teams ```primarilyy``` focus their spupprt on the **OpenEBS STANDARD** (OSS) [parent parnet](https://github.com/openebs). <BR>
-> - Questions & issues relating to the Legacy Archived, Deprecated & Migrated OpenEBS projects, repos, code & dependancies are **not the focus** or responsibility of the parent OSS project; and may be provided on a ```best effort``` basis by the team. <BR>
+> - Our support and engineering teams ```primarily``` focus their support on the **OpenEBS STANDARD** (OSS) [parent project](https://github.com/openebs). <BR>
+> - Questions & issues relating to the [Legacy Archived, Deprecated & Migrated OpenEBS projects](https://github.com/openebs-archive), repos, code & dependencies are **not the focus** of the parent OSS project; and may be provided on a ```best effort``` basis by the team. <BR>
 > - The OpenEBS slack community provides most of the support for the **Legacy** ```Archived```, ```Deprecated``` & ```Migrated``` OpenEBS projects.
-> - please **```Do Not```** post [```Deprectaed & Archived project```](https://github.com/openebs-archive) Discussions, Issues or PR's into the **OpenEBS STANDARD** (OSS) parent project.
+> - please **```Do Not```** post [```Deprecated & Archived project```](https://github.com/openebs-archive) Discussions, Issues or PR's into the **OpenEBS STANDARD** (OSS) parent project.
 
 
-> If you have an issue not solved by the troubleshooting guide or by asking a question in Slack, first check the GitHub issue list to see if the issue is already recorded, then add a New Issue. 
+> If you have an issue not solved by the troubleshooting guide or by asking a question in Slack, first check the GitHub issue list to see if the issue is already recorded, then add a New Issue.
 
----
+<BR>
 
 We use a centralized GitHub issue tracker for all product issues:
 <BR>
@@ -58,6 +69,8 @@ We use a centralized GitHub issue tracker for all product issues:
 * Expected result and the observed result
 * Errors and log messages
 * Setup details, and steps for reproducing the issue, so a reviewer can easily replicate the issue, and confirm the fix
+
+---
 
 ## Report a documentation issue
 We use the same GitHub issue tracker for documentation issues, with a label for documentation:
@@ -117,8 +130,11 @@ New enhancements are referred to as OpenEBS Enhancement Proposals (OEPs). Anyone
 ---
 
 
-## Sign your work
-- Our Organization enforces **```Developer Certificate of Origin```** (DCO) on all on Pull Requests, as an additional safeguard for the OpenEBS project. This requires all **commit messages** to contain the ```Signed-off-by``` line, with an email address that matches the  commit author name.
+### Sign your work
+<BR>
+
+> [!Important]
+> - Our Organization enforces **```Developer Certificate of Origin```** (DCO) on all on Pull Requests, as an additional safeguard for the OpenEBS project. This requires all **commit messages** to contain the ```Signed-off-by``` line, with an email address that matches the  commit author name.
 
 > - This is a [well established and widely used mechanism](https://github.com/apps/dco) <BR>
 > - DCO assure's contributors have confirmed their right to license their contribution under the project's license. <BR>
