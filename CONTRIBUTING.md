@@ -19,11 +19,12 @@ Please use the following prioritized metholdology to submit contributions:
 <BR>
 
 ## Ask a question :question:
-If you have questions about using OpenEBS, please use the CNCF Kubernetes **OpenEBS slack channel**, it is open for anyone to ask a question:
+**Try our Slack channel First**: If you have questions about using OpenEBS, please use the CNCF Kubernetes **OpenEBS slack channel**, it is open for anyone to ask a question:
 <BR>
 > :arrow_forward: [OpenEBS Kubernetes Slack channel](https://kubernetes.slack.com/messages/openebs/)
 <BR>
-<BR>
+
+
 ## Report a product issue
 
 If you have a problem using OpenEBS, first check the [troubleshooting guide](https://openebs.io/docs/troubleshooting), you can also ask a question in the CNCF Kubernetes **OpenEBS slack channel**.
@@ -32,10 +33,20 @@ If you have a problem using OpenEBS, first check the [troubleshooting guide](htt
 > - Our support and enginering team/community has a ```primary obligation``` to provide priority, focused spupprt for the **OpenEBS STANDARD** (OSS) [parent parnet](https://github.com/openebs) ```only```. <BR>
 > - Questions & issues relating to the Legacy Archived, Deprecated & Migrated OpenEBS projects, repos, code & dependancies are **not the focus** or responsibility of the parent OSS project; and may be provided on a ```best effort``` basis by the team. <BR>
 > - The overall open-source community is the main source of direct support for all **Legacy** ```Archived```, ```Deprecated``` & ```Migrated``` OpenEBS projects.
-> - please **```Do Not```** post Discussions, Issues or PR's on the **OpenEBS STANDARD** (OSS) [parent parnet](https://github.com/openebs).
+> - please **```Do Not```** post [```Deprectaed & Archived project```](https://github.com/openebs-archive) Discussions, Issues or PR's into the **OpenEBS STANDARD** (OSS) parent project.
 
 
-If you have an issue not solved by the troubleshooting guide or by asking a question in Slack, first check the GitHub issue list to see if the issue is already recorded, then add a New Issue. 
+> If you have an issue not solved by the troubleshooting guide or by asking a question in Slack, first check the GitHub issue list to see if the issue is already recorded, then add a New Issue. 
+
+---
+
+```ruby
+The section below is NOT accurate:
+We do not do manage product issues centrally in a unifed umbrella way. See above table for what we actually do.
+This community guidance statement needs a lot of throught and work as we're telling users what/how to do things.
+I dont know if we're going to be able to have 1 Unified ISSUES section at the OpenEBS ORG level
+I dont nown if Eng (T & V) feel that this will work for the team. be good/bad/horrible for Eng/Dev collaboration
+```
 
 We use a centralized GitHub issue tracker for all product issues:
 <BR>
@@ -52,8 +63,13 @@ We use the same GitHub issue tracker for documentation issues, with a label for 
 <BR>
 :arrow_forward: [OpenEBS Documentation Issues](https://github.com/openebs/openebs/labels/documentation%2Fdevel)
 <BR>
-Issues are triaged and prioritized in the regular community meeting
+- Issues are triaged and prioritized in the regular community meeting
+```ruby
+The above link is BROKEN - Please fix: I dont know what it's supposed to be doing or pointing to
+```
+<BR>
 
+---
 
 ## Report a security issue or vulnerability
 Because of the sensitive nature of security issues (reporting a security issue also alerts bad-actors of the security issue), we ask you report these by emailing the umbrella project maintainers
@@ -61,9 +77,21 @@ Because of the sensitive nature of security issues (reporting a security issue a
 :arrow_forward: [Email security issue to OpenEBS maintainers](mailto:cncf-openebs-maintainers@lists.cncf.io)
 <BR>
 After addressing any security issue, they will be discussed in the regular community meeting
-
+```ruby
+Do we really want this to be the only way we handle secrutiy issues?
+I think we want users to SUMBITT an ISSUE at the Parent org or Repo level?
+This is where automated secruity issues trackers post their security failure reports
+```
+<BR>
 
 ## Contribute to Source Code and Bug Fixes
+```ruby
+This section is way out of date and inaccurate.
+What is K8s Demo?
+Why referr to OpenEBS provisioner here? I dont undertsand this?
+I think this needs to be completly writte by T & V
+```
+
 Provide PRs with appropriate tags for bug fixes to the source code. For a list of tags that could be used, see [this](https://github.com/openebs/openebs/blob/main/contribute/labels-of-issues.md).
 
 
@@ -76,9 +104,16 @@ Refer to this [document](https://github.com/openebs/openebs/blob/main/contribute
 :arrow_forward: [OpenEBS DEV Kubernetes Slack Channel](https://kubernetes.slack.com/messages/openebs-dev/)
 <BR>
 
+<BR>
+
 ## Solve Existing Issues
 Head over to [issues](https://github.com/openebs/openebs/issues) to find issues where help is needed from contributors. See our [list of labels guide](https://github.com/openebs/openebs/blob/main/contribute/labels-of-issues.md) to help you find issues that you can solve faster.
-
+```ruby
+Again, this is not accurate. Thee are ORG Issues and Repo Issues.
+We need to discuss out staretgy as to what we are telling the commnuity to do for each type of issue.
+I'm not following the PR (Pull Request) langauge here.
+We want to discourrage users to crate PR's unless they are actively comitted to contributing at the code/eng/dev level
+```
 A person looking to contribute can take up an issue by claiming it as a comment/assign their GitHub ID to it. In case there is no PR or update in progress for a week on the said issue, then the issue reopens for anyone to take up again. We need to consider high priority issues/regressions where response time must be a day or so. You can discuss the issue in our OpenEBS developer Kubernetes Slack Channel:
 <BR>
 :arrow_forward: [OpenEBS DEV Kubernetes Slack Channel](https://kubernetes.slack.com/messages/openebs-dev/)
