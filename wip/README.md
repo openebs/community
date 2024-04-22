@@ -1,7 +1,6 @@
 # Welcome to our community...
-[![OpenEBS Welcome Banner](/images/openebs_community_banner_retro_gamer.png)](https://www.openebs.io/)
-
-## [openebs.io](https://www.openebs.io/)
+<BR>
+This page is for Ed Robinson to hack on and learn GitHub methodology...<BR>
 <BR>
 
 ## Work In Progress (WIP) <BR>
