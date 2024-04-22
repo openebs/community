@@ -136,16 +136,36 @@ New enhancements are referred to as OpenEBS Enhancement Proposals (OEPs). Anyone
 
 
 ## Sign your work
+- Our Organization enforces **```Developer Certificate of Origin```** (DCO) on all on Pull Requests, as an additional safeguard for the OpenEBS project. This requires all **commit messages** to contain the ```Signed-off-by``` line, with an email address that matches the  commit author name.
 
-We use the Developer Certificate of Origin (DCO) as an additional safeguard for the OpenEBS project. This is a well established and widely used mechanism to assure contributors have confirmed their right to license their contribution under the project's license. Please read [developer-certificate-of-origin](https://github.com/openebs/openebs/blob/main/contribute/developer-certificate-of-origin).
+> - This is a [well established and widely used mechanism](https://github.com/apps/dco) <BR>
+> - DCO assure's contributors have confirmed their right to license their contribution under the project's license. <BR>
+> - Please read [developer-certificate-of-origin](https://github.com/openebs/openebs/blob/main/contribute/developer-certificate-of-origin) ```release statement``` to understand what you are **```consenting```** to and **```agreeing```** to adhere to when you create a committ and a PR. <BR>
+> - ALL PR's will automatically have their status set to to **```FAILED```** if any commits in a Pull Request do not contain a valid ```Signed-off-by``` line.
 
-Please certify it by just adding a line to every git commit message. Any PR with Commits which does not have DCO Signoff will not be accepted:
 
- Signed-off-by: Random J Developer &lt;random@developer.example.org>
 
-or use the command git commit -s -m "commit message comes here" to sign-off on your commits.
+You must certify that your committs and PR's are your own work and authourized by you; by adding a line to every git commit message. Any PR with Commits that Do Not have DCO Signoff will not be accepted:<BR>
+<BR>
 
-Use your real name (sorry, no pseudonyms or anonymous contributions). If you set your user.name and user.email git configs, you can sign your commit automatically with git commit -s. You can also use git [aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases) like git config --global alias.ci 'commit -s'. Now you can commit with git ci and the commit will be signed.
+### Examples of how to DCO Sign-off your work...<BR>
+<BR>
+
+> Example of manual DCO signoff commit signature message: <BR>
+> ```Signed-off-by: Random J Developer <random@developer.example.org>```
+>
+> Example of automated git cli command: <BR>
+> ```git commit -s -m "Sign off detraiuls and message. Does not include DCO signature line"```
+> ```ruby
+> NOTE: the cli -s flag will auto add your DCO sign-off signature as a extra line in your committ messsage
+> if you have setup you git Global config correctly.
+> ```
+> :information_source: **```INFO```:** <BR>
+> When using the GitHub Web App, you cannot auto DCO sign-off your committs. Your DCO signatiure line must be manually added each time, in each comitt. This is by design and enforced by the GitHub WebApp.
+
+- Generally accepted GitHub DCO policy requires that all committing users must provide their ```real name``` (sorry, no pseudonyms or anonymous contributions).
+- If you set your ```user.name``` and ```user.email``` git configs, you can DCO sign your commits automatically with ```git commit -s```.
+- You can also use git [aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases) like: ``` git config --global alias.ci 'commit -s' ```. Now you can commit with git ci and the commit will be signed.
 
 
 ---
