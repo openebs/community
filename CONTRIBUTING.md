@@ -3,17 +3,37 @@
 >This document is: OpenEBS Contributing Guidelines. OpenEBS is an umbrella project,  composed as a federation of individual sub projects (repositories). This document applies to both the umbrella project and to every sub project in the OpenEBS organization.
 <BR>
 
-There are many ways you can contribute to OpenEBS:
+There are many ways you can contribute to OpenEBS: <BR>
+```ruby
+Please use the following prioritized metholdology to submit contributions:
+```
+
+| Priority | Type | Description |
+| :---: | :--- | :---        |
+| 1. | Global Slack | CNCF provides the **OpenEBS project** with a [```global Slack support Channel```](https://kubernetes.slack.com/messages/openebs/). All users and community members are welcome to  engage all proejct memebrs via the Slack channel. |
+| 2. | [Org Discussions](https://github.com/orgs/openebs/discussions) | Our GitHub Discussions are enabled at the **Parent OpenEBS** ```Org level``` and aggregate all project/repo discussions into ONE Unified Umbrella scope for the best community discussion experince. Individual projects/repos ```Do Not``` have repos level GitHub discussions enabled.  |
+| 3. | Repo Issues   | Product Issues are managed for each ```individual repo```. You can create/submitt issues as per the normal GitHub methdology & rules. Please choose carefully if you are engaging the team in a [```General Discussion```](https://github.com/orgs/openebs/discussions) or need help with a very specifc **Product ```Issue```**. This will help you get the best community experince. Please create your interactions in the **correct** GitHub forum/tool. |
+| 4 | Repo Projects | We manage some major initiatives via the **GitHub Projects tool**. Users and community members are welcome to contribute, comment and participate in Public projects. Projects are enabled and managed on a per-repo basis. |
+| 5. | Repo PR's | You may engage and contribute via the standard **GitHub PR** ```(Pull Request)``` methodology. PR's are low-level repo/product/component focused engineering process used to manage **```low-level changes to code```**. For the best community experience, ```Do Not``` create PR's for **Discussions**, **Issues** or **support tickets**. (such items may be migrated to the appropriate forum/tool and could become stale and/or be closed without action/comment. |
+
 <BR>
 
-## Ask a question
-If you have questions about using OpenEBS, please use the OpenEBS Kubernetes slack channel, it is open for anyone to ask a question:
+## Ask a question :question:
+If you have questions about using OpenEBS, please use the CNCF Kubernetes **OpenEBS slack channel**, it is open for anyone to ask a question:
 <BR>
-:arrow_forward: [OpenEBS Kubernetes Slack channel](https://kubernetes.slack.com/messages/openebs/)
+> :arrow_forward: [OpenEBS Kubernetes Slack channel](https://kubernetes.slack.com/messages/openebs/)
+<BR>
 <BR>
 ## Report a product issue
 
-If you have a problem using OpenEBS, first check the [troubleshooting guide](https://openebs.io/docs/troubleshooting), you can also ask a question in the OpenEBS Kubernetes Slack channel.
+If you have a problem using OpenEBS, first check the [troubleshooting guide](https://openebs.io/docs/troubleshooting), you can also ask a question in the CNCF Kubernetes **OpenEBS slack channel**.
+
+> [!NOTE]
+> - Our support and enginering team/community has a ```primary obligation``` to provide priority, focused spupprt for the **OpenEBS STANDARD** (OSS) [parent parnet](https://github.com/openebs) ```only```. <BR>
+> - Questions & issues relating to the Legacy Archived, Deprecated & Migrated OpenEBS projects, repos, code & dependancies are **not the focus** or responsibility of the parent OSS project; and may be provided on a ```best effort``` basis by the team. <BR>
+> - The overall open-source community is the main source of direct support for all **Legacy** ```Archived```, ```Deprecated``` & ```Migrated``` OpenEBS projects.
+> - please **```Do Not```** post Discussions, Issues or PR's on the **OpenEBS STANDARD** (OSS) [parent parnet](https://github.com/openebs).
+
 
 If you have an issue not solved by the troubleshooting guide or by asking a question in Slack, first check the GitHub issue list to see if the issue is already recorded, then add a New Issue. 
 

@@ -115,7 +115,10 @@ When a sub project is removed, it is moved as-is to the OpenEBS-archive organiza
 
 
 ## How are decisions made?
-See CONTRIBUTORS.md
+[See CONTRIBUTING guidleines and rules doc](./CONTRIBUTING.md)
+```ruby
+Also see: MAINTAINERS file
+```
 
 ## Conflict Resolution
 If you have a technical dispute that you feel has reached an impasse with a subset of the community, any contributor may open an issue, specifically calling for a resolution vote of the current maintainers to resolve the dispute. The same voting quorums required (2/3) for removing maintainers will apply to conflict resolution.
