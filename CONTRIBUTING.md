@@ -9,8 +9,7 @@ There are many exciting ways you can contribute to OpenEBS  ❤️. <BR>
 - This means that contributing can be a little scary at times (like many large CNCF Open source GitHub hosted projects). <BR>
 - If you are unsure or afraid of anything, just ask via Slack, Discussion, or Issue. // It’s simple.
 
-This document will help guide your experience to provide you with the best and most efficient interaction possible.
-
+This document will help guide [your workflow](#a-good-contributor-workflow) and experience to provide you with the best and most efficient interaction possible.
 
 
 <BR>
@@ -206,6 +205,7 @@ Social media links
 
 ---
 
+## A good contributor workflow
 ```ruby
 The following table is a guide to help you decide which channel, method and mechanism to use when contributing.
 - In most cases, consider starting at the top (post a Slack channel question)
