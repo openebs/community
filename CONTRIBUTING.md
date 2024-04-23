@@ -16,15 +16,16 @@ This document will help guide [your workflow](#a-good-contributor-workflow) and 
 
 
 ## Ask a question :question:
-**Try our Slack channel First**:  &nbsp; If you have questions about using OpenEBS, please use the CNCF Kubernetes **OpenEBS slack channel**, it is open for anyone to ask a question:
-<BR>
-> :arrow_forward: [OpenEBS Kubernetes Slack channel](https://kubernetes.slack.com/messages/openebs/)
+
+| [<img src="/images/slack_icon_small.png" width="100">](https://kubernetes.slack.com/messages/openebs)  | **Try our Slack channel First** <BR>If you have questions about using OpenEBS, please use the CNCF Kubernetes **OpenEBS slack channel**, it is open for [anyone to ask a question](https://kubernetes.slack.com/messages/openebs/) <BR> |
+| :---         | :---      |
+
 <BR>
 
 
 # Issues :bangbang:
-```Issues``` are a standard way of working and contributing to GitHub projects. GitHub Issues are the** 2nd most** common way (after Slack) that users interact and contribute to the project. Working with Issues requires you to make a few simple decisions.
-- is my issue more of a discussion topic?
+```Issues``` are a standard way of working and contributing to GitHub projects. GitHub Issues are the **2nd most** common way [after Slack](https://kubernetes.slack.com/messages/openebs) that users interact and contribute to the project. Working with Issues requires you to make a few simple decisions.
+- Is my issue more of a discussion topic?
 - Does my Issue relate to a Product?
 - Is it an issue that spans Horizontally across all products?
 - Is my issue related to technology, bugs, product, code?
@@ -35,13 +36,15 @@ After this, you're ready to create an Issue and know where to create it.
 
 <BR>
 
-- ### ```Issues come in 3 basic flavors```
-1. Organizational issues that don't related to products, technology, or code
-   - For this type of issue, [create your issue here](https://github.com/openebs/openebs/issues) 
-3. Issues that span multiple products
-   - For this type of issue, [create your issue here](https://github.com/openebs/openebs/issues)
-4. Issues focused on 1 specific Product
-   - For this type of issue, create your issue in the Issue tab of the correct project/product repo
+> [!NOTE]
+> Issues come in 3 basic flavors
+> 1. ```Organizational``` issues that aren't specifically related to indiviaul products, technology, or code
+>    - For this type of issue, [create your issue here](https://github.com/openebs/openebs/issues)
+>    - You might also consider creating a discussion in the [parent org discussions area](https://github.com/orgs/openebs/discussions)
+> 3. Issues that span ```multiple products```
+>    - For this type of issue, [create your issue here](https://github.com/openebs/openebs/issues)
+> 4. Issues focused on ```1 specific Product```
+>    - For this type of issue, create your issue in the Issue tab of the correct project/product repo
 <BR>
 
 ### Reporting a product issue
