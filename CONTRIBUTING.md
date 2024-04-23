@@ -23,7 +23,7 @@ This document will help guide your experience to provide you with the best and m
 <BR>
 
 
-# Issues
+# Issues :bangbang:
 ```Issues``` are a standard way of working and contributing to GitHub projects. GitHub Issues are the** 2nd most** common way (after Slack) that users interact and contribute to the project. Working with Issues requires you to make a few simple decisions.
 - is my issue more of a discussion topic?
 - Does my Issue relate to a Product?
@@ -134,7 +134,7 @@ New enhancements are referred to as OpenEBS Enhancement Proposals (OEPs). Anyone
 <BR>
 
 > [!Important]
-> - Our Organization enforces **```Developer Certificate of Origin```** (DCO) on all on Pull Requests, as an additional safeguard for the OpenEBS project. This requires all **commit messages** to contain the ```Signed-off-by``` line, with an email address that matches the  commit author name.
+> Our Organization enforces **```Developer Certificate of Origin```** (DCO) on all on Pull Requests, as an additional safeguard for the OpenEBS project. This requires all **commit messages** to contain the ```Signed-off-by``` line, with an email address that matches the  commit author name.
 
 > - This is a [well established and widely used mechanism](https://github.com/apps/dco) <BR>
 > - DCO assure's contributors have confirmed their right to license their contribution under the project's license. <BR>
@@ -153,20 +153,23 @@ You must certify that your committs and PR's are your own work and authourized b
 > ```Signed-off-by: Random J Developer <random@developer.example.org>```
 >
 > Example of automated git cli command: <BR>
-> ```git commit -s -m "Sign off detraiuls and message. Does not include DCO signature line"```
+> ```git commit -s -m "Sign off details and message. Does not include DCO signature line"```
 > ```ruby
-> NOTE: the cli -s flag will auto add your DCO sign-off signature as a extra line in your committ messsage
+> NOTE: the cli -s flag will auto add your DCO sign-off signature as a extra line in your commit message
 > if you have setup you git Global config correctly.
 > ```
 > :information_source: **```INFO```:** <BR>
-> When using the GitHub Web App, you cannot auto DCO sign-off your committs. Your DCO signatiure line must be manually added each time, in each comitt. This is by design and enforced by the GitHub WebApp.
+> :no_entry_sign: When using the GitHub Web App, you cannot auto DCO sign-off your commits. Your DCO signature line must be manually added each time, in each commit message. This is by design and enforced by the GitHub WebApp. <BR>
+> :white_check_mark: When using GitHub Desktop App, you can generate automatic DCO sign-off commits if your underlying git cli config is setup correctly. <BR>
+<BR>
 
-- Generally accepted GitHub DCO policy requires that all committing users must provide their ```real name``` (sorry, no pseudonyms or anonymous contributions).
-- If you set your ```user.name``` and ```user.email``` git configs, you can DCO sign your commits automatically with ```git commit -s```.
-- You can also use git [aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases) like: ``` git config --global alias.ci 'commit -s' ```. Now you can commit with git ci and the commit will be signed.
-
+The generally accepted GitHub DCO policy requires that all committing users must provide their ```real name``` in their DCO signature message (sorry, no pseudonyms or anonymous contributions). <BR>
+- If you set your ```user.name``` and ```user.email``` git configs, you can DCO sign your commits automatically with ```git commit -s```. <BR>
+- You can also use git [aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases) like: ``` git config --global alias.ci 'commit -s' ```. Now you can commit with git ci and the commit will be signed. <BR>
+<BR>
 
 ---
+
 
 
 ## Regular Community Meeting
