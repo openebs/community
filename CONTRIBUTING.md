@@ -3,7 +3,7 @@
 >This document is: OpenEBS Contributing Guidelines. OpenEBS is an umbrella project,  composed as a federation of individual sub projects (repositories). This document applies to the umbrella project, every sub project and repository in the OpenEBS organization.
 <BR>
 
-There are many exciting ways you can contribute to OpenEBS  ❤️. <BR>
+There are many exciting ways you can contribute to OpenEBS ❤️ <BR>
 - We are a large GitHub project that consists of many active members operating globally, across all time zones, 24 x 7 x 365.
 - There are many different methods, processes, forums, and project tools to use when contributing. 
 - This means that contributing can be a little scary at times (like many large CNCF Open source GitHub hosted projects). <BR>
@@ -45,6 +45,7 @@ After this, you're ready to create an Issue and know where to create it.
 >    - For this type of issue, [create your issue here](https://github.com/openebs/openebs/issues)
 > 4. Issues focused on ```1 specific Product```
 >    - For this type of issue, create your issue in the Issue tab of the correct project/product repo
+>    - View the list of our [product components here](./CONTRIBUTING.md#multiple-products)
 <BR>
 
 ### Reporting a product issue
@@ -59,14 +60,28 @@ If you have a problem using OpenEBS, first check the [troubleshooting guide](htt
 > - please **```Do Not```** post [```Deprecated & Archived project```](https://github.com/openebs-archive) Discussions, Issues or PR's into the **OpenEBS STANDARD** (OSS) parent project.
 
 
-> If you have an issue not solved by the troubleshooting guide or by asking a question in Slack, first check the GitHub issue list to see if the issue is already recorded, then add a New Issue.
+> If you have an issue not solved by the troubleshooting guide or by asking a question in Slack, first check the GitHub issue list to see if the issue is already recorded, then add a new Issue in the correct repo issue managment section.
 
 <BR>
 
-We use a centralized GitHub issue tracker for all product issues:
+### Multiple products
+Our project spans multiple product components. Unfortunately, we ```don't``` use a single centralized GitHub issue tracker for all product  issues. We like to group product issues tightly into their specific product Issue trackers. (Please try to do this). Currently OpenEBS Unifies 5 main Storage engines...
+
+| ID  | Data-Eegines       | Where to create your issues                            |
+| :---: | :---             | :---                                                   |
+|     | ```Replicated PV```          | ```Replicated storage and data volumes```     |
+|  1  | [Replicated PV Mayastor](https://github.com/openebs/mayastor)      | [Create your Issues here](https://github.com/openebs/mayastor/issues)   | 
+| &nbsp;                        |    |
+|     | ```Local PV```          | ```Non-replicated node local storage and volumes```   |                                                            |
+|  2. |  [LocalPV-HostPath](https://github.com/openebs/dynamic-localpv-provisioner)     | [Create your Issues here](https://github.com/openebs/dynamic-localpv-provisioner/issues) |
+|  3. |  [LocalPV-ZFS](https://github.com/openebs/zfs-localpv)      | [Create your Issues here](https://github.com/openebs/zfs-localpv/issues) |
+|  4. |  [LocalPV-LVM](https://github.com/openebs/lvm-localpv)      | [Create your Issues here](https://github.com/openebs/lvm-localpv/issues) |
+|  5. |  [LocalPV-Raw-device-File](https://github.com/openebs/rawfile-localpv) | [Create your Issues here](https://github.com/openebs/rawfile-localpv/issues) |
 <BR>
-:arrow_forward: [OpenEBS Product Issues](https://github.com/openebs/openebs/issues)
+
 <BR>
+
+### When creating a new issue, please use this simpe template:
 * Summary of the issue
 * Expected result and the observed result
 * Errors and log messages
@@ -85,31 +100,34 @@ We use the same GitHub issue tracker for documentation issues, with a label for 
 ---
 
 ## Report a security issue or vulnerability
-Because of the sensitive nature of security issues (reporting a security issue also alerts bad-actors of the security issue), we ask you report these by emailing the umbrella project maintainers
-<BR>
-:arrow_forward: [Email security issue to OpenEBS maintainers](mailto:cncf-openebs-maintainers@lists.cncf.io)
-<BR>
-After addressing any security issue, they will be discussed in the regular community meeting
+
+> [!IMPORTANT]
+> Because of the sensitive nature of security issues (reporting a security issue also alerts bad-actors of the security issue), we ask you report these by emailing the umbrella project maintainers. <BR>
+> :arrow_forward: &nbsp; [Email security issue to OpenEBS maintainers](mailto:cncf-openebs-maintainers@lists.cncf.io) <BR>
+> <BR>
+> After addressing any security issue, they will be discussed in the regular community meeting <br>
 <BR>
 
 ## Contribute to Source Code and Bug Fixes
 
-Provide PRs with appropriate tags for bug fixes to the source code. For a list of tags that could be used, see [this](https://github.com/openebs/openebs/blob/main/contribute/labels-of-issues.md).
-
-
-* For contributing to K8s demo, please refer to this [document](https://github.com/openebs/openebs/blob/main/contribute/CONTRIBUTING-TO-K8S-DEMO.md).
-    * For checking out how OpenEBS works with K8s, refer to this [document](https://github.com/openebs/openebs/blob/main/k8s/README.md)
-* For contributing to Kubernetes OpenEBS Provisioner, please refer to this [document](https://github.com/openebs/openebs/blob/main/contribute/CONTRIBUTING-TO-KUBERNETES-OPENEBS-PROVISIONER.md).
-
-Refer to this [document](https://github.com/openebs/openebs/blob/main/contribute/design/code-structuring.md) for more information on code structuring and guidelines to follow on the same. You can discuss contributions in our OpenEBS developer Kubernetes Slack Channel:
+We encourage users to engage in and contribute code. Doing this a complex and requires following the GitHub methodology that we subscribe to as a amember of CNCF. In a nutshell, the GitHub methodology is: <BR>
+- Discussion/Proposal :fast_forward: Create Issue :fast_forward: PR draft + code :fast_forward: PR Review(s) + code changes :arrows_counterclockwise: PR approve :fast_forward: DCO Sign-off :twisted_rightwards_arrows: Merge <BR>
 <BR>
-:arrow_forward: [OpenEBS DEV Kubernetes Slack Channel](https://kubernetes.slack.com/messages/openebs-dev/)
+
+> - When creating your PR, please use appropriate tags to identify your source code. For a list of tags that could be used, see [this](https://github.com/openebs/openebs/blob/main/contribute/labels-of-issues.md).
+> - For contributing to K8s demo, please refer to this [document](https://github.com/openebs/openebs/blob/main/contribute/CONTRIBUTING-TO-K8S-DEMO.md).
+> - For understanding how OpenEBS works with K8s, refer to this [document](https://github.com/openebs/openebs/blob/main/k8s/README.md)
+> - For contributing to K8s OpenEBS Provisioner, refer to this [document](https://github.com/openebs/openebs/blob/main/contribute/CONTRIBUTING-TO-KUBERNETES-OPENEBS-PROVISIONER.md).
+> - For code structuring and guidelines, referr to this [document](https://github.com/openebs/openebs/blob/main/contribute/design/code-structuring.md)
+> - Feel free to discuss developer topcis in our [OpenEBS DEV Kubernetes Slack Channel](https://kubernetes.slack.com/messages/openebs-dev/)
 <BR>
 
 <BR>
 
 ## Solve Existing Issues
-Head over to [issues](https://github.com/openebs/openebs/issues) to find issues where help is needed from contributors. See our [list of labels guide](https://github.com/openebs/openebs/blob/main/contribute/labels-of-issues.md) to help you find issues that you can solve faster.
+Head over to [Parent org issues](https://github.com/openebs/openebs/issues) to find issues where help is needed from contributors, or check the issues section of the [product component](./CONTRIBUTING.md#multiple-products) that you are interested in.
+
+See our [list of labels guide](https://github.com/openebs/openebs/blob/main/contribute/labels-of-issues.md) to help you find issues that you can solve faster.
 
 A person looking to contribute can take up an issue by claiming it as a comment/assign their GitHub ID to it. In case there is no PR or update in progress for a week on the said issue, then the issue reopens for anyone to take up again. We need to consider high priority issues/regressions where response time must be a day or so. You can discuss the issue in our OpenEBS developer Kubernetes Slack Channel:
 <BR>
