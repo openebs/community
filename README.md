@@ -1,4 +1,22 @@
-# Welcome to our community...
+# OpenEBS Community<BR>
+> [!Important]
+> OpenEBS is an umbrella project, composed as a federation of individual sub projects (repositories). The project files in this repository apply to the umbrella project, every sub project, repository and file in the OpenEBS organization.
+<BR>
+
+## About the community repository<BR>
+This Community repository is the central location for project files  (like GOVERNANCE.md, CONTRIBUTING.md etc) for the OpenEBS organization. You'll also find an [Issues List](https://github.com/openebs/issues) for organization related issues.
+<BR>
+
+### Important documents:
+This repository contains all the project files for the opganization. These three are important:
+* [OpenEBS Vision](https://github.com/openebs/VISON.md) Defines the vision, mission statement
+
+
+
+ [Issues List](https://github.com/openebs/issues)
+
+
+
 [![OpenEBS Welcome Banner](/images/openebs_community_banner_retro_gamer.png)](https://www.openebs.io/)
 
 ## [openebs.io](https://www.openebs.io/)
