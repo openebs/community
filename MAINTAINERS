@@ -1,0 +1,14 @@
+# Official list of OpenEBS Maintainers and Reviewers.
+#
+# OpenEBS is an umbrella project, composed as a federation of individual sub projects (repositories).
+# THIS MAINTAINERS FILE APPLIES TO THE UMBRELLA PROJECT, EVERY SUB-PROJECT, REPOSITORY AND FILE IN THE OPENEBS ORGANIZATION.
+# THIS MAINTAINERS FILE SUPERSEDES AND OVERRIDES ALL OTHER MAINTAINERS FILES.
+#
+# Please keep the below list sorted in ascending order.
+#
+# Maintainers
+"Abhinandan Purkait",@Abhinandan-Purkait,Datacore Software
+"David Brace",@orville-wright,DataCore Software
+"Niladri Halder",@niladrih,DataCore Software
+"Tiago Castro",@tiagolobocastro,DataCore Software
+"Vishnu Attur",@avishnu,DataCore Software
