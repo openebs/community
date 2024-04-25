@@ -28,7 +28,7 @@ We are a community of innovative Data Storage engineers that contribute to this 
 
 > [!NOTE]
 > CNCF Project status: ARCHIVE <BR>
-> In Jan 2024, under the guidance of CNCF TOC, our project moved from Sandbox level to Archive level, enabling us to implement an extensive restructuring initiative. We are actively working to archive old projects, repos and dependencies to a CNCF owned repo called: OpeneEBS-Archive (https://github.com/openebs-archive), plus update our governance and operating procedures.<BR>
+> In Jan 2024, under the guidance of CNCF TOC, our project moved from Sandbox level to Archive level, enabling us to implement an extensive restructuring initiative. We are actively working to archive old projects, repos and dependencies to a CNCF owned repo called: [OpeneEBS-Archive](https://github.com/openebs-archive), plus updating our governance and operating procedures.<BR>
 > What's changing in the technology stack? The product team is unifying 4 main repos (Mayastor, LocalPV-LVM, LocalPV-ZFS, LocalPV-Hostpath) and their technology stack repos into one core OpnenEBS code-base.
 > For more information, see [the parent issue]( https://github.com/openebs/openebs/issues/3701) in our main repo for more detail.
 >
