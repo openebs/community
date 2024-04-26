@@ -1,10 +1,10 @@
-# OpenEBS Community<BR>
+# Welcome to the OpenEBS Community<BR>
 > [!Important]
 > OpenEBS is an umbrella project, composed as a federation of individual sub projects (repositories). The project files in this repository apply to the umbrella project, every sub project, repository and file in the OpenEBS organization.
 <BR>
 
 ## About the community repository<BR>
-This Community repository is the central location for project files  (like GOVERNANCE.md, CONTRIBUTING.md etc) for the OpenEBS organization. You'll also find an [Issues List](/issues) for organization related issues.
+This Community repository is the ```central location``` for project info and file (like [our GOVERNANCE contract](GOVERNANCE.md) & [our CONTRIBUTING guide](CONTRIBUTING.md) etc) for the OpenEBS organization. You'll also find an [Top level Issues List](/issues) for Organization related issues that span across products/projects. We also providfe a [main Discussions forum](/orgs/openebs/discussions) where **```everyone```** can collaborate and discuss anything.
 <BR>
 
 ## Important documents and contacts:
@@ -47,7 +47,10 @@ OpenEBS is a CNCF project and DataCore, Inc is a CNCF Silver member. DataCore su
 | :---         |     :---:      |          ---: |
  
 <BR>
-Thanks for dropping by.
+
+```ruby
+Thanks for dropping by. // We appreicate everyone in our community and would love to hear from you.
+```
 
 ## Activity dashboard
 ![Alt](https://repobeats.axiom.co/api/embed/1e565d4d1fdfeacd2cf810f10bcb6cde7368c9ea.svg "Repobeats analytics image")
