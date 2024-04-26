@@ -22,8 +22,10 @@ This repository contains all the project files for the organization, and the fol
 > :sunglasses: &nbsp; Tiago Castro | @tiagolobocastro <BR>
 
 ## Who we are
-We are a community of innovative Data Storage engineers that contribute to this project. We are grateful for the major sponsorship provided by [DataCore](https://datacore.com), who donate a large team of dedicated Dev/QA/Engineers, Product Mgmt, Marketing, Business and Operational leadership as well as significant engineering infrastructure resources and financial funding. Without DataCore, Inc... OpenEBS would not be the successful product that is it today. OpenEBS is the result of 100's of amazing individuals, contributors and storage engineers who provide brainstorming ideas, feedback, code reviews and high-quality code to the project. Anyone who is passionate about storage and data is welcome here.
-[![OpenEBS Welcome Banner](/images/openebs_community_banner_retro_gamer.png)](https://www.openebs.io/)
+We are a community of innovative Data Storage engineers that contribute to this project. We are grateful for the major sponsorship provided by [DataCore](https://datacore.com), who donate a large team of dedicated Dev/QA/Engineers, Product Mgmt, Marketing, Business and Operational leadership as well as significant engineering infrastructure resources and financial funding. Without DataCore, Inc... OpenEBS would not be the successful product that is it today. OpenEBS is the result of 100's of amazing individuals, contributors and storage engineers who provide brainstorming ideas, feedback, code reviews and high-quality code to the project. Anyone who is passionate about storage and data is welcome here. <BR>
+
+---
+[![OpenEBS Welcome Banner](/images/community_banner_retro_gamer_level-up-2024_transp.png)](https://www.openebs.io/)
 
 
 > [!NOTE]
