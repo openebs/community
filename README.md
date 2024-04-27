@@ -18,10 +18,11 @@ This repository contains all the project files for the organization, and the fol
 >
 > |   |   |   |    |
 > | :--- | :--- | :--- | :--- |
-> | :rocket: &nbsp; | Ed Robinson | @edrob999 | [Info and background](https://www.linkedin.com/in/edrob/)  |
-> | :star: &nbsp; | David Brace | @orville-wright | [info and background](https://www.linkedin.com/in/dbrace/)   |
-> | :zap: &nbsp; | Vishnu Attur | @avishnu | [Info aand background](https://www.linkedin.com/in/vishnu-attur-5309a333/)   |
-> | :sunglasses: &nbsp; | Tiago Castro | @tiagolobocastro | [Info and background](https://www.linkedin.com/in/tiago-castro-3311453a/)  |
+> | Vishnu Attur | @avishnu | ![](/images/flags/de_je/in.png) | [LinkedIN](https://www.linkedin.com/in/vishnu-attur-5309a333/)   |
+> | Ed Robinson | @edrob999 | ![](/images/flags/ni_tn/nz.png) | [LinkedIN](https://www.linkedin.com/in/edrob/)  |
+> | Tiago Castro | @tiagolobocastro | ![](/images/flags/ni_tn/pt.png) &nbsp; ![](/images/flags/de_je/gb.png) | [LinkedIN](https://www.linkedin.com/in/tiago-castro-3311453a/)  |
+> | David Brace | @orville-wright | ![](/images/flags/ni_tn/nz.png) &nbsp; ![](/images/flags/de_je/hu.png) &nbsp; ![](/images/flags/to_zw/us.png) |[LinkedIN](https://www.linkedin.com/in/dbrace/)   |
+
 <BR>
 
 ## Who we are
