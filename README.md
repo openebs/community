@@ -4,7 +4,7 @@
 <BR>
 
 ## About the community repository<BR>
-This Community repository is the ```central location``` for project info and file (like [our GOVERNANCE contract](GOVERNANCE.md) & [our CONTRIBUTING guide](CONTRIBUTING.md) etc) for the OpenEBS organization. You'll also find an [Top level Issues List](/issues) for Organization related issues that span across products/projects. We also providfe a [main Discussions forum](/orgs/openebs/discussions) where **```everyone```** can collaborate and discuss anything.
+This Community repository is the ```central location``` for project info and files (like [our GOVERNANCE contract](GOVERNANCE.md) & [our CONTRIBUTING guide](CONTRIBUTING.md) etc) for the OpenEBS organization. You'll also find a [Top level Issues List](/issues) for Organization related issues that span across products/projects. We also provide a [main Discussions forum](/orgs/openebs/discussions) where **```everyone```** can collaborate and discuss anything.
 <BR>
 
 ## Important documents and contacts:
@@ -18,10 +18,12 @@ This repository contains all the project files for the organization, and the fol
 >
 > |   |   |   |    |
 > | :--- | :--- | :--- | :--- |
-> | Vishnu Attur | @avishnu | ![](/images/flags/de_je/in.png) | [LinkedIN](https://www.linkedin.com/in/vishnu-attur-5309a333/)   |
-> | Ed Robinson | @edrob999 | ![](/images/flags/ni_tn/nz.png) | [LinkedIN](https://www.linkedin.com/in/edrob/)  |
-> | Tiago Castro | @tiagolobocastro | ![](/images/flags/ni_tn/pt.png) &nbsp; ![](/images/flags/de_je/gb.png) | [LinkedIN](https://www.linkedin.com/in/tiago-castro-3311453a/)  |
-> | David Brace | @orville-wright | ![](/images/flags/ni_tn/nz.png) &nbsp; ![](/images/flags/de_je/hu.png) &nbsp; ![](/images/flags/to_zw/us.png) |[LinkedIN](https://www.linkedin.com/in/dbrace/)   |
+> | [Vishnu Attur](https://www.linkedin.com/in/vishnu-attur-5309a333/) | @avishnu | ![](/images/flags/de_je/in.png) | Admin, Maintainer |
+> | [Vabhinandan Purkait](https://www.linkedin.com/in/abhinandan-purkait/) | @Abhinandan-Purkait | ![](/images/flags/de_je/in.png) | Maintainer |
+> | [Niladri Halder](https://www.linkedin.com/in/niladrih/) | @niladrih | ![](/images/flags/de_je/in.png) | Maintainer |
+> | [Ed Robinson](https://www.linkedin.com/in/edrob/) | @edrob999 | ![](/images/flags/ni_tn/nz.png) | CNCF Primary Liason |
+> | [Tiago Castro](https://www.linkedin.com/in/tiago-castro-3311453a/) | @tiagolobocastro | ![](/images/flags/ni_tn/pt.png) &nbsp; ![](/images/flags/de_je/gb.png) | Admin, Maintainer |
+> | [David Brace](https://www.linkedin.com/in/dbrace/) | @orville-wright | ![](/images/flags/ni_tn/nz.png) &nbsp; ![](/images/flags/de_je/hu.png) &nbsp; ![](/images/flags/to_zw/us.png) | Admin, Maintainer |
 
 <BR>
 
