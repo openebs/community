@@ -4,7 +4,7 @@
 <BR>
 
 ## About the community repository<BR>
-This Community repository is the ```central location``` for project info and files (like [our GOVERNANCE contract](GOVERNANCE.md) & [our CONTRIBUTING guide](CONTRIBUTING.md) etc) for the OpenEBS organization. You'll also find a [Top level Issues List](/issues) for Organization related issues that span across products/projects. We also provide a [main Discussions forum](/orgs/openebs/discussions) where **```everyone```** can collaborate and discuss anything.
+This Community repository is the ```central location``` for project info and files (like [our GOVERNANCE contract](GOVERNANCE.md) & [our CONTRIBUTING guide](CONTRIBUTING.md) etc) for the OpenEBS organization. You'll also find a [Top level Issues List](https://github.com/openebs/openebs/issues) for Organization related issues that span across products/projects. We also provide a [main Discussions forum](https://github.com/openebs/openebs/discussions) where **```everyone```** can collaborate and discuss anything.
 <BR>
 
 ## Important documents and contacts:
