@@ -15,11 +15,8 @@ This repository contains all the project files for the organization, and the fol
 <BR>
 
 ## Project Leadership team
-```Ruby
-This Community is managed by the OpenEBS Admins, Maintainers and Senior leaders within the OpenEBS project team.
-We liase with the Linux FOundation and CNCF on project, governenance and operational maters and we curate the
-overally daily operations of the project, product, roadmaps, initatives and events. Currently our leadership team is...
-```
+This Community is managed by the OpenEBS <kbd>Admins</kbd>, ```Maintainers``` and <kbd>**Senior leaders**</kbd> within the OpenEBS project team. We liase with the Linux Foundation and CNCF on project, governenance
+and operational matters. We curate the daily operations of the project, product, roadmaps, initatives, all engineeering/code activities and all events (including conferneces). Currently our leadership team is...
 
 > |   |   |   |    |
 > | :--- | :--- | :--- | :--- |
