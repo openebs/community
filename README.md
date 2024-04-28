@@ -18,12 +18,12 @@ This repository contains all the project files for the organization, and the fol
 >
 > |   |   |   |    |
 > | :--- | :--- | :--- | :--- |
-> | [Vishnu Attur](https://www.linkedin.com/in/vishnu-attur-5309a333/) | @avishnu | ![](/images/flags/de_je/in.png) | Admin, Maintainer |
-> | [Vabhinandan Purkait](https://www.linkedin.com/in/abhinandan-purkait/) | @Abhinandan-Purkait | ![](/images/flags/de_je/in.png) | Maintainer |
-> | [Niladri Halder](https://www.linkedin.com/in/niladrih/) | @niladrih | ![](/images/flags/de_je/in.png) | Maintainer |
-> | [Ed Robinson](https://www.linkedin.com/in/edrob/) | @edrob999 | ![](/images/flags/ni_tn/nz.png) | CNCF Primary Liason |
-> | [Tiago Castro](https://www.linkedin.com/in/tiago-castro-3311453a/) | @tiagolobocastro | ![](/images/flags/ni_tn/pt.png) &nbsp; ![](/images/flags/de_je/gb.png) | Admin, Maintainer |
-> | [David Brace](https://www.linkedin.com/in/dbrace/) | @orville-wright | ![](/images/flags/ni_tn/nz.png) &nbsp; ![](/images/flags/de_je/hu.png) &nbsp; ![](/images/flags/to_zw/us.png) | Admin, Maintainer |
+> | [Vishnu Attur](https://www.linkedin.com/in/vishnu-attur-5309a333/ "Bengaluru, Karnataka, India (GMT+5:30) Timezone")| :octocat: <kbd>**[@avishnu](https://github.com/avishnu "Vishnu Govind Attur")**</kbd> | ![](/images/flags/de_je/in.png) | <kbd>**Admin**</kbd>, ```Maintainer``` |
+> | [Vabhinandan Purkait](https://www.linkedin.com/in/abhinandan-purkait/ "Bengaluru, Karnataka, India (GMT+5:30) Timezone") | :sunglasses: <kbd>**[@Abhinandan-Purkait](https://github.com/Abhinandan-Purkait "Abhinandan Purkait")**</kbd> | ![](/images/flags/de_je/in.png) | ```Maintainer``` |
+> | [Niladri Halder](https://www.linkedin.com/in/niladrih/ "Bengaluru, Karnataka, India (GMT+5:30) Timezone") | :rocket: <kbd>**[@niladrih](https://github.com/niladrih "Niladrih Halder")**</kbd> | ![](/images/flags/de_je/in.png) | ```Maintainer``` |
+> | [Ed Robinson](https://www.linkedin.com/in/edrob/ "San Francisco, USA (GMT-7) Timezone") | :heart: <kbd>**[@edrob999](https://github.com/edrob999 "Ed Robinson")**</kbd> | ![](/images/flags/ni_tn/nz.png) | <kbd>**CNCF Primary Liason**</kbd> |
+> | [Tiago Castro](https://www.linkedin.com/in/tiago-castro-3311453a/ "London, UK (GMT+1) Timezone") | :zap: <kbd>**[@tiagolobocastro](https://github.com/tiagolobocastro "Tiago Castro")**</kbd> | ![](/images/flags/ni_tn/pt.png) &nbsp; ![](/images/flags/de_je/gb.png) | <kbd>**Admin**</kbd>, ```Maintainer``` |
+> | [David Brace](https://www.linkedin.com/in/dbrace/ "San Francisco, USA (GMT-7) Timezone") | :star: <kbd>**[@orville-wright](https://github.com/orville-wright "Dave Brace")**</kbd> | ![](/images/flags/ni_tn/nz.png) &nbsp; ![](/images/flags/de_je/hu.png) &nbsp; ![](/images/flags/to_zw/us.png) | <kbd>**Admin**</kbd>, ```Maintainer``` |
 
 <BR>
 
