@@ -12,10 +12,15 @@ This repository contains all the project files for the organization, and the fol
 * [OpenEBS Vision](/VISON.md) Defines the vision, mission statement; what is in-scope and out-of-scope for the project
 * [Governance](/GOVERNANCE.md) How the project operates
 * [Contributing](/CONTRIBUTING.md) How to contribute, guidelines for being a contributor
+<BR>
 
-> **This community** is managed by the OpenEBS Admins, Maintainers and Senior leaders in the OpenEBS project team.
-> Currently it is being curated by... <BR>
->
+## Project Leadership team
+```Ruby
+This Community is managed by the OpenEBS Admins, Maintainers and Senior leaders within the OpenEBS project team.
+We liase with the Linux FOundation and CNCF on project, governenance and operational maters and we curate the
+overally daily operations of the project, product, roadmaps, initatives and events. Currently our leadership team is...
+```
+
 > |   |   |   |    |
 > | :--- | :--- | :--- | :--- |
 > | [Vishnu Attur](https://www.linkedin.com/in/vishnu-attur-5309a333/ "Bengaluru, Karnataka, India (GMT+5:30) Timezone")| :octocat: <kbd>**[@avishnu](https://github.com/avishnu "Vishnu Govind Attur")**</kbd> | ![](/images/flags/de_je/in.png) | <kbd>**Admin**</kbd>, ```Maintainer``` |
