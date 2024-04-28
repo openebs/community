@@ -1,4 +1,6 @@
-# Welcome to the OpenEBS Community<BR>
+# Welcome to the OpenEBS Community <img src="/images/welcome_multi-lang_bubble.png" alt="Welcome to our community home" align="right" width="300px"/>
+<BR>
+
 > [!Important]
 > OpenEBS is an umbrella project, composed as a federation of individual sub projects (repositories). The project files in this repository apply to the umbrella project, every sub project, repository and file in the OpenEBS organization.
 <BR>
