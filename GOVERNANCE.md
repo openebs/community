@@ -9,9 +9,21 @@
 ---
 <BR>
 
-### Steering Committee, Maintainers, Contributors and Adopters
+The **OpenEBS project** is managed on a daily basis by a senior governance & leadership team, that is consists of the following OpenEBS ```Admins```, ```Maintainers``` and ```Senior leaders```. Currently the team is...
+> |   |   |   |    |
+> | :--- | :--- | :--- | :--- |
+> | [Vishnu Attur](https://www.linkedin.com/in/vishnu-attur-5309a333/ "Bengaluru, Karnataka, India (GMT+5:30) Timezone")| :octocat: <kbd>**[@avishnu](https://github.com/avishnu "Vishnu Govind Attur")**</kbd> | ![](/images/flags/de_je/in.png) | <kbd>**Admin**</kbd>, ```Maintainer``` |
+> | [Abhinandan Purkait](https://www.linkedin.com/in/abhinandan-purkait/ "Bengaluru, Karnataka, India (GMT+5:30) Timezone") | :sunglasses: <kbd>**[@Abhinandan-Purkait](https://github.com/Abhinandan-Purkait "Abhinandan Purkait")**</kbd> | ![](/images/flags/de_je/in.png) | ```Maintainer``` |
+> | [Niladri Halder](https://www.linkedin.com/in/niladrih/ "Bengaluru, Karnataka, India (GMT+5:30) Timezone") | :rocket: <kbd>**[@niladrih](https://github.com/niladrih "Niladrih Halder")**</kbd> | ![](/images/flags/de_je/in.png) | ```Maintainer``` |
+> | [Ed Robinson](https://www.linkedin.com/in/edrob/ "San Francisco, USA (GMT-7) Timezone") | :heart: <kbd>**[@edrob999](https://github.com/edrob999 "Ed Robinson")**</kbd> | ![](/images/flags/ni_tn/nz.png) | <kbd>**CNCF Primary Liason**</kbd> |
+> | [Tiago Castro](https://www.linkedin.com/in/tiago-castro-3311453a/ "London, UK (GMT+1) Timezone") | :zap: <kbd>**[@tiagolobocastro](https://github.com/tiagolobocastro "Tiago Castro")**</kbd> | ![](/images/flags/ni_tn/pt.png) &nbsp; ![](/images/flags/de_je/gb.png) | <kbd>**Admin**</kbd>, ```Maintainer``` |
+> | [David Brace](https://www.linkedin.com/in/dbrace/ "San Francisco, USA (GMT-7) Timezone") | :star: <kbd>**[@orville-wright](https://github.com/orville-wright "Dave Brace")**</kbd> | ![](/images/flags/ni_tn/nz.png) &nbsp; ![](/images/flags/de_je/hu.png) &nbsp; ![](/images/flags/to_zw/us.png) | <kbd>**Admin**</kbd>, ```Maintainer``` |
 
-The OpenEBS project has four roles:<BR>
+<BR>
+
+### Steering Committee, Admin, Maintainers, Contributors and Adopters
+
+The OpenEBS project has four core roles. All project functions are/must fit into (and are goverened by hese roles:<BR>
 
 | Level | Member type | Example description, scope and role |
 | :---  | :--- | :--- |
@@ -20,16 +32,8 @@ The OpenEBS project has four roles:<BR>
 | 3     | **Contributors:** | Contribute code, testing, documentation to the project. A contributor’s authority applies to one or more sub projects. |
 | 4     | **Adopters:** | Use the OpenEBS product without contributing to the project. An adopter has  authority to raise issues, participate in discussions on sub projects with a public forum. |
 
-
-> **This community** is managed by the OpenEBS Admins, Maintainers and Senior leaders of the project team.
-> <BR>
->
-> :rocket: &nbsp; Ed Robinson      | @edrob999 <BR>
-> :star: &nbsp; David Brace        | @orville-wright <BR>
-> :zap: &nbsp; Vishnu Attur        | @avishnu <BR>
-> :sunglasses: &nbsp; Tiago Castor | @tiagolobocastro <BR>
----
 <BR>
+
 
 These roles are described in more detail below:
 
