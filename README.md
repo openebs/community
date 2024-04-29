@@ -1,4 +1,4 @@
-# OpenEBS Community <img src="/images/welcome_multi-lang_bubble.png" alt="Welcome to our community home" align="right" width="300px"/>
+# OpenEBS Community <img src="/images/welcome_multi-lang_bubble.png" alt="Welcome to our community home" align="right" width="250px"/>
 <BR>
 
 > [!Important]
