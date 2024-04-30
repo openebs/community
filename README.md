@@ -17,8 +17,8 @@ This repository contains all the project files for the organization, and the fol
 <BR>
 
 ## Project Leadership team
-This Community is managed by the OpenEBS <kbd>Admins</kbd>, ```Maintainers``` and <kbd>**Senior leaders**</kbd> within the OpenEBS project team. We liase with the Linux Foundation and CNCF on project, governenance
-and operational matters. We curate the daily operations of the project, product, roadmaps, initatives, all engineeering/code activities and all events (including conferneces). Currently our leadership team is...
+This Community is managed by the OpenEBS <kbd>Admins</kbd>, ```Maintainers``` and <kbd>**Senior leaders**</kbd> within the OpenEBS project team. We liaise with the Linux Foundation and CNCF on project, governance
+and operational matters. We curate the daily operations of the project, product, roadmaps, initiatives, all engineering/code activities and all events (including conferences). Currently our leadership team is...
 
 > |   |   |   |    |
 > | :--- | :--- | :--- | :--- |
@@ -52,11 +52,11 @@ OpenEBS is a CNCF project and DataCore, Inc is a CNCF Silver member. DataCore su
 
 | <img  alt="Container Storage Interface group" align="left" src="/images/CNCF_csi-horizontal-color_2024.png" width="320" /> | <img alt="Storage Technical Advisory Group" align="center" src="/images/CNCF_tag-storage-horizontal-color_2024.png" width="320" /> | &emsp; &emsp; <img alt="Cloud Native Community Groups" align="right" src="/images/CNCF_cncg-icon-color_2024.png" width="200" /> |
 | :---         |     :---:      |          ---: |
- 
+
 <BR>
 
 ```ruby
-Thanks for dropping by. // We appreicate everyone in our community and would love to hear from you.
+Thanks for dropping by. // We appreciate everyone in our community and would love to hear from you.
 ```
 
 ## Activity dashboard
