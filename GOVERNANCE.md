@@ -1,5 +1,4 @@
-
-# OpenEBS Project Governance
+# OpenEBS Umbrella Project Governance
 > [!Important]
 > OpenEBS is an "umbrella" project,  composed as a federation of individual sub projects (repositories). The umbrella project, every sub project, repository/repo and file in the OpenEBS organization adopts and follows the same set of umbrella policies in the OpenEBS Community repo. This is the Umbrella Project Governance policy.
 <BR>
