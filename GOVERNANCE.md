@@ -1,11 +1,12 @@
 
-
-
-## OpenEBS Project Governance
+# OpenEBS Project Governance
 > [!Important]
-> This document is: OpenEBS Project Governance. OpenEBS is an umbrella project,  composed as a federation of individual sub projects (repositories). This document applies to both the umbrella project and to every sub-project in the OpenEBS organization.
-### Key references docs:
-> [Project Vision](./VISION.md) &nbsp; | &nbsp; [Values: Mission Statement and Scope](https://github.com/openebs/community/blob/develop/VISION.md#vision-mission-statement-and-scope) &nbsp; | &nbsp; [Restraints](./VISION.md#restraints) &nbsp; | &nbsp; [Conformance](./VISION.md#conformance) &nbsp; | &nbsp; [Contributing: ](./CONTRIBUTING.md)
+> OpenEBS is an "umbrella" project,  composed as a federation of individual sub projects (repositories). The umbrella project, every sub project, repository/repo and file in the OpenEBS organization adopts and follows the same set of umbrella policies found in the OpenEBS Community repo. This is the Umbrella Project Governance policy.
+<BR>
+
+## Key references:
+Please familiarize yourself with these documents, they outline what-openEBS-is and how-we-operate:
+> [Project Vision](./VISION.md) &nbsp; | &nbsp; [Values: Mission Statement and Scope](https://github.com/openebs/community/blob/develop/VISION.md#vision-mission-statement-and-scope) &nbsp; | &nbsp; [Restraints](./VISION.md#restraints) &nbsp; | &nbsp; [Contributing: ](./CONTRIBUTING.md)
 ---
 <BR>
 
@@ -15,24 +16,28 @@ The **OpenEBS project** is managed on a daily basis by a senior governance & lea
 > | [Vishnu Attur](https://www.linkedin.com/in/vishnu-attur-5309a333/ "Bengaluru, Karnataka, India (GMT+5:30) Timezone")| :octocat: <kbd>**[@avishnu](https://github.com/avishnu "Vishnu Govind Attur")**</kbd> | ![](/images/flags/de_je/in.png) | <kbd>**Admin**</kbd>, ```Maintainer``` |
 > | [Abhinandan Purkait](https://www.linkedin.com/in/abhinandan-purkait/ "Bengaluru, Karnataka, India (GMT+5:30) Timezone") | :sunglasses: <kbd>**[@Abhinandan-Purkait](https://github.com/Abhinandan-Purkait "Abhinandan Purkait")**</kbd> | ![](/images/flags/de_je/in.png) | ```Maintainer``` |
 > | [Niladri Halder](https://www.linkedin.com/in/niladrih/ "Bengaluru, Karnataka, India (GMT+5:30) Timezone") | :rocket: <kbd>**[@niladrih](https://github.com/niladrih "Niladrih Halder")**</kbd> | ![](/images/flags/de_je/in.png) | ```Maintainer``` |
-> | [Ed Robinson](https://www.linkedin.com/in/edrob/ "San Francisco, USA (GMT-7) Timezone") | :heart: <kbd>**[@edrob999](https://github.com/edrob999 "Ed Robinson")**</kbd> | ![](/images/flags/ni_tn/nz.png) | <kbd>**CNCF Primary Liason**</kbd> |
+> | [Ed Robinson](https://www.linkedin.com/in/edrob/ "San Francisco, USA (GMT-7) Timezone") | :dog: <kbd>**[@edrob999](https://github.com/edrob999 "Ed Robinson")**</kbd> | ![](/images/flags/ni_tn/nz.png) | <kbd>**CNCF Primary Liaison**</kbd> |
 > | [Tiago Castro](https://www.linkedin.com/in/tiago-castro-3311453a/ "London, UK (GMT+1) Timezone") | :zap: <kbd>**[@tiagolobocastro](https://github.com/tiagolobocastro "Tiago Castro")**</kbd> | ![](/images/flags/ni_tn/pt.png) &nbsp; ![](/images/flags/de_je/gb.png) | <kbd>**Admin**</kbd>, ```Maintainer``` |
 > | [David Brace](https://www.linkedin.com/in/dbrace/ "San Francisco, USA (GMT-7) Timezone") | :star: <kbd>**[@orville-wright](https://github.com/orville-wright "Dave Brace")**</kbd> | ![](/images/flags/ni_tn/nz.png) &nbsp; ![](/images/flags/de_je/hu.png) &nbsp; ![](/images/flags/to_zw/us.png) | <kbd>**Admin**</kbd>, ```Maintainer``` |
 
 <BR>
 
-### Steering Committee, Admin, Maintainers, Contributors and Adopters
+## Org Admin, Maintainers, Contributors and Adopters
 
 The OpenEBS project has four core roles. All project functions are/must fit into (and are goverened by hese roles:<BR>
 
 | Level | Member type | Example description, scope and role |
 | :---  | :--- | :--- |
-| 1     | **Steering Committee** | Sets project governance, operating guidelines and provides oversight. Steering committee members are elected or removed by the current steering committee. Steering Committee members authority applies to the OpenEBS organization and every sub-project in the organization. |
+| 1     | **Org Admin** | GitHub organization administration, add/subtract admins, invite members, org and repo integrations. |
 | 2     | **Maintainers** | Roadmap, contribution guidelines, Review, Approve/Reject, Merge, Manage repos. Maintainers are elected or removed by the current maintainers, appointed or removed by the steering committee. A maintainer’s authority applies to the OpenEBS organization and every sub-project in the organization; unless they have been appointed as a [special maintainer](#special-projects-and-special-maintainers) |
 | 3     | **Contributors:** | Contribute code, testing, documentation to the project. A contributor’s authority applies to one or more sub projects. |
 | 4     | **Adopters:** | Use the OpenEBS product without contributing to the project. An adopter has  authority to raise issues, participate in discussions on sub projects with a public forum. |
 
 <BR>
+
+
+These roles are described in more detail below:
+
 
 
 These roles are described in more detail below:
