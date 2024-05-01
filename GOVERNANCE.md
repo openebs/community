@@ -5,8 +5,8 @@
 <BR>
 
 ## Key references:
-Please familiarize yourself with these documents, they outline what-openEBS-is and how-we-operate:
-> [Project Vision](./VISION.md) &nbsp; | &nbsp; [Values: Mission Statement and Scope](https://github.com/openebs/community/blob/develop/VISION.md#vision-mission-statement-and-scope) &nbsp; | &nbsp; [Restraints](./VISION.md#restraints) &nbsp; | &nbsp; [Contributing: ](./CONTRIBUTING.md)
+Please familiarize yourself with our [Project Vision](./VISION.md) and [Contributing Guidelines](./CONTRIBUTING.md). Together with this Governance document, these provide useful info on what and who we are, and how we operate. 
+
 ---
 <BR>
 
@@ -16,7 +16,7 @@ The **OpenEBS project** is managed on a daily basis by a senior governance & lea
 > | [Vishnu Attur](https://www.linkedin.com/in/vishnu-attur-5309a333/ "Bengaluru, Karnataka, India (GMT+5:30) Timezone")| :octocat: <kbd>**[@avishnu](https://github.com/avishnu "Vishnu Govind Attur")**</kbd> | ![](/images/flags/de_je/in.png) | <kbd>**Admin**</kbd>, ```Maintainer``` |
 > | [Abhinandan Purkait](https://www.linkedin.com/in/abhinandan-purkait/ "Bengaluru, Karnataka, India (GMT+5:30) Timezone") | :sunglasses: <kbd>**[@Abhinandan-Purkait](https://github.com/Abhinandan-Purkait "Abhinandan Purkait")**</kbd> | ![](/images/flags/de_je/in.png) | ```Maintainer``` |
 > | [Niladri Halder](https://www.linkedin.com/in/niladrih/ "Bengaluru, Karnataka, India (GMT+5:30) Timezone") | :rocket: <kbd>**[@niladrih](https://github.com/niladrih "Niladrih Halder")**</kbd> | ![](/images/flags/de_je/in.png) | ```Maintainer``` |
-> | [Ed Robinson](https://www.linkedin.com/in/edrob/ "San Francisco, USA (GMT-7) Timezone") | :dog: <kbd>**[@edrob999](https://github.com/edrob999 "Ed Robinson")**</kbd> | ![](/images/flags/ni_tn/nz.png) | <kbd>**CNCF Primary Liaison**</kbd> |
+> | [Ed Robinson](https://www.linkedin.com/in/edrob/ "San Francisco, USA (GMT-7) Timezone") | :dog: <kbd>**[@edrob999](https://github.com/edrob999 "Ed Robinson")**</kbd> | ![](/images/flags/ni_tn/nz.png) | <kbd>**CNCF Primary Liaison**</kbd>,```Special Maintainer``` |
 > | [Tiago Castro](https://www.linkedin.com/in/tiago-castro-3311453a/ "London, UK (GMT+1) Timezone") | :zap: <kbd>**[@tiagolobocastro](https://github.com/tiagolobocastro "Tiago Castro")**</kbd> | ![](/images/flags/ni_tn/pt.png) &nbsp; ![](/images/flags/de_je/gb.png) | <kbd>**Admin**</kbd>, ```Maintainer``` |
 > | [David Brace](https://www.linkedin.com/in/dbrace/ "San Francisco, USA (GMT-7) Timezone") | :star: <kbd>**[@orville-wright](https://github.com/orville-wright "Dave Brace")**</kbd> | ![](/images/flags/ni_tn/nz.png) &nbsp; ![](/images/flags/de_je/hu.png) &nbsp; ![](/images/flags/to_zw/us.png) | <kbd>**Admin**</kbd>, ```Maintainer``` |
 
@@ -24,43 +24,27 @@ The **OpenEBS project** is managed on a daily basis by a senior governance & lea
 
 ## Org Admin, Maintainers, Contributors and Adopters
 
-The OpenEBS project has four core roles. All project functions are/must fit into (and are goverened by hese roles:<BR>
+The OpenEBS project has four core roles. All project members operate in one (or more) of these roles:
+<BR>
 
 | Level | Member type | Example description, scope and role |
 | :---  | :--- | :--- |
-| 1     | **Org Admin** | GitHub organization administration, add/subtract admins, invite members, org and repo integrations. |
-| 2     | **Maintainers** | Roadmap, contribution guidelines, Review, Approve/Reject, Merge, Manage repos. Maintainers are elected or removed by the current maintainers, appointed or removed by the steering committee. A maintainer’s authority applies to the OpenEBS organization and every sub-project in the organization; unless they have been appointed as a [special maintainer](#special-projects-and-special-maintainers) |
-| 3     | **Contributors:** | Contribute code, testing, documentation to the project. A contributor’s authority applies to one or more sub projects. |
-| 4     | **Adopters:** | Use the OpenEBS product without contributing to the project. An adopter has  authority to raise issues, participate in discussions on sub projects with a public forum. |
-
+| 1     | **Org Admin** | Administer organization in GitHub, add/subtract admins, invite members, manage org and repo integrations. |
+| 2     | **Maintainers** | Develop roadmap, contribution guidelines; Review, Approve/Reject, Merge, Manage repos. Maintainers are elected or removed by the current maintainers. A maintainer’s authority applies to the OpenEBS organization and every sub-project in the organization; unless they have been appointed as a [special maintainer](#special-projects-and-special-maintainers) |
+| 3     | **Contributors:** | Contribute code, test, document the project. A contributor’s authority applies to one or more sub projects. |
+| 4     | **Adopters:** | Use the OpenEBS product without contributing to the project. An adopter has  authority to raise issues, participate in discussions on sub projects within a public forum. |
 <BR>
 
-
 These roles are described in more detail below:
 
-
-
-These roles are described in more detail below:
-
-### Steering Committee
-The steering committee is in charge of setting the OpenEBS project operating procedures:
-* [Project Vision](./VISION), mission statement and scope, restraints conformance guidelines as recorded in the OpenEBS Vision document
-* [Product Governance](./GOVERNANCE) as recorded in this document 
-* Assigning or removing maintainers
-
-The steering committee is composed of one or more representatives from organizations with significant investment in the OpenEBS project (eligible organizations). Eligible organizations are:
-
-* [DataCore Software (DataCore)](https://datacore.com)
-* [Cloud Native Computing Foundation (CNCF)](https://cncf.io)
-
-An eligible organization may assign one member to the Steering committee. The steering committee meets as needed, and may vote to assign or remove other members or to make changes to the operating procedures. Unless otherwise agreed by the Steering Committee, a vote is carried with a ⅔ majority of votes in favor. Voting is in private, with decisions recorded in “Appendix 1: Steering Committee Members and Decisions” section of this document.
-
-If the Steering Committee remains deadlocked on a vote, they agree to enter mediation with a mutually agreed mediation authority, and abide by the mediator’s decision.
+### Org Admin
+The org admins are a group that primarilly performs the non-code-related Github tasks such as updating permissions, configuring integrations and other administration tasks. The admins are informally appointed by the maintainers or by other org admins.
+<BR>
 
 ### Maintainers
-Maintainers are an elected or assigned group that share responsibility in the OpenEBS project success. They have made a long-term, recurring time investment to improve the project, and spend their time doing what needs to be done, not necessarily what is the most interesting or fun. Maintainers of the project are people the community can depend on and trust to make decisions in the best interest of the project. Anyone wanting to become a maintainer is expected to be deeply involved in contributing code, pull request review, and triage of issues in the project for more than three months.
+Maintainers are an elected group that share responsibility in the OpenEBS project success. They have made a long-term, recurring time investment to improve the project, and spend their time doing what needs to be done, not necessarily what is the most interesting or fun. Maintainers of the project are people the community can depend on and trust to make decisions in the best interest of the project. Anyone wanting to become a maintainer is expected to be deeply involved in contributing code, pull request review, and triage of issues in the project for more than three months.
 
-A maintainer has authority over all sub projects within the OpenEBS organization, and have responsibility for:
+Maintainers have authority over all sub projects within the OpenEBS organization, with responsibility for:
 
 * Project roadmap,
 * Reviewing, approving and denying contributions,
@@ -107,14 +91,14 @@ OpenEBS welcomes people who simply want to Adopt the OpenEBS product, and welcom
 ## Special Projects and Special Maintainers
 All sub projects within the OpenEBS organization abide by the common umbrella governance and policies, and a maintainer has authority over all sub projects, with these exceptions.
 
-The OpenEBS maintainers may elect, or the Steering Committee may assign:
+The OpenEBS maintainers may elect:
 
 * A “special maintainer” for one or more sub projects (typically where the individual has specialist knowledge for a discrete area of the project)
 * A “special project” that operates with deviation from the common umbrella governance and rules. The deviations are listed in the project’s README.md.
 
-Special projects and special maintainers are appointed or removed by the Steering Committee at their discretion, or elected and removed by a Maintainers vote (requiring 50% for election, and ⅔ for removal).
+Special projects and special maintainers are elected and removed by a Maintainers vote (requiring 50% for election, and ⅔ for removal).
 
-Special Projects and Special Maintainers are listed in the section “Appendix 2: Special Projects and Special Maintainers”
+Special Projects and Special Maintainers are listed in the section “Appendix 1: Special Projects and Special Maintainers”
 
 
 ## Adding and Removing Sub Projects
@@ -132,13 +116,10 @@ Also see: MAINTAINERS file
 ## Conflict Resolution
 If you have a technical dispute that you feel has reached an impasse with a subset of the community, any contributor may open an issue, specifically calling for a resolution vote of the current maintainers to resolve the dispute. The same voting quorums required (2/3) for removing maintainers will apply to conflict resolution.
 
+## Modifying this document
+Changes to this policy and any supporting documents must be agreed and approved by 2/3 of the Maintainers either by vote, or by review and approval of a PR on the document.
 
-## Appendix 1: Steering Committee Members and Decisions
-
-Members: 
-
-
-### Record of Decisions
+## Appendix 1: Special Projects and Special Maintainers
+* Ed Robinson, Special Maintainer for OpenEBS/Community repo
 
 
-## Appendix 2: Special Projects and Special Maintainers
