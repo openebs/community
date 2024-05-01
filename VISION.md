@@ -1,8 +1,10 @@
-# OpenEBS Project Vision
+# OpenEBS Umbrella Project Vision
+
 > [!Important]
-> This document is: OpenEBS Project Vision. A foundation document for the OpenEBS project. OpenEBS Project Governance. OpenEBS is an umbrella project, composed as a federation of individual sub projects (repositories). This document applies to both the umbrella project and to every sub project in the OpenEBS organization.
-<br>
-OpenEBS (Open-Elastic-Block-Storage) aims to provide fast, resilient, available, enterprise-grade storage; natively inside a Kubernetes cluster as Hyper-Converged storage. OpensEBS Users provision OpenEBS storage services to Kubernetes applications running natively inside a Kubernetes cluster.
+> OpenEBS is an "umbrella" project,  composed as a federation of individual sub projects (repositories). The umbrella project, every sub project, repository/repo and file in the OpenEBS organization adopts and follows the same set of umbrella policies in the OpenEBS Community repo. This is the Umbrella Vision for OpenEBS.
+<BR>
+
+OpenEBS (Open-Elastic-Block-Storage) aims to provide fast, resilient, available, enterprise-grade storage; natively inside a Kubernetes cluster as Hyper-Converged storage. OpenEBS Users provision OpenEBS storage services to Kubernetes applications running natively inside a Kubernetes cluster.
 
 In this document we present the project:
 * Vision, Mission Statement and Scope
@@ -28,7 +30,7 @@ In this document we present the project:
 <BR>
 
 > [!IMPORTANT]
-> With OpenEBS users can attach an storage media (any block-mode storage device) to a node, and assign it to be managed by OpenEBS; where the system can be configured to provide access to provisioned Storage volumes across any container within the cluster. You can address block devices across nodes and create volume snapshots/clones. You can set up Highly flexible local volumes and expand the volume and filesystem while online. You can trust OpenEBS whether you are a hobbyist programmer, small business or large enterprise.
+> With OpenEBS, users can attach an storage media (any block-mode storage device) to a node, and assign it to be managed by OpenEBS; where the system can be configured to provide access to provisioned Storage volumes across any container within the cluster. You can address block devices across nodes and create volume snapshots/clones. You can set up Highly flexible local volumes and expand the volume and filesystem while online. You can trust OpenEBS whether you are a hobbyist programmer, small business or large enterprise.
 <BR>
 
 ### Scope
@@ -97,7 +99,7 @@ DataCore, Inc is a CNCF Silver member. DataCore support's CNCF extensively and f
 
 ## Conformance
 The OpenEBS project produces the OpenEBS product referred to as **```Open Source STANDARD```** (OSS).<BR>
-Many commercial and non-commercial vendors have incorporated, or wish to incorporate a version of OpenEBS as a component or integrated service within their own product offering, including Microsoft Azure, DataCore and Civo. [see ADOPTERS file](https://github.com/openebs/openebs/blob/main/ADOPTERS.md)
+Many commercial and non-commercial vendors have incorporated, or wish to incorporate a version of OpenEBS as a component or integrated service within their own product offering, including Microsoft Azure, DataCore and Civo. [see ADOPTERS file](./ADOPTERS.md)
 
 The OpenEBS project and CNCF recognize the importance of supporting this, and maintain a conformance program for vendors to use OpenEBS technology, and OpenEBS marks.
 
