@@ -51,7 +51,7 @@ OpenEBS is a CNCF project and DataCore, Inc is a CNCF Silver member. DataCore su
 <BR>
 
 
-| [<img alt="Container Storage Interface group" src="/images/CNCF_csi-horizontal-color_2024.png" width="320">](https://github.com/kubernetescommunity/tree/master/sig-storage) | [<img alt="Storage Technical Advisory Group" src="/images/CNCF_tag-storage-horizontal-color_2024.png" width="320">](https://github.com/cncf/tag-storage) | &emsp; &emsp; [<img alt="Cloud Native Community Groups" src="/images/CNCF_cncg-icon-color_2024.png" width="200">](https://github.com/cncf/communitygroups)|
+| [<img alt="Container Storage Interface group" src="/images/CNCF_csi-horizontal-color_2024.png" width="320">](https://github.com/kubernetes/community/tree/master/sig-storage) | [<img alt="Storage Technical Advisory Group" src="/images/CNCF_tag-storage-horizontal-color_2024.png" width="320">](https://github.com/cncf/tag-storage) | &emsp; &emsp; [<img alt="Cloud Native Community Groups" src="/images/CNCF_cncg-icon-color_2024.png" width="200">](https://github.com/cncf/communitygroups)|
 | :---         |     :---:      |          ---: |
 
 <BR>
