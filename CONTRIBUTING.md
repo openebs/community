@@ -1,6 +1,6 @@
-# OpenEBS Contributing Guidelines
+# OpenEBS Umbrella Contributing Guidelines
 > [!Important]
->This document is: OpenEBS Contributing Guidelines. OpenEBS is an umbrella project,  composed as a federation of individual sub projects (repositories). This document applies to the umbrella project, every sub project and repository in the OpenEBS organization.
+> OpenEBS is an "umbrella" project,  composed as a federation of individual sub projects (repositories). The umbrella project, every sub project, repository/repo and file in the OpenEBS organization adopts and follows the same set of umbrella policies in the OpenEBS Community repo. This is the Umbrella Contributing Guidelines.
 <BR>
 
 There are many exciting ways you can contribute to OpenEBS ❤️ <BR>
