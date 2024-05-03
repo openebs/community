@@ -32,7 +32,7 @@ and operational matters. We curate the daily operations of the project, product,
 <BR>
 
 ## Who we are
-We are a community of innovative Data Storage engineers that contribute to this project. We are grateful for the major sponsorship provided by [DataCore](https://datacore.com), who donate a large team of dedicated Dev/QA/Engineers, Product Mgmt, Marketing, Business and Operational leadership as well as significant engineering infrastructure resources and financial funding. Without DataCore, Inc... OpenEBS would not be the successful product that is it today. OpenEBS is the result of 100's of amazing individuals, contributors and storage engineers who provide brainstorming ideas, feedback, code reviews and high-quality code to the project. Anyone who is passionate about storage and data is welcome here. <BR>
+We are a community of innovative Data Storage engineers that contribute to this project. We are grateful for the major sponsorship provided by [DataCore](https://datacore.com), who donate a large team of dedicated Dev/QA/Engineers, Product Mgmt, Marketing, Business and Operational leadership as well as significant engineering infrastructure resources and financial funding. Without DataCore, Inc... OpenEBS would not be the successful product that it is today. OpenEBS is the result of hundreds of amazing individuals, contributors and storage engineers who provide brainstorming ideas, feedback, code reviews and high-quality code to the project. Anyone who is passionate about storage and data is welcome here. <BR>
 
 ---
 [![OpenEBS Welcome Banner](/images/community_banner_retro_gamer_level-up-2024_transp.png)](https://www.openebs.io/)
@@ -40,8 +40,8 @@ We are a community of innovative Data Storage engineers that contribute to this 
 
 > [!NOTE]
 > CNCF Project status: ARCHIVE <BR>
-> In Jan 2024, under the guidance of CNCF TOC, our project moved from Sandbox level to Archive level, enabling us to implement an extensive restructuring initiative. We are actively working to archive old projects, repos and dependencies to a CNCF owned repo called: [OpenEBS-Archive](https://github.com/openebs-archive), plus updating our governance and operating procedures.<BR>
-> What's changing in the technology stack? The product team is unifying 4 main repos (Mayastor, LocalPV-LVM, LocalPV-ZFS, LocalPV-Hostpath) and their technology stack repos into one core OpenEBS code-base.
+> In Jan 2024, under the guidance of CNCF TOC, our project moved from Sandbox level to Archive level, enabling us to implement an extensive restructuring initiative. We are actively working to archive legacy sub projects, repositories and dependencies to a CNCF owned GitHub organization called: [OpenEBS-Archive](https://github.com/openebs-archive), plus updating our governance and operating procedures.<BR>
+> What's changing in the technology stack? The product team is unifying FOUR major sub projects (Mayastor, LocalPV-LVM, LocalPV-ZFS, LocalPV-Hostpath) and their technology stack repos into one core OpenEBS code-base.
 > For more information, see [the parent issue]( https://github.com/openebs/openebs/issues/3701) in our main repo for more detail.
 >
 <BR>
