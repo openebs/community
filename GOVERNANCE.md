@@ -72,7 +72,7 @@ Maintainers who are selected will be granted necessary GitHub rights, and invite
 #### Removing a Maintainer
 Maintainers may resign at any time if they feel that they will not be able to continue fulfilling their project duties. Maintainers may also be removed after being inactive, failure to fulfill their Maintainer responsibilities, violating the Code of Conduct, or other reasons.
 
-A Maintainer may be removed at any time by a ⅔ vote of the remaining maintainers, rounded off to the floor.
+A Maintainer may be removed at any time by a ⅔ vote of the remaining maintainers, rounded off to the ceiling.
 
 ### Contributors
 OpenEBS is a very welcoming community and is eager to onboard and help anyone from the OpenSource community to contribute to the project. To facilitate onboarding of the community members, OpenEBS contributors participate in Hackathon events and are responsive on the slack, community meetings and github.
