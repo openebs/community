@@ -101,7 +101,7 @@ DataCore, Inc is a CNCF Silver member. DataCore supports CNCF extensively and fu
 The OpenEBS project produces the OpenEBS product referred to as **```Open Source STANDARD```** (OSS).<BR>
 Many commercial and non-commercial vendors have incorporated, or wish to incorporate a version of OpenEBS as a component or integrated service within their own product offering, including Microsoft Azure, DataCore and Civo. [see ADOPTERS file](./ADOPTERS.md)
 
-The OpenEBS project and CNCF recognize the importance of supporting this, and maintain a conformance program for vendors to use OpenEBS technology, and OpenEBS brand copyrights.
+The OpenEBS project and CNCF recognize the importance of supporting this, and maintain a conformance program for vendors to use OpenEBS technology, and OpenEBS marks.
 
 ## Rules and Governance
 The [OpenEBS GitHub organization](https://github.com/openebs) has multiple repositories, for the purpose of organizing project information, source code, assets, Intellectual property (IP) and resources. Every repository in the organization follows the same set of “umbrella” Project Rules and [Governance](./GOVERNANCE.md). All community wide information  is located in the [OpenEBS Community Repository](https://github.com/openebs/community).
