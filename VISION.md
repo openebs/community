@@ -24,13 +24,13 @@ In this document we present the project:
 | *Fast* | Optimized multiple storage drivers and storage media types, with a particular focus on Solid State Flash media.  |
 | *Resilient* | Storage is highly resilient and self-healing. Reads and writes are protected even as containers or nodes are terminated. Volumes and Data Writes can be replicated across nodes via replication. Snapshots and cloning provide additional levels of tolerance,  resilience & self-healing. |
 | *Available* | Storage attached to one node can be made addressable to applications running on any node within the cluster through a ```“Nexus” Virtual SAN Fabric``` (i.e. Block mode Storage Area Network). |
-| *Native* | Implemented as ```container native storage```, a Kubernetes natively integrated component, optimized for storage contained inside a Kubernetes cluster. (Hyper converged). |
+| *Native* | Implemented as ```container native storage```, a Kubernetes natively integrated component, optimized for storage contained inside a Kubernetes cluster (Hyper converged). |
 | *Enterprise grade* | A fully featured, community proven, rigorously tested, trustworthy, Mission Critical product. |
 | *Kubernetes* | OpenEBS focus is for Kubernetes on Linux. |
 <BR>
 
 > [!IMPORTANT]
-> With OpenEBS, users can attach an storage media (any block-mode storage device) to a node, and assign it to be managed by OpenEBS; where the system can be configured to provide access to provisioned Storage volumes across any container within the cluster. You can address block devices across nodes and create volume snapshots/clones. You can set up Highly flexible local volumes and expand the volume and filesystem while online. You can trust OpenEBS whether you are a hobbyist programmer, small business or large enterprise.
+> With OpenEBS, users can attach any storage media (block-mode storage device) to a node, and assign it to be managed by OpenEBS; where the system can be configured to provide access to provisioned Storage volumes across any container within the cluster. You can address block devices across nodes and create volume snapshots/clones. You can set up Highly flexible local volumes and expand the volume and filesystem while online. You can trust OpenEBS whether you are a hobbyist programmer, small business or large enterprise.
 <BR>
 
 ### Scope
@@ -77,12 +77,12 @@ OpenEBS is a self-governing project, and operates within the following restraint
 
 ### CNCF
 * OpenEBS is a [CNCF (Cloud Native Computing Foundation)](https://cncf.io) project.
-* The OpensEBS project is open source, and operations are governed by CNCF rules set up for CNCF projects.
+* The OpenEBS project is open source, and operations are governed by CNCF rules set up for CNCF projects.
 * The OpenEBS project adds ```domain-specific Governance```, ```Contribution``` and ```operating rules``` on **top of the CNCF rules**. We provide for exceptions from the CNCF rules if approved by CNCF Technical Oversight Committee (TOC).
 
 
 [![CNCF logo](/images/CNCF_member-silver-color.svg)](https://www.datacore.com/)
-DataCore, Inc is a CNCF Silver member. DataCore support's CNCF extensively and funds all OpenEBS CNCF events. The project team is managed under the CNCF Storage Landscape and contributes to the CNCF CSI and TAG Storage project initiatives at the CNCF membership level that funding allows. OpenEBS proudly supports CNCF Cloud Native Community Groups initiatives.<BR>
+DataCore, Inc is a CNCF Silver member. DataCore supports CNCF extensively and funds all OpenEBS CNCF events. The project team is managed under the CNCF Storage Landscape and contributes to the CNCF CSI and TAG Storage project initiatives at the CNCF membership level that funding allows. OpenEBS proudly supports CNCF Cloud Native Community Groups initiatives.<BR>
 <BR>
 
 
@@ -101,15 +101,15 @@ DataCore, Inc is a CNCF Silver member. DataCore support's CNCF extensively and f
 The OpenEBS project produces the OpenEBS product referred to as **```Open Source STANDARD```** (OSS).<BR>
 Many commercial and non-commercial vendors have incorporated, or wish to incorporate a version of OpenEBS as a component or integrated service within their own product offering, including Microsoft Azure, DataCore and Civo. [see ADOPTERS file](./ADOPTERS.md)
 
-The OpenEBS project and CNCF recognize the importance of supporting this, and maintain a conformance program for vendors to use OpenEBS technology, and OpenEBS marks.
+The OpenEBS project and CNCF recognize the importance of supporting this, and maintain a conformance program for vendors to use OpenEBS technology, and OpenEBS brand copyrights.
 
 ## Rules and Governance
-The [OpenEBS GitHub organization](https://github.com/openebs) has multiple repositories, for the purpose of organizing project information, source code, assets, Intellectual property (IP) and resources. Every repository in the organization follows the same set of  “umbrella” Project Rules and [Governance](./GOVERNANCE.md). All community wide information  is located in the [OpenEBS Community Repository](https://github.com/openebs/community).
+The [OpenEBS GitHub organization](https://github.com/openebs) has multiple repositories, for the purpose of organizing project information, source code, assets, Intellectual property (IP) and resources. Every repository in the organization follows the same set of “umbrella” Project Rules and [Governance](./GOVERNANCE.md). All community wide information  is located in the [OpenEBS Community Repository](https://github.com/openebs/community).
 
 
 ## Archive Organization
 > [!IMPORTANT]
 > The OpenEBS project Leadership/Maintainers also administer the affiliated [**OpenEBS-archive organization**](https://github.com/openebs-archive). <BR>
 > 1. This parallel organization is **OWNED by CNCF** and administrated as a reference archive for OpenEBS ```Legacy``` and ```Deprecated``` OpenEBS repositories, assets, IP, source code, dependencies and resources. <BR>
-> 2. From time to time, we reserve then right to selectively Deprecate and Archive OpenEBS components and  physically migrate them **```out-of```** the OpenEBS Parent project; and into the Archive organization. This process **```officially removes```** those OpenEBS components from the parent OpenEBS project/product. All entities held within the Archive org are **NO LONGER** an active component of the OpenEBS Parent project/product. <BR>
+> 2. From time to time, we reserve the right to selectively Deprecate and Archive OpenEBS components and  physically migrate them **```out-of```** the OpenEBS Parent project; and into the Archive organization. This process **```officially removes```** those OpenEBS components from the parent OpenEBS project/product. All entities held within the Archive org are **NO LONGER** an active component of the OpenEBS Parent project/product. <BR>
 > 3. The Archive org is **NOT** intended for active code or community contributions. The [Project Rules and Governance](./GOVERNANCE.md) also apply to the OpenEBS-archive organization, unless explicitly stated otherwise in the OpenEBS-archive organization README. <BR>
