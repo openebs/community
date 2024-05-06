@@ -65,7 +65,7 @@ If you have a problem using OpenEBS, first check the [troubleshooting guide](htt
 <BR>
 
 ### Multiple products
-Our project spans multiple product components. Unfortunately, we ```don't``` use a single centralized GitHub issue tracker for all product  issues. We like to group product issues tightly into their specific product Issue trackers. (Please try to do this). Currently OpenEBS Unifies 5 main Storage engines...
+Our project spans multiple product components. We ```don't``` use a single centralized GitHub issue tracker for all product issues. We like to group product issues tightly into their specific product Issue trackers. (Please try to do this). Currently OpenEBS Unifies 5 main Storage engines...
 
 | ID  | Data-Engines       | Where to create your issues                            |
 | :---: | :---             | :---                                                   |
@@ -76,7 +76,7 @@ Our project spans multiple product components. Unfortunately, we ```don't``` use
 |  2. |  [LocalPV-HostPath](https://github.com/openebs/dynamic-localpv-provisioner)     | [Create your Issues here](https://github.com/openebs/dynamic-localpv-provisioner/issues) |
 |  3. |  [LocalPV-ZFS](https://github.com/openebs/zfs-localpv)      | [Create your Issues here](https://github.com/openebs/zfs-localpv/issues) |
 |  4. |  [LocalPV-LVM](https://github.com/openebs/lvm-localpv)      | [Create your Issues here](https://github.com/openebs/lvm-localpv/issues) |
-|  5. |  [LocalPV-Raw-device-File](https://github.com/openebs/rawfile-localpv) | [Create your Issues here](https://github.com/openebs/rawfile-localpv/issues) |
+|  5. |  [LocalPV-Rawfile](https://github.com/openebs/rawfile-localpv) | [Create your Issues here](https://github.com/openebs/rawfile-localpv/issues) |
 <BR>
 
 <BR>
@@ -102,7 +102,7 @@ We use the same GitHub issue tracker for documentation issues, with a label for 
 ## Report a security issue or vulnerability
 
 > [!IMPORTANT]
-> Because of the sensitive nature of security issues (reporting a security issue also alerts bad-actors of the security issue), we ask you report these by emailing the umbrella project maintainers. <BR>
+> Because of the sensitive nature of security issues (reporting a security issue also alerts bad-actors of the security issue), we ask you to report these by emailing the umbrella project maintainers. <BR>
 > :arrow_forward: &nbsp; [Email security issue to OpenEBS maintainers](mailto:cncf-openebs-maintainers@lists.cncf.io) <BR>
 > <BR>
 > After addressing any security issue, they will be discussed in the regular community meeting <br>
@@ -110,7 +110,7 @@ We use the same GitHub issue tracker for documentation issues, with a label for 
 
 ## Contribute to Source Code and Bug Fixes
 
-We encourage users to engage in and contribute code. Doing this a complex and requires following the GitHub methodology that we subscribe to as a member of CNCF. In a nutshell, the GitHub methodology is: <BR>
+We encourage users to engage in and contribute code. Doing this can be complex and requires following the GitHub methodology that we subscribe to as a member of CNCF. In a nutshell, the GitHub methodology is: <BR>
 - Discussion/Proposal :fast_forward: Create Issue :fast_forward: PR draft + code :fast_forward: PR Review(s) + code changes :arrows_counterclockwise: PR approve :fast_forward: DCO Sign-off :twisted_rightwards_arrows: Merge <BR>
 <BR>
 
@@ -144,7 +144,7 @@ New enhancements are referred to as OpenEBS Enhancement Proposals (OEPs). Anyone
 5. The sponsor presents the OEP
 6. The community votes on the OEP, maintainers have binding votes.
 7. Approved OEPS's are moved (or copied) into the appropriate repository and are tracked against the OEP Community Roadmap
-8. A pull request (PR) is only created after this approval. Once the PR is created, the existence of the PR means engineering work is approved and the OEP is scheduled for coding.
+8. A pull request (PR) is only created after this approval. Once the PR is created, the existence of the PR means engineering work is approved and the OEP is scheduled for implementation.
 
 
 ---
@@ -154,16 +154,15 @@ New enhancements are referred to as OpenEBS Enhancement Proposals (OEPs). Anyone
 <BR>
 
 > [!Important]
-> Our Organization enforces **```Developer Certificate of Origin```** (DCO) on all on Pull Requests, as an additional safeguard for the OpenEBS project. This requires all **commit messages** to contain the ```Signed-off-by``` line, with an email address that matches the  commit author name.
+> Our Organization enforces **```Developer Certificate of Origin```** (DCO) on all Pull Requests, as an additional safeguard for the OpenEBS project. This requires all **commit messages** to contain the ```Signed-off-by``` line, with an email address that matches the commit author name.
 
 > - This is a [well established and widely used mechanism](https://github.com/apps/dco) <BR>
-> - DCO assure's contributors have confirmed their right to license their contribution under the project's license. <BR>
+> - DCO ensures contributors have confirmed their right to license their contribution under the project's license. <BR>
 > - Please read [developer-certificate-of-origin](https://github.com/openebs/openebs/blob/main/contribute/developer-certificate-of-origin) ```release statement``` to understand what you are **```consenting```** to and **```agreeing```** to adhere to when you create a commit and a PR. <BR>
-> - ALL PR's will automatically have their status set to to **```FAILED```** if any commits in a Pull Request do not contain a valid ```Signed-off-by``` line.
+> - ALL PR's will automatically have their status set to **```FAILED```** if any commits in a Pull Request do not contain a valid ```Signed-off-by``` line.
 
 
-
-You must certify that your commits and PR's are your own work and authorized by you; by adding a line to every git commit message. Any PR with Commits that Do Not have DCO Signoff will not be accepted:<BR>
+You must certify that your commits and PR's are your own work and authorized by you by adding a line to every git commit message. Any PR with Commits that Do Not have DCO Signoff will not be accepted:<BR>
 <BR>
 
 ### Examples of how to DCO Sign-off your work...<BR>
@@ -184,17 +183,16 @@ You must certify that your commits and PR's are your own work and authorized by 
 <BR>
 
 The generally accepted GitHub DCO policy requires that all committing users must provide their ```real name``` in their DCO signature message (sorry, no pseudonyms or anonymous contributions). <BR>
-- If you set your ```user.name``` and ```user.email``` git configs, you can DCO sign your commits automatically with ```git commit -s```. <BR>
+- If you set your ```user.name``` and ```user.email``` git configs, you can DCO sign-off your commits automatically with ```git commit -s```. <BR>
 - You can also use git [aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases) like: ``` git config --global alias.ci 'commit -s' ```. Now you can commit with git ci and the commit will be signed. <BR>
 <BR>
 
 ---
 
 
-
 ## Regular Community Meeting
 
-open EBS hosts a bi-weekly (fortnightly) community meeting on Tuesday 7:00an Americas/Los Angeles time, using the [CNCF's community event platform](https://community.cncf.io/openebs-community/). Please register for the event, prior to the meeting. You'd have to register for the meeting before the actual meeting time.
+OpenEBS hosts a bi-weekly (fortnightly) community meeting on Tuesday 7:00 am Americas/Los Angeles time, using the [CNCF's community event platform](https://community.cncf.io/openebs-community/). Please register for the event, prior to the meeting. You'd have to register for the meeting before the actual meeting time.
 <BR>
 :arrow_forward: [Add agenda items for the next meeting](https://hackmd.io/tRmnyg9AQPShxFAXOyFpSA?edit)
 <BR>
@@ -211,7 +209,7 @@ You can email the maintainers at any time:
 
 ### Mailing List
 
-OpenEBS announces new features and enhancements to an CNCF email group
+OpenEBS announces new features and enhancements to a CNCF email group
 <BR>
 :arrow_forward: [CNCF OpenEBS announcements](https://lists.cncf.io/g/cncf-openebs-announcements)
 
@@ -236,11 +234,9 @@ The following table is a guide to help you decide which channel, method and mech
 
 | Priority | Type | Description |
 | :---: | :--- | :---        |
-| 1. | Global Slack | CNCF provides the **OpenEBS project** with a [```global Slack support Channel```](https://kubernetes.slack.com/messages/openebs/). All users and community members are welcome to  engage all project members via the Slack channel. |
+| 1. | Global Slack | CNCF provides the **OpenEBS project** with a [```global Slack support Channel```](https://kubernetes.slack.com/messages/openebs/). All users and community members are welcome to engage all project members via the Slack channel. |
 | 2. | [Org Discussions](https://github.com/orgs/openebs/discussions) | Our GitHub Discussions are enabled at the **Parent OpenEBS** ```Org level``` and aggregate all project/repo discussions into ONE Unified Umbrella scope for the best community discussion experience. Individual projects/repos ```Do Not``` have repos level GitHub discussions enabled.  |
 | 3. | [Org Issues](https://github.com/openebs/openebs/issues) | Non-Product Issues not related to technology, bugs, or product code are managed in the top-level [```Org repo```](https://github.com/openebs/openebs). You can create/submit ORG level issues as per the normal GitHub methodology & rules. Consider doing this for issues that are ```horizontal``` across [all projects/repos/products](https://github.com/openebs/openebs/issues). |
 | 4. | Product Issues   | Product Issues are managed for each ```individual repo```. You can create/submit issues as per the normal GitHub methodology & rules. Please choose carefully if you are engaging the team in a [```General Discussion```](https://github.com/orgs/openebs/discussions) or need help with a very specific **Product ```Issue```**. This will help you get the best community experience. Please create your interactions in the **correct** GitHub forum/tool. |
-| 5 | Our Projects | We manage some major initiatives via the **GitHub Projects tool**. Users and community members are welcome to contribute, comment and participate in Public projects. Projects are enabled and managed on a ```per-repo basis```. |
+| 5 | Our Projects | We manage some major initiatives via the **GitHub Projects tool**. Users and community members are welcome to contribute, comment and participate in Public projects. Projects are enabled and managed on a ```per-repo basis```. Few sub-projects may have their specific CONTRIBUTING guides, please refer them as well. |
 | 6. | Repo PR's | You may engage and contribute via the standard **GitHub PR** ```(Pull Request)``` methodology. PR's are low-level repo/product/component focused engineering process used to manage **```low-level changes to code```**. For the best community experience, ```Do Not``` create PR's for **Discussions**, **Issues** or **support tickets**. (such items may be migrated to the appropriate forum/tool and could become stale and/or be closed without action/comment. |
-
-
