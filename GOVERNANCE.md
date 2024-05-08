@@ -75,7 +75,7 @@ Maintainers may resign at any time if they feel that they will not be able to co
 A Maintainer may be removed at any time by a ⅔ vote of the remaining maintainers, rounded off to the ceiling.
 
 ### Contributors
-OpenEBS is a very welcoming community and is eager to onboard and help anyone from the OpenSource community to contribute to the project. To facilitate onboarding of the community members, OpenEBS contributors participate in Hackathon events and are responsive on the slack, community meetings and github.
+OpenEBS is a very welcoming community and is eager to onboard and help anyone from the OpenSource community to contribute to the project. To facilitate onboarding of the community members, OpenEBS contributors participate in Hacktoberfest events and are responsive on the slack, community meetings and github.
 
 Any individual with intent to contribute to open source in general or fix a specific issue they are having the OpenEBS project can contribute. If anyone is looking for ideas for contributing, the open issue backlog maintained under the OpenEBS GitHub projects is a great place to start.
 
@@ -106,7 +106,7 @@ When a sub project is removed, it is moved as-is to the OpenEBS-archive organiza
 
 
 ## How are decisions made?
-[See CONTRIBUTING guidleines and rules doc](./CONTRIBUTING.md)
+[See CONTRIBUTING guidelines and rules doc](./CONTRIBUTING.md)
 ```ruby
 Also see: MAINTAINERS file
 ```
