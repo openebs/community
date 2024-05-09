@@ -1,0 +1,16 @@
+# Official list of OpenEBS Special Maintainers and Reviewers.
+#
+# OpenEBS is an umbrella project, composed as a federation of individual sub projects (repositories).
+# THIS MAINTAINERS FILE APPLIES TO THE UMBRELLA PROJECT, EVERY SUB-PROJECT, REPOSITORY AND FILE IN THE OPENEBS ORGANIZATION.
+# THIS MAINTAINERS FILE SUPERSEDES AND OVERRIDES ALL OTHER MAINTAINERS FILES.
+#
+# Please keep the below list sorted in ascending alphabetical order.
+#
+# This list doccuments the Capacity, Ownerhsip, Focus, Authority and Voting status of all Special Maintainers.
+#
+# Ed Robinson
+# Capacity: Primary CNCF Liaison 
+# Voting status: Binding / All issues at ll levels
+# Maintainer Ownerhsip status : repo: openebs/community
+# PR status:  All actions for repo: openebs/community
+#
