@@ -29,7 +29,8 @@ The OpenEBS project has four core roles. All project members operate in one (or 
 | Level | Member type | Example description, scope and role |
 | :---  | :--- | :--- |
 | 1     | **Org Admin** | Administer organization in GitHub, add/subtract admins, invite members, manage org and repo integrations. |
-| 2     | **Maintainers** | Develop roadmap, contribution guidelines; Review, Approve/Reject, Merge, Manage repos. Maintainers are elected or removed by the current maintainers. A maintainer’s authority applies to the OpenEBS organization and every sub-project in the organization; unless they have been appointed as a [special maintainer](#special-projects-and-special-maintainers) |
+| 2     | **Maintainers** | Vote, Develop roadmap, contribution guidelines; Review, Approve/Reject, Merge, Manage repos. Maintainers are elected or removed by the current maintainers. A maintainer’s authority applies to the OpenEBS organization and every sub-project in the organization; unless they have been appointed as a [special maintainer](#special-projects-and-special-maintainers) |
+| 3     | **Special**<BR>**Maintainers**| Act as a voting maintainer for specific projects, sub-projects and repo's as defined by the Maintainers |
 | 3     | **Contributors** | Contribute code, test, document the project. A contributor’s authority applies to one or more sub projects. |
 | 4     | **Adopters** | Use the OpenEBS product, with or without contributing to the project. An adopter has authority to raise issues, participate in discussions on sub projects within a public forum. |
 <BR>
