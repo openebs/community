@@ -4,11 +4,21 @@
 # THIS MAINTAINERS FILE APPLIES TO THE UMBRELLA PROJECT, EVERY SUB-PROJECT, REPOSITORY AND FILE IN THE OPENEBS ORGANIZATION.
 # THIS MAINTAINERS FILE SUPERSEDES AND OVERRIDES ALL OTHER MAINTAINERS FILES.
 #
-# Please keep the below list sorted in ascending order.
+# Please keep the below list sorted in ascending alphabetical order.
 #
 # Maintainers
-"Abhinandan Purkait",@Abhinandan-Purkait,Datacore Software
-"David Brace",@orville-wright,DataCore Software
-"Niladri Halder",@niladrih,DataCore Software
-"Tiago Castro",@tiagolobocastro,DataCore Software
-"Vishnu Attur",@avishnu,DataCore Software
+# These following users/user id's are Top level maintainers of the openEBS Parent Org, Parent Project, all repos, sub-repos,
+# projects, sub-projects and forks contained within and under the entire openEBS parent org; with Full Binding Vote status.
+#
+"Abhinandan Purkait", @Abhinandan-Purkait, Datacore Software
+"David Brace", @orville-wright, DataCore Software
+"Niladri Halder", @niladrih, DataCore Software
+"Tiago Castro",@tiagolobocastro, DataCore Software
+"Vishnu Attur", @avishnu, DataCore Software
+#
+#
+# Special Maintainers
+# The following users/user id's hold special maintainer status and capacity over specific components/sub-components of openEBS as
+#  defined & described by the Top Level Parent Org Maintainers. (see SPECIAL_MAINTAINERS.md for deails).
+#
+"Ed Robinson", @edrob999, Datacore Software
