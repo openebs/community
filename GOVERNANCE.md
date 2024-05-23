@@ -4,7 +4,7 @@
 <BR>
 
 ## Key references:
-Please familiarize yourself with our [Project Vision](./VISION.md) and [Contributing Guidelines](./CONTRIBUTING.md). Together with this Governance document, these provide useful info on what and who we are, and how we operate. 
+Please familiarize yourself with our [Project Vision](./VISION.md) and [Contributing Guidelines](./CONTRIBUTING.md). Together with this Governance document, these provide useful info on what and who we are, and how we operate.
 
 ---
 <BR>
@@ -65,15 +65,19 @@ To become a Maintainer you need to demonstrate the following:
 * understanding of how the team works (policies, processes for testing and code review, etc)
 * understanding of the project's code base and coding and documentation style
 
-A new Maintainer is nominated by an existing maintainer, a public vote is undertaken, and a 50% vote of existing Maintainers (rounded off to the ceiling) approves the application. A new maintainer’s nomination will be evaluated without prejudice to employer or demographics.
+A new Maintainer can either self propose or be nominated by an existing maintainer. This is done through a GitHub Pull Request modifying the MAINTAINERS file.
+A public vote is undertaken (through comments on the raised PR), and a 50% vote of existing Maintainers (rounded off to the ceiling) approves the application. A new maintainer’s nomination will be evaluated without prejudice to employer or demographics.
+The candidate becomes a maintainer once the pull request is merged.
 
 Maintainers who are selected will be granted necessary GitHub rights, and invited to the private maintainer mailing list.
-
 
 #### Removing a Maintainer
 Maintainers may resign at any time if they feel that they will not be able to continue fulfilling their project duties. Maintainers may also be removed after being inactive, failure to fulfill their Maintainer responsibilities, violating the Code of Conduct, or other reasons.
 
-A Maintainer may be removed at any time by a ⅔ vote of the remaining maintainers, rounded off to the ceiling.
+The removal process is again done through a GitHub Pull Request modifying the MAINTAINERS file.
+In case of a resignation, no voting is required.
+In the latter case, the the processed can be started by any of the Maintainers and
+and a ⅔ vote of the remaining maintainers, rounded off to the ceiling.
 
 ### Contributors
 OpenEBS is a very welcoming community and is eager to onboard and help anyone from the OpenSource community to contribute to the project. To facilitate onboarding of the community members, OpenEBS contributors participate in Hacktoberfest events and are responsive on the slack, community meetings and github.
@@ -102,6 +106,8 @@ Special Projects and Special Maintainers are listed in the section “Appendix 1
 
 ## Adding and Removing Sub Projects
 The maintainers may add or remove sub projects or repositories. The maintainers take a conservative policy towards changing the sub projects: a new sub project must have a long term purpose that is distinct from existing sub projects; removed sub projects must be demonstrated to have outlived their purpose or have become unmaintainable.
+
+Once added, the sub project is considered to be donated to OpenEBS.
 
 When a sub project is removed, it is moved as-is to the OpenEBS-archive organization, along-with the related repositories.
 
