@@ -63,6 +63,8 @@ In the past, the OpenEBS project has tried to accomplish too much. Our scope was
 | 3. | Vendor-specific proprietary integrations, including vendor-specific cloud hosting integrations and optimizations |
 | 4. | Vendor-specific authentication, authorization, key management |
 | 5. | Application-level optimizations and Storage operations beyond what is provided in the file system and kernel drivers (the OpenEBS  project does not improve upon or develop our own file systems, nor do we add optimization capabilities)
+| 6. | Complex Business Application Logic optimizations that cant be easily supported or publicly disucssed via/in a free open-source Slack support channel wihotut compromizing the user/businesses)
+
 <BR>
 
 **ALL** Issues, Pull Requests, feature requests (OEP’s), contributions, and roadmap requests will be evaluated against these scopes, and OpenEBS mission statement.
