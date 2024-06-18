@@ -64,6 +64,8 @@ In the past, the OpenEBS project has tried to accomplish too much. Our scope was
 | 4. | Vendor-specific authentication, authorization, key management |
 | 5. | Application-level optimizations and Storage operations beyond what is provided in the file system and kernel drivers (the OpenEBS  project does not improve upon or develop our own file systems, nor do we add optimization capabilities)
 | 6. | Complex Business Application Logic optimizations that cant be easily supported or publicly disucssed via/in a free open-source Slack support channel wihotut compromizing the user/businesses)
+| 7. | K8s cluster spepcifc, Non-storage related business logic. (logic that applies ``` primarily ``` to the K8s clsuter space and not the storage space
+
 
 <BR>
 
