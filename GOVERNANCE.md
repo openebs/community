@@ -29,8 +29,8 @@ The OpenEBS project has five roles. All project members operate in one (or more)
 | Level | Role | Responsibilities |
 | :---  | :--- | :--- |
 | 1     | **Admin** | Administer organization in GitHub. Add/subtract admins, invite members, manage org and repo integrations. |
-| 2     | **Maintainer** | Vote, Develop roadmap, contribution guidelines; Review, Approve/Reject, Merge, Manage repos. Maintainers are elected or removed by the current maintainers. A maintainer has authority over the OpenEBS umbrella project: the organization and every proejct, sub-project and repo within the organization.|
-| 3     | **Special**<BR>**Maintainer**| Have special expertize in a particular domain. The domain may be a project, sub-project, repo or other responsibility as defined by the Maintainers. The maintainers grant a special maintainer a set of authorities and responsibilities for the domain. A special maintainer is expected to join maintainer and community meetings when required. A special maintainer has no responsibilities for the umbrella project, or projects outside their domain.|
+| 2     | **Maintainer** | Vote, Develop roadmap, contribution guidelines; Review, Approve/Reject, Merge, Manage repos. Maintainers are elected or removed by the current maintainers. A maintainer has authority over the OpenEBS umbrella project: the organization and every project, sub-project and repo within the organization.|
+| 3     | **Special**<BR>**Maintainer**| Have special expertise in a particular domain. The domain may be a project, sub-project, repo or other responsibility as defined by the Maintainers. The maintainers grant a special maintainer a set of authorities and responsibilities for the domain. A special maintainer is expected to join maintainer and community meetings when required. A special maintainer has no responsibilities for the umbrella project, or projects outside their domain.|
 | 4     | **Contributor** | Contribute code, test, document the project. A contributor’s authority applies to one or more sub projects. |
 | 5     | **Adopter** | Use the OpenEBS product, with or without contributing to the project. An adopter has authority to raise issues, participate in discussions on sub projects within a public forum. |
 <BR>
@@ -55,7 +55,7 @@ Maintainers have authority over all projects, sub projects and repos within the 
 * Activities that move the project towards graduation status
 
 #### Becoming a Maintainer
-To become a Maintainer you need to demonstrate continued committment, responsiveness and availability to the OpenEBS project. For example:
+To become a Maintainer you need to demonstrate continued commitment, responsiveness and availability to the OpenEBS project. For example:
 
 * Participate in discussions, contributions, code and documentation reviews for three months or more
 * Perform reviews of and contribute to non-trivial pull requests
@@ -65,7 +65,7 @@ To become a Maintainer you need to demonstrate continued committment, responsive
 * Understanding of how the team works (policies, processes for testing and code review, etc)
 * Understanding of the project's code base and coding and documentation style
 
-Mainy maintainers work full-time (or majority-of-time) in the project. Every new maintainer is expected to have the same availability, committment and responsiveness as the existing maintainers.
+Many maintainers work full-time (or majority-of-time) in the project. Every new maintainer is expected to have the same availability, commitment and responsiveness as the existing maintainers.
 
 Process for assigning a new maintainer:
 1. Candidate is nominated by an existing maintainer at a weekly maintainers meeting
@@ -74,32 +74,32 @@ Process for assigning a new maintainer:
 4. If approved, the approval is recorded in the maintainer meeting minutes, the new maintainer will be granted necessary GitHub rights, and invited to the private maintainer mailing list and meetings.
 
 #### Remaining a Maintainer
-Maintainers are expected to operate with a full-time (or mostly full-time) committment, availability and participation in the project.
-If a maintainer can no longer meet these committments, they are expected to consult with the other maintainers and either take a sabbatical from maintainership, or resign as a maintainer. It is the responsibility of all maintainers to ensure the maintainer group operates with the same level of committment.
+Maintainers are expected to operate with a full-time (or mostly full-time) commitment, availability and participation in the project.
+If a maintainer can no longer meet these commitments, they are expected to consult with the other maintainers and either take a sabbatical from maintainership, or resign as a maintainer. It is the responsibility of all maintainers to ensure the maintainer group operates with the same level of commitment.
 
 #### Removing a Maintainer
 Maintainers may resign at any time. A maintainer may request a time-bound sabbatical (during which they a released from all duties and voting rights). 
 The maintainers may also vote to remove a maintainer, if they feel the person will not be able to continue fulfilling their project duties.
 
 The process for removing a maintainer:
-1. Maintainers attempt to contact the maintainer privately. Depending on the circumstances, the maintainer may be requested to re-assume their project committment, requested to resign, or advised a vote will be made to remove them from the project
+1. Maintainers attempt to contact the maintainer privately. Depending on the circumstances, the maintainer may be requested to re-assume their project commitment, requested to resign, or advised a vote will be made to remove them from the project
 2. If the maintainer chooses to resign, the resignation is recorded in the maintainer meeting minutes
 3. The remaining maintainers may choose to vote to remove the maintainer. The action is approved if 66% or more of the remaining maintainers vote to remove the maintainer. A record of the vote is made in the maintainer meeting minutes
 4. When a maintainer is removed: GitHub admin rights, permissions and mailing list membership are also immediately removed.
 
 ### Special Maintainer
 A Special Maintainer is appointed by the maintainers to recognize a contributor with expertise and authority in a specific domain. Special Maintainers are appointed to have elevated privilege, authority and specific responsibilities. The special maintainer role is part of the OpenEBS contributor ladder, and is the primary path from contributor to maintainer. Special maintainers are assigned or removed by the maintainers, by vote with 50% approval, and their role 
-and resposibilites are scoped. A person can have one or more Special Maintainer repsonsibilities
+and responsibilities are scoped. A person can have one or more Special Maintainer responsibilities
 
 OpenEBS has appointed or will appoint special maintainers for the following roles:
 * CNCF Liaison. To be a primary point of contact between the project and CNCF
 * Project manager. To keep track of tasks, and make sure maintainers, special maintainers and contributors deliver on time
-* Sub-project maintainer. To own specific project (tpyically an engine), and to ensure coding standards, issue resolution, documentation, roadmap is in compliance for the sub-project
+* Sub-project maintainer. To own specific project (typically an engine), and to ensure coding standards, issue resolution, documentation, roadmap is in compliance for the sub-project
 * Documentation manager. To oversee and help produce the techdocs and community documentation
 * Test manager. To oversee and coordinate test coverage
 * Special projects. Other projects that come up from time-to-time
 
-Special maintainers are enabled to act indepedently. The do not have responsibilities within the umbrella project. They do not have voting rights over the umbrella project. They are expected to participate with the community, They are not expected to participate in maintainer meetings, unless requested.
+Special maintainers are enabled to act independently. The do not have responsibilities within the umbrella project. They do not have voting rights over the umbrella project. They are expected to participate with the community, They are not expected to participate in maintainer meetings, unless requested.
 
 Special Maintainers are listed in the [MAINTAINERS](./MAINTAINERS) document.
 
