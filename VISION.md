@@ -1,12 +1,12 @@
 # OpenEBS Umbrella Project Vision
 
 > [!Important]
-> OpenEBS is an "umbrella" project,  composed as a federation of individual sub-projects (repositories). The umbrella project, every sub-project, repository/repo, and file in the OpenEBS organization adopts and follows the same set of umbrella policies in the OpenEBS Community repo. This is the Umbrella Vision for OpenEBS.
+> OpenEBS is an "umbrella" project,  composed as a federation of individual sub-projects (repositories). The umbrella project, every sub-project, repository/repo and file in the OpenEBS organization adopts and follows the same set of umbrella policies in the OpenEBS Community repo. This is the Umbrella Vision for OpenEBS.
 <BR>
 
 OpenEBS (Open-Elastic-Block-Storage) aims to provide fast, resilient, available, enterprise-grade storage; natively inside a Kubernetes cluster as Hyper-Converged storage. OpenEBS Users provision OpenEBS storage services to Kubernetes applications running natively inside a Kubernetes cluster.
 
-In this document, we present the project:
+This document presents the project:
 * Vision, Mission Statement and Scope
 * Values
 * Restraints
@@ -14,19 +14,18 @@ In this document, we present the project:
 * Rules and governance
 
 ## Vision, Mission Statement and Scope
-**Our Vision:** The Kubernetes storage standard <BR>
+**Our Vision:** The Kubernetes enterprise storage standard <BR>
 **Our Mission Statement:** OpenEBS is a *CNCF project* that provides fast, resilient, available, native, enterprise-grade storage to applications running in *Kubernetes clusters*.
 
-| Vision | Definition and description of vision     |
+| Term | Meaning     |
 | :---       | :---                                    |
 | *CNCF* | OpenEBS is an open source project operating within CNCF Storage Landscape guidelines and is focused on achieving ```Graduated Level``` status.   |
-| *Persona* | Multiple storage services covering the following operating modes; ```Node Local```, ```Fabric Attached```, ```Replicated```, ```Non-Replicated```, ```Protected``` and ```Non-Protected```, ```Highly Available``` storage.  |
 | *Fast* | Optimized multiple storage drivers and storage media types, with a particular focus on Solid State Flash media.  |
 | *Resilient* | Storage is highly resilient and self-healing. Reads and writes are protected even as containers or nodes are terminated. Volumes and Data Writes can be replicated across nodes via replication. Snapshots and cloning provide additional levels of tolerance, resilience & self-healing. |
 | *Available* | Storage attached to one node can be made addressable to applications running on any node within the cluster through a ```“Nexus” Virtual SAN Fabric``` (i.e. Block mode Storage Area Network). |
 | *Native* | Implemented as ```container native storage```, a Kubernetes natively integrated component, optimized for storage contained inside a Kubernetes cluster (Hyper-converged). |
 | *Enterprise grade* | A fully featured, community-proven, rigorously tested, trustworthy, Mission Critical product. |
-| *Kubernetes* | OpenEBS focus is on Kubernetes on Linux. |
+| *Kubernetes* | OpenEBS focus is for Kubernetes-on-Linux. |
 <BR>
 
 > [!IMPORTANT]
@@ -45,13 +44,12 @@ In the past, the OpenEBS project has tried to accomplish too much. Our scope was
 | 3. | ```Local``` and ```Fabric Addressable``` block-mode storage services |
 | 4. | ```Non-replicated``` (Single Node resident vol) and ```Replicated``` (Multi-Node Distributed vol) block-level storage |
 | 5. | ```Filesystem``` integrations (Kernel, FUSE) |
-| 6. | ```Object Storage``` integrations (Product Native and 3rd party) |
 | 7. | Cluster-wide Block mode storage address space ```vSAN Fabric``` |
-| 8. | Block, file, Object level ```application``` storage services |
-| 9. | ```Rest API``` and ```Cli``` for accessing all capabilities |
+| 8. | Block, file, ```application``` storage services |
+| 9. | ```Rest API```, ```CLI``` and Extensibility for using, embedding, and extending OpenEBS capabilities |
 | 10. | Storage Reporting, alerting, monitoring, metrics |
 | 11. | Read/Write Access Modes for RWO, ROX, RWOP - (*RWX with strict limitations) |
-| 12. | Deployable as ```On-premise``, ```SaaS/PaaS in-cloud``, ```Bare Metal```, ```HyperVisor``` infrastructure |
+| 12. | Deployable as ```On-premise``, ```SaaS/PaaS in-cloud``, ```Bare Metal```, ```Hypervisor``` infrastructure |
 <BR>
 
 > **Out-of-Scope**
@@ -59,7 +57,7 @@ In the past, the OpenEBS project has tried to accomplish too much. Our scope was
 | Item  | Scope and description     |
 | :---: | :---                      |
 | 1. | Updates to legacy/deprecated storage drivers (archived in the OpenEBS-archive organization) |
-| 2. | Graphical user interface for setup, administration, reporting, and dashboards |
+| 2. | Graphical user interface for setup, administration, reporting, dashboards |
 | 3. | Vendor-specific proprietary integrations, including vendor-specific cloud hosting integrations and optimizations |
 | 4. | Vendor-specific authentication, authorization, key management |
 | 5. | Application-level optimizations and Storage operations beyond what is provided in the file system and kernel drivers (the OpenEBS project does not improve upon or develop our own file systems, nor do we add optimization capabilities)
@@ -114,6 +112,6 @@ The [OpenEBS GitHub organization](https://github.com/openebs) has multiple repos
 ## Archive Organization
 > [!IMPORTANT]
 > The OpenEBS project Leadership/Maintainers also administer the affiliated [**OpenEBS-archive organization**](https://github.com/openebs-archive). <BR>
-> 1. This parallel organization is **OWNED by CNCF** and administrated as a reference archive for OpenEBS ```Legacy``` and ```Deprecated``` OpenEBS repositories, assets, IP, source code, dependencies, and resources. <BR>
+> 1. This parallel organization is **OWNED by CNCF** and administrated as a reference archive for OpenEBS ```Legacy``` and ```Deprecated``` OpenEBS repositories, assets, IP, source code, dependencies and resources. <BR>
 > 2. From time to time, we reserve the right to selectively Deprecate and Archive OpenEBS components and  physically migrate them **```out-of ``** the OpenEBS Parent project; and into the Archive organization. This process **``` officially removes```** those OpenEBS components from the parent OpenEBS project/product. All entities held within the Archive org are **NO LONGER** an active component of the OpenEBS Parent project/product. <BR>
 > 3. The Archive org is **NOT** intended for active code or community contributions. The [Project Rules and Governance](./GOVERNANCE.md) also apply to the OpenEBS-archive organization, unless explicitly stated otherwise in the OpenEBS-archive organization README. <BR>
