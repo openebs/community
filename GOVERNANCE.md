@@ -91,15 +91,16 @@ The process for removing a maintainer:
 A Special Maintainer is appointed by the maintainers to recognize a contributor with expertise and authority in a specific domain. Special Maintainers are appointed to have elevated privilege, authority and specific responsibilities. The special maintainer role is part of the OpenEBS contributor ladder, and is the primary path from contributor to maintainer. Special maintainers are assigned or removed by the maintainers, by vote with 50% approval, and their role 
 and responsibilities are scoped. A person can have one or more Special Maintainer responsibilities
 
-OpenEBS has appointed or will appoint special maintainers for the following roles:
+OpenEBS has appointed or may appoint special maintainers for following roles:
 * CNCF Liaison. To be a primary point of contact between the project and CNCF
 * Project manager. To keep track of tasks, and make sure maintainers, special maintainers and contributors deliver on time
 * Sub-project maintainer. To own specific project (typically an engine), and to ensure coding standards, issue resolution, documentation, roadmap is in compliance for the sub-project
 * Documentation manager. To oversee and help produce the techdocs and community documentation
 * Test manager. To oversee and coordinate test coverage
+* Community Manager. 
 * Special projects. Other projects that come up from time-to-time
 
-Special maintainers are enabled to act independently. The do not have responsibilities within the umbrella project. They do not have voting rights over the umbrella project. They are expected to participate with the community, They are not expected to participate in maintainer meetings, unless requested.
+Special maintainers are enabled to act independently. They do not have responsibilities within the umbrella project. They do not have voting rights over the umbrella project. They are expected to participate with the community, They are not expected to participate in maintainer meetings, unless requested.
 
 Special Maintainers are listed in the [MAINTAINERS](./MAINTAINERS) document.
 
