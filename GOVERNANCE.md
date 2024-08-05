@@ -65,20 +65,20 @@ The process for becoming a maintainer:
   * Availability. Be available on Slack, GitHub, email so you’re helping move the project forward in a timely way. Many of the maintainers work full-time (or majority-of-time) in the project. Every new maintainer is expected to have similar availability
   * Alignment with CNCF code of conduct and guiding principles
 2. Email the OpenEBS maintainers (openebs-team@googlegroups.com) and let them know you’re interested in becoming a maintainer
-3. The maintainers set up time to meet you, and after discussion will agree a process  (typically this means being a special maintainer assignment for a set period)
-4. At the end of this time period, the maintainers review your contribution. A maintainer will nominate you for voting-in.
+3. The maintainers set up time to meet you, and after discussion will agree a process (typically this means a special maintainer assignment for a set period)
+4. At the end of the process, the maintainers review your contribution. A maintainer will nominate you for voting-in.
 
 #### Remaining a Maintainer
-Maintainers are expected to operate with a full-time (or majority-of-time) commitment, availability and participation in the project.
-If a maintainer can no longer meet these commitments, they are expected to consult with the other maintainers and either take a sabbatical from maintainership, or resign as a maintainer. It is the responsibility of all maintainers to ensure the maintainer group operates with the same level of commitment.
+Maintainers are expected to operate with a full-time (or majority-of-time) commitment, be available and participate in the project.
+If a maintainer can no longer meet these commitments, they are expected to consult with the other maintainers and either take a sabbatical from maintainership, or resign as a maintainer. It is the responsibility of all maintainers to ensure the maintainer group operates with the same level of commitment. If a maintainer is not meeting their committments, they may be voted-out by the maintainers.
 
 #### Voting-in and voting-out maintainers:
 1. Maintainers make an announcement in their weekly meeting, and this is minuted 
-2. During this meeting, a maintainer nominates to add a new maintainer or remove an existing maintainer.
-3. The nominator who opens a PR in the OpenEBS Community Repo
-4. Maintainers vote via GitHub PR comments, with a 2 week deadline. The community is welcome to comment as well. Community comments will be considered, but not counted towards the vote
-5. After two weeks, any maintainer who abstains from voting will not be counted towards the vote
-6. Decision is approved with a super-majority: 66% or more of maintainers who have voted within two weeks.
+2. During this meeting, a maintainer nominates to add a new maintainer or remove an existing maintainer,
+3. The nominator opens a PR in the OpenEBS Community Repo,
+4. Maintainers vote via GitHub PR comments, with a 2 week deadline. Anyone in the community is welcome to comment. Community comments will be considered, but not counted towards the vote,
+5. After two weeks, any maintainer who abstains from voting will not be counted towards the vote,
+6. Decision is approved with a super-majority: 66% or more of maintainers who have voted within two weeks,
 7. If 66% of all maintainers have approved within two weeks, the voting is closed early.
 
 Changes to the maintainer list (from voting-in, voting-out or resignations) are recorded in the maintainer meeting weekly minutes, and reflected in the [MAINTAINERS](./MAINTAINERS) document. For maintainers voted-in, permissions are immediately added. For maintainers voted-out permissions are immediately removed.
