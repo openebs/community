@@ -70,7 +70,7 @@ The process for becoming a maintainer:
 
 #### Remaining a Maintainer
 Maintainers are expected to operate with a full-time (or majority-of-time) commitment, be available and participate in the project.
-If a maintainer can no longer meet these commitments, they are expected to consult with the other maintainers and either take a sabbatical from maintainership, or resign as a maintainer. It is the responsibility of all maintainers to ensure the maintainer group operates with the same level of commitment. If a maintainer is not meeting their committments, they may be voted-out by the maintainers.
+If a maintainer can no longer meet these commitments, they are expected to consult with the other maintainers and either take a sabbatical from maintainership, or resign as a maintainer. It is the responsibility of all maintainers to ensure the maintainer group operates with the same level of commitment. If a maintainer is not meeting their commitments, they may be voted-out by the maintainers.
 
 #### Voting-in and voting-out maintainers:
 1. Maintainers make an announcement in their weekly meeting, and this is minuted 
