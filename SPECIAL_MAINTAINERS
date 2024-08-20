@@ -10,7 +10,11 @@
 #
 # Ed Robinson
 # Capacity: Primary CNCF Liaison 
-# Voting status: Binding / All issues at All org levels
-# Maintainer Ownership status : repo: openebs/community
-# PR status:  All actions for repo: openebs/community
+# Voting status: Non-binding
+# Maintainer repo: openebs/community
+# PR approve/merge status:  openebs/community
 #
+# Mehran Kholdi
+# Capacity: Primary maintainer Rawfile sub-project
+# Voting status: Non-binding
+# Maintainer repo: openebs/rawfile-localpv
