@@ -10,6 +10,7 @@ The list of organizations that have publicly shared the usage of OpenEBS:
 | :--- | :--- | :--- |
 | [Agnes Intelligence](https://www.agnesintel.com/) | Apache Kafka, Apache Solr, NFS | [English](./adopters/agnesintel/README.md) |
 | [ByteDance](https://www.bytedance.com/) | Elasticsearch | [English](./adopters/bytedance/README.md) |
+| [Civo](https://www.civo.com/) | Virtual Machines with persistent data backed by OpenEBS | [English](./adopters/civo/README.md) |
 | [CLEW Medical](https://clewmed.com/) | PostgreSQL, Keycloak, RabbitMQ | [English](./adopters/clewmedical/README.md) |
 | [Clouds Sky GmbH](https://cloudssky.com/en/) | Confluent Kafka, Strimzi Kafka, Elasticsearch, Prometheus | [English](./adopters/cloudssky/README.md) |
 | [CNCF, The Linux Foundation](https://www.linuxfoundation.org/) | PostgreSQL, MariaDB, ElasticSearch, Redis, DevStats | [English](./adopters/cncf/README.md) |
