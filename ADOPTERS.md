@@ -34,6 +34,7 @@ The list of organizations that have publicly shared the usage of OpenEBS:
 | [Realworks BV](https://www.realworks.nl/) | Strimzi operator for Apache Kafka, Spilo operator for PostgreSQL | [English](./adopters/realworks/README.md) |
 | [Reformational Study Centre](https://www.refstudycentre.com/) | Drupal, Grafana, Moodle, MariaDB, Apache Solr, Verdaccio | [English](./adopters/reformational_study_centre/README.md) |
 | [Renthopper](https://renthopper.co.uk) | Ruby on Rails with ActiveStorage, Redmine, Docker registry, ownCloud, Mattermost, Bitbucket, Jira and Blynk | [English](./adopters/users/laimison/README.md) |
+| [Replicated](https://www.replicated.com/) | Replicated's Embedded Cluster and kURL, rqlite | [English](./adopters/replicated/README.md) |
 | [Sharecare, Inc.](https://www.sharecare.com/) | Prometheus, internal applications | [English](./adopters/sharecare/README.md) |
 | [Stratus5](https://stratus5.com/) | Redis,Ceryx, MySQL, MariaDB, Wordpress | [English](./adopters/stratus5/README.md) |
 | [SurplusCI](https://surplusci.com/) | Postgres, KubeVirt (qemu), Grafana | [English](./adopters/surplusci/README.md) |
@@ -64,6 +65,3 @@ The list of users that have publicly shared the usage of OpenEBS.
 | [Steve Fan](https://github.com/stevefan1999-personal) | [Agones - Game Servers on K8s](https://agones.dev/site/) | [English](./adopters/users/stevefan/README.md)  | 
 | [tardich](https://github.com/tardich) | Postfix Mail Relay, NextCloud, Nexus Repository, Plex | [English](./adopters/users/tardich/README.md)  |
 | [V. Aretakis](https://github.com/aretakisv) | Percona, OpenZwave, Traefik, librenms, Multiple MQTT brokers, private applications, Unifi, multiple other stateful applications | [English](./adopters/users/aretakisv/README.md)  |
-
-
-
