@@ -42,7 +42,7 @@ We are a community of innovative Data Storage engineers that contribute to this 
 > [!NOTE]
 > CNCF Project status: ARCHIVE <BR>
 > ```⚠️``` &nbsp; In Jan 2024, under the guidance of CNCF TOC, our project moved from Sandbox level to Archive level, enabling us to implement an extensive restructuring initiative. We are actively working to archive legacy sub projects, repositories and dependencies to a CNCF owned GitHub organization called: [OpenEBS-Archive](https://github.com/openebs-archive), plus updating our governance and operating procedures.<BR>
-> ```⚠️``` &nbsp; On 13 June 2024, under guidance of CNCF TOC, our project re-Applied for CNCF promotion from ```Archve``` up to ```Sandbox``` level. See our Sandbox promotion [application here](https://github.com/cncf/sandbox/issues/104)
+> ```⚠️``` &nbsp; On 13 June 2024, under guidance of CNCF TOC, our project re-Applied for CNCF promotion from ```Archive``` up to ```Sandbox``` level. See our Sandbox promotion [application here](https://github.com/cncf/sandbox/issues/104)
 > * What's changing in the technology stack? The product team is unifying ``` Five ``` major Storage Engines (<kbd>Mayastor</kbd>, <kbd>LocalPV-LVM</kbd>, <kbd>LocalPV-ZFS</kbd>, <kbd>LocalPV-Hostpath</kbd>, <kbd>RawFile</kbd>) into one core OpenEBS code-base.
 > * For more information, see [the parent issue]( https://github.com/openebs/openebs/issues/3701) in our main repo for more detail.
 >
