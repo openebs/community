@@ -135,17 +135,15 @@ A person looking to contribute can take up an issue by claiming it as a comment/
 <BR>
 
 ## Sponsor a new feature or enhancement
-New enhancements are referred to as OpenEBS Enhancement Proposals (OEPs). Anyone can sponsor a new OEP. Here is the process:
+New enhancements are referred to as OpenEBS Enhancement Proposals (OEPs).
+Anyone can sponsor a new OEP. Here is the process:
 
-1. Sponsor creates and authors an OEP in the Community Repository Discussion forum (all OEPs entered into the community repo)
-2. This auto-generates a GitHub issue # that is tracked against the Community repo
-3. The Issue # = the OEP #
-4. In the bi-weekly (fortnightly) community meeting, we review OEPs
-5. The sponsor presents the OEP
-6. The community votes on the OEP, maintainers have binding votes.
-7. Approved OEPS's are moved (or copied) into the appropriate repository and are tracked against the OEP Community Roadmap
-8. A pull request (PR) is only created after this approval. Once the PR is created, the existence of the PR means engineering work is approved and the OEP is scheduled for implementation.
-
+1. Sponsor creates a GitHub issue to track the OEP as a whole.
+1. Sponsor creates a GitHub (pull request) PR with a `provisional` OEP, with its oep-number set to the tracking GitHub issue number.
+1. Discussions are encouraged, either on the OEP related issues or the PR.
+1. OEPs are reviewed in the maintainer and community meetings.
+1. The OEP is submitted for approval by modifying its status to `implementable` via a PR (this may be the original PR for simple enhancements).
+1. The community may vote on the OEP, maintainers have binding votes.
 
 ---
 
