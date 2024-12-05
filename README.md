@@ -1,6 +1,7 @@
 ### Community Repo Cafe
 [![OpenEBS Welcome to Community Repo Coffee SHop](/images/coffe-shop-hacker-pixel-art_HERO_banner.png)](https://www.openebs.io/)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fopenebs%2Fcommunity.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fopenebs%2Fcommunity?ref=badge_shield)
+[![Slack](https://img.shields.io/badge/chat-slack-ff1493.svg?style=flat-square)](https://kubernetes.slack.com/messages/openebs/)
 <BR>
 
 > [!Important]
@@ -33,16 +34,25 @@ and operational matters. We curate the daily operations of the project, product,
 <BR>
 
 ## Who we are
-We are a community of innovative Data Storage engineers that contribute to this project. We are grateful for the major sponsorship provided by [DataCore](https://datacore.com), who donate a large team of dedicated Dev/QA/Engineers, Product Mgmt, Marketing, Business and Operational leadership as well as significant engineering infrastructure resources and financial funding. Without DataCore, Inc... OpenEBS would not be the successful product that it is today. OpenEBS is the result of hundreds of amazing individuals, contributors and storage engineers who provide brainstorming ideas, feedback, code reviews and high-quality code to the project. Anyone who is passionate about storage and data is welcome here. <BR>
+We are a community of innovative Data Storage engineers that contribute to this project. We are grateful for the major sponsorship provided by [DataCore](https://datacore.com), who donate a team of dedicated Dev/QA/Engineers, Product Mgmt, Marketing, Business and Operational leadership as well as significant engineering infrastructure resources and financial funding. Without DataCore, Inc... OpenEBS would not be the successful product that it is today. OpenEBS is the result of hundreds of amazing individuals, contributors and storage engineers who provide brainstorming ideas, feedback, code reviews and high-quality code to the project. Anyone who is passionate about storage and data is welcome here. <BR>
+
+
+## Monthly Community Meetings
+
+OpenEBS holds a monthly community meeting via Zoom on the last Thursday of the month, at 14:00 UTC.
+
+Meeting Link: https://us05web.zoom.us/j/87535654586?pwd=CigbXigJPn38USc6Vuzt7qSVFoO79X.1
+Starting from August 2024, the meetings are recorded and posted on YouTube: https://www.youtube.com/@openebscommunity6021
 
 ---
 [![OpenEBS Welcome Banner](/images/community_banner_retro_gamer_level-up-2024_transp.png)](https://www.openebs.io/)
 
 
 > [!NOTE]
-> CNCF Project status: ARCHIVE <BR>
+> CNCF Project status: SANDBOX <BR>
 > ```⚠️``` &nbsp; In Jan 2024, under the guidance of CNCF TOC, our project moved from Sandbox level to Archive level, enabling us to implement an extensive restructuring initiative. We are actively working to archive legacy sub projects, repositories and dependencies to a CNCF owned GitHub organization called: [OpenEBS-Archive](https://github.com/openebs-archive), plus updating our governance and operating procedures.<BR>
-> ```⚠️``` &nbsp; On 13 June 2024, under guidance of CNCF TOC, our project re-Applied for CNCF promotion from ```Archive``` up to ```Sandbox``` level. See our Sandbox promotion [application here](https://github.com/cncf/sandbox/issues/104)
+> ```⚠️``` &nbsp; On 13 June 2024, under guidance of CNCF TOC, our project re-Applied for CNCF promotion from ```Archive``` up to ```Sandbox``` level and was accepted back into
+```Sandbox``` in Oct 2024. See our Sandbox promotion [application here](https://github.com/cncf/sandbox/issues/104)
 > * What's changing in the technology stack? The product team is unifying ``` Five ``` major Storage Engines (<kbd>Mayastor</kbd>, <kbd>LocalPV-LVM</kbd>, <kbd>LocalPV-ZFS</kbd>, <kbd>LocalPV-Hostpath</kbd>, <kbd>RawFile</kbd>) into one core OpenEBS code-base.
 > * For more information, see [the parent issue]( https://github.com/openebs/openebs/issues/3701) in our main repo for more detail.
 >
