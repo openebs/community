@@ -21,16 +21,7 @@ This repository contains all the project files for the organization, and the fol
 
 ## Project Leadership team
 This Community is managed by the OpenEBS ```Maintainers``` and <kbd>**Senior leaders**</kbd> within the OpenEBS project team. We liaise with the Linux Foundation and CNCF on project, governance
-and operational matters. We curate the daily operations of the project, product, roadmaps, initiatives, all engineering/code activities and all events (including conferences). Currently our leadership team is...
-
-> | Name | Handle | Flags | Roles |
-> | :--- | :--- | :--- | :--- |
-> | [Vishnu Attur](https://www.linkedin.com/in/vishnu-attur-5309a333/ "Senior Engineering, QA and Dev Manager")| :octocat: <kbd>**[@avishnu](https://github.com/avishnu "Vishnu Govind Attur")**</kbd> | ![](/images/flags/de_je/in.png "I am based in Bengaluru, Karnataka, India (GMT+5:30) Timezone") | ```Maintainer``` |
-> | [Abhinandan Purkait](https://www.linkedin.com/in/abhinandan-purkait/ "Senior Engineer") | :sunglasses: <kbd>**[@Abhinandan-Purkait](https://github.com/Abhinandan-Purkait "Abhinandan Purkait")**</kbd> | ![](/images/flags/de_je/in.png "I am based in Bengaluru, Karnataka, India (GMT+5:30) Timezone") | ```Maintainer``` |
-> | [Niladri Halder](https://www.linkedin.com/in/niladrih/ "Senior Engineer") | :rocket: <kbd>**[@niladrih](https://github.com/niladrih "Niladrih Halder")**</kbd> | ![](/images/flags/de_je/in.png "I am based in Bengaluru, Karnataka, India (GMT+5:30) Timezone") | ```Maintainer``` |
-> | [Tiago Castro](https://www.linkedin.com/in/tiago-castro-3311453a/ "Chief Architect") | :zap: <kbd>**[@tiagolobocastro](https://github.com/tiagolobocastro "Tiago Castro")**</kbd> | ![](/images/flags/ni_tn/pt.png "I'm Portuguese. I'm based in London, UK (GMT+1) Timezone") &nbsp; ![](/images/flags/de_je/gb.png "I am based in London, UK (GMT+1) Timezone") | ```Maintainer``` |
-> | [David Brace](https://www.linkedin.com/in/dbrace/ "Head of Product Mgmt & Strategy") | :star: <kbd>**[@orville-wright](https://github.com/orville-wright "Dave Brace")**</kbd> | ![](/images/flags/ni_tn/nz.png "I'm a Kiwi from New Zealand. I am based in San Francisco, USA (GMT-7) Timezone") &nbsp; ![](/images/flags/de_je/hu.png "I'm also Hungarian. I'm based in San Francisco, USA (GMT-7) Timezone") &nbsp; ![](/images/flags/to_zw/us.png "Yes, I'm also an American. I'm based in San Francisco, USA (GMT-7) Timezone") | ```Maintainer``` |
-
+and operational matters. We curate the daily operations of the project, product, roadmaps, initiatives, all engineering/code activities and all events (including conferences).
 <BR>
 
 ## Who we are

@@ -11,18 +11,7 @@ Please familiarize yourself with our [Project Vision](./VISION.md) and [Contribu
 ---
 <BR>
 
-The **OpenEBS project** is managed on a daily basis by a senior governance & leadership team, that currently consists of the following OpenEBS ```Maintainers``` and ```Special Maintainers```:
->
-> | Name | Handle | Flags | Roles |
-> | :--- | :--- | :--- | :--- |
-> | [Vishnu Attur](https://www.linkedin.com/in/vishnu-attur-5309a333/ "Bengaluru, Karnataka, India (GMT+5:30) Timezone")| :octocat: <kbd>**[@avishnu](https://github.com/avishnu "Vishnu Govind Attur")**</kbd> | ![](/images/flags/de_je/in.png) | ```Maintainer``` |
-> | [Abhinandan Purkait](https://www.linkedin.com/in/abhinandan-purkait/ "Bengaluru, Karnataka, India (GMT+5:30) Timezone") | :sunglasses: <kbd>**[@Abhinandan-Purkait](https://github.com/Abhinandan-Purkait "Abhinandan Purkait")**</kbd> | ![](/images/flags/de_je/in.png) | ```Maintainer``` |
-> | [Niladri Halder](https://www.linkedin.com/in/niladrih/ "Bengaluru, Karnataka, India (GMT+5:30) Timezone") | :rocket: <kbd>**[@niladrih](https://github.com/niladrih "Niladrih Halder")**</kbd> | ![](/images/flags/de_je/in.png) | ```Maintainer``` |
-> | [Ed Robinson](https://www.linkedin.com/in/edrob/ "San Francisco, USA (GMT-7) Timezone") | :dog: <kbd>**[@edrob999](https://github.com/edrob999 "Ed Robinson")**</kbd> | ![](/images/flags/ni_tn/nz.png) | <kbd>**CNCF Primary Liaison**</kbd>,```Special Maintainer``` |
-> | [Tiago Castro](https://www.linkedin.com/in/tiago-castro-3311453a/ "London, UK (GMT+1) Timezone") | :zap: <kbd>**[@tiagolobocastro](https://github.com/tiagolobocastro "Tiago Castro")**</kbd> | ![](/images/flags/ni_tn/pt.png) &nbsp; ![](/images/flags/de_je/gb.png) | ```Maintainer``` |
-> | [David Brace](https://www.linkedin.com/in/dbrace/ "San Francisco, USA (GMT-7) Timezone") | :star: <kbd>**[@orville-wright](https://github.com/orville-wright "Dave Brace")**</kbd> | ![](/images/flags/ni_tn/nz.png) &nbsp; ![](/images/flags/de_je/hu.png) &nbsp; ![](/images/flags/to_zw/us.png) | ```Maintainer``` |
-> | [Mehran Kholdi]() | :star: <kbd>**[@semekh](https://github.com/semekh "Mehran Kholdi")**</kbd> | ![](/images/flags/ad_cz/ca.png) &nbsp; ![](/images/flags/de_je/ir.png) | ```Special Maintainer``` |
-
+The **OpenEBS project** is managed on a daily basis by a senior governance & leadership team, that currently consists of the following OpenEBS ```Maintainers``` and ```Special Maintainers```]: https://github.com/openebs/community/blob/HEAD/MAINTAINERS
 <BR>
 
 The list of Maintainers can also be found in the MAINTAINERS file.
