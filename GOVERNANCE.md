@@ -11,7 +11,7 @@ Please familiarize yourself with our [Project Vision](./VISION.md) and [Contribu
 ---
 <BR>
 
-The **OpenEBS project** is managed on a daily basis by a senior governance & leadership team, that currently consists of the following OpenEBS ```Maintainers``` and ```Special Maintainers```]: https://github.com/openebs/community/blob/HEAD/MAINTAINERS
+The **OpenEBS project** is managed on a daily basis by a senior governance & leadership team, that currently consists of the following OpenEBS ```Maintainers``` and ```Special Maintainers```: https://github.com/openebs/community/blob/HEAD/MAINTAINERS
 <BR>
 
 The list of Maintainers can also be found in the MAINTAINERS file.
