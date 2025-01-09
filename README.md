@@ -18,7 +18,7 @@ This Community repository is the ```central location``` for project info and fil
 
 This repository contains all the project files for the organization, and the following project files are important for understanding the OpenEBS project, and how we operate:
 
-* [OpenEBS Vision](/VISON.md) Defines the vision, mission statement; what is in-scope and out-of-scope for the project
+* [OpenEBS Vision](/VISION.md) Defines the vision, mission statement; what is in-scope and out-of-scope for the project
 * [Governance](/GOVERNANCE.md) How the project operates
 * [Contributing](/CONTRIBUTING.md) How to contribute, guidelines for being a contributor
 <BR>
