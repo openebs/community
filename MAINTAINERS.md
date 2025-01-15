@@ -36,6 +36,5 @@ projects, sub-projects and forks contained within and under the entire OpenEBS p
 
 | Name                                                     | GitHub ID                                                   | Affiliation       | Sub-Projects      |
 |----------------------------------------------------------|-------------------------------------------------------------|-------------------|-------------------|
-| Mehran Kholdi                                            | [@semekh](https://github.com/semekh)                        | -                 | LocalPv-Rawfile   |
 
 <BR>
