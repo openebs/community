@@ -1,76 +1,71 @@
-# Community Repo Cafe
+# OpenEBS Community
 
-[![OpenEBS Welcome to Community Repo Coffee SHop](/images/coffe-shop-hacker-pixel-art_HERO_banner.png)](https://www.openebs.io/)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fopenebs%2Fcommunity.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fopenebs%2Fcommunity?ref=badge_shield)
-[![Slack](https://img.shields.io/badge/chat-slack-ff1493.svg?style=flat-square)](https://kubernetes.slack.com/messages/openebs/)
-<BR>
+[![CNCF Status](https://img.shields.io/badge/cncf%20status-sandbox-blue.svg)](https://www.cncf.io/projects/openebs/)
+[![LICENSE](https://img.shields.io/github/license/openebs/openebs.svg)](./LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/custom%2B162%2Fgithub.com%2Fopenebs%2Fopenebs.svg?type=shield&issueType=license)](https://app.fossa.com/projects/custom%2B162%2Fgithub.com%2Fopenebs%2Fopenebs?ref=badge_shield&issueType=license)
+[![CLOMonitor](https://img.shields.io/endpoint?url=https://clomonitor.io/api/projects/cncf/openebs/badge)](https://clomonitor.io/projects/cncf/openebs)
+[![Slack](https://img.shields.io/badge/chat-slack-ff1493.svg?style=flat-square)](https://kubernetes.slack.com/messages/openebs)
+[![Community Meetings](https://img.shields.io/badge/Community-Meetings-blue)](https://us05web.zoom.us/j/87535654586?pwd=CigbXigJPn38USc6Vuzt7qSVFoO79X.1)
+[![Artifact HUB](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/openebs)](https://artifacthub.io/packages/helm/openebs/openebs)
 
 > [!Important]
-> OpenEBS is an umbrella :open_umbrella: project, composed as a federation of individual sub projects (repositories). The project files in this repository apply to the umbrella project, every sub project, repository and file in the OpenEBS organization.
-<BR>
+> OpenEBS is an umbrella :open_umbrella: project, composed as a federation of individual sub-projects. The project files in this repository apply to the umbrella project and every sub-project in the OpenEBS organization.
 
-## About the Community Repo Cafe<BR>
+## What is OpenEBS
 
-This Community repository is the ```central location``` for project info and files (like [our GOVERNANCE contract](GOVERNANCE.md) & [our CONTRIBUTING guide](CONTRIBUTING.md) etc) for the OpenEBS organization. You'll also find a [Top level Issues List](https://github.com/openebs/openebs/issues) for Organization related issues that span across products/projects. We also provide a [main Discussions forum](https://github.com/openebs/openebs/discussions) where **```everyone```** can collaborate and discuss anything.
-<BR>
+OpenEBS is an open-source Container Native Storage solution that provides persistent storage for Kubernetes workloads. It enables dynamic provisioning of storage resources using containerized storage controllers, making it highly flexible and cloud-native. OpenEBS supports various storage engines, including LocalPVs for direct node storage and Replicated PV advanced data replication and resilience. It is designed to integrate seamlessly with Kubernetes, offering benefits like storage policies, resize, thin-provisioning, snapshots, and restore capabilities, making it an ideal choice for stateful applications. To read more about OpenEBS, check [here](https://github.com/openebs/openebs/).
 
-## Important documents and contacts
+Below are the list of sub-projects:
 
-This repository contains all the project files for the organization, and the following project files are important for understanding the OpenEBS project, and how we operate:
-
-* [OpenEBS Vision](/VISION.md) Defines the vision, mission statement; what is in-scope and out-of-scope for the project
-* [Governance](/GOVERNANCE.md) How the project operates
-* [Contributing](/CONTRIBUTING.md) How to contribute, guidelines for being a contributor
-<BR>
-
-## Project Leadership team
-
-This Community is managed by the OpenEBS ```Maintainers``` and <kbd>**Senior leaders**</kbd> within the OpenEBS project team. We liaise with the Linux Foundation and CNCF on project, governance
-and operational matters. We curate the daily operations of the project, product, roadmaps, initiatives, all engineering/code activities and all events (including conferences).
-<BR>
+- [Local PV Hostpath](https://github.com/openebs/dynamic-localpv-provisioner/)
+- [Local PV ZFS](https://github.com/openebs/zfs-localpv)
+- [Local PV LVM](https://github.com/openebs/lvm-localpv)
+- [Mayastor](https://github.com/openebs/mayastor)
 
 ## Who we are
 
-We are a community of innovative Data Storage engineers that contribute to this project. We are grateful for the major sponsorship provided by [DataCore (also known as DataCore Software)](https://datacore.com), who donate a team of dedicated Dev/QA/Engineers, Product Mgmt, Marketing, Business and Operational leadership as well as significant engineering infrastructure resources and financial funding. Without DataCore OpenEBS would not be the successful product that it is today. OpenEBS is the result of hundreds of amazing individuals, contributors and storage engineers who provide brainstorming ideas, feedback, code reviews and high-quality code to the project. Anyone who is passionate about storage and data is welcome here. <BR>
+We are a community of innovative Data Storage engineers that contribute to this project. OpenEBS is the result of hundreds of amazing individuals, contributors and storage engineers who provide brainstorming ideas, feedback, code reviews and high-quality code to the project. Anyone who is passionate about storage and data is welcome here. <BR>
 
-## Monthly Community Meetings
+## Community
 
-OpenEBS holds a monthly community meeting via Zoom on the last Thursday of the month, at 14:00 UTC. <BR>
+This Community repository is the ```central location``` for project info and files like our governance, contribution, code of conduct, security and vision for the OpenEBS organization laid out by the Maintainers. You'll also find a [Top level Issues List](https://github.com/openebs/openebs/issues) for Organization related issues that span across products/projects. We also provide a [main Discussions forum](https://github.com/openebs/openebs/discussions) where **```everyone```** can collaborate and discuss anything.
 
-Meeting Link: <https://us05web.zoom.us/j/87535654586?pwd=CigbXigJPn38USc6Vuzt7qSVFoO79X.1> <BR>
-Starting from August 2024, the meetings are recorded and posted on YouTube: <https://www.youtube.com/@openebscommunity6021> <BR>
+- Homepage: [openebs.io](https://openebs.io/)
+- Mailing list: openebs-team@googlegroups.com
+- Slack: [slack](https://kubernetes.slack.com/messages/openebs)
+- Twitter: [openebs](https://twitter.com/intent/follow?screen_name=openebs)
+- Community Meeting: OpenEBS holds a monthly community meeting via Zoom on the last Thursday of the month, at 14:00 UTC. [Meeting Link](https://us05web.zoom.us/j/87535654586?pwd=CigbXigJPn38USc6Vuzt7qSVFoO79X.1)
+- Community Meeting Recordings: [Youtube](https://www.youtube.com/@openebscommunity6021)
+
+## Documents
+
+- [Official Documentation](https://openebs.io/docs)
+- [Governance](./GOVERNANCE.md)
+- [Contributing Guidelines](./CONTRIBUTING.md)
+- [Security Guidelines](./SECURITY.md)
+- [Vision](./VISION.md)
+- [Roadmap Tracker](https://github.com/orgs/openebs/projects/78)
+
+## Project Leadership team
+
+This Community is managed by the OpenEBS [Maintainers](./MAINTAINERS.md) within the OpenEBS project team. We liaise with the Linux Foundation and CNCF on project, governance
+and operational matters. We curate the operations of the project, product, roadmaps, initiatives, all engineering/code activities and all events (including conferences).
+
+ [<img alt="Container Storage Interface group" src="images/CNCF_csi-horizontal-color_2024.png" width="320">](https://github.com/kubernetes/community/tree/HEAD/sig-storage)  [<img alt="Storage Technical Advisory Group" src="images/CNCF_tag-storage-horizontal-color_2024.png" width="320">](https://github.com/cncf/tag-storage)  &emsp; &emsp; [<img alt="Cloud Native Community Groups" src="images/CNCF_cncg-icon-color_2024.png" width="200">](https://github.com/cncf/communitygroups)
+
+## How to get involved
+
+One of the easiest ways to contribute is to participate in discussions at community engagements.
+
+If you're looking for something to work on, read the [contribution guidelines](./CONTRIBUTING.md) and then you start by looking for GitHub issues, marked with `kind/good-first` or the `kind/help-wanted` labels.
+
+And, we can always use more testing, have more and improved docs, or just write a blog post on what you have discovered whilst using OpenEBS.
 
 ## Code of Conduct
 
-OpenEBS follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md).
+OpenEBS adopts the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/HEAD/code-of-conduct.md).
 
----
-[![OpenEBS Welcome Banner](/images/community_banner_retro_gamer_level-up-2024_transp.png)](https://www.openebs.io/)
-
-> [!NOTE]
-> CNCF Project status: SANDBOX <BR>
-> ```⚠️``` &nbsp; In Jan 2024, under the guidance of CNCF TOC, our project moved from Sandbox level to Archive level, enabling us to implement an extensive restructuring initiative. We are actively working to archive legacy sub projects, repositories and dependencies to a CNCF owned GitHub organization called: [OpenEBS-Archive](https://github.com/openebs-archive), plus updating our governance and operating procedures.<BR>
-> ```⚠️``` &nbsp; On 13 June 2024, under guidance of CNCF TOC, our project re-Applied for CNCF promotion from ```Archive``` up to ```Sandbox``` level and was accepted back into
-```Sandbox``` in Oct 2024. See our Sandbox promotion [application here](https://github.com/cncf/sandbox/issues/104)
->
-> * What's changing in the technology stack? The product team is unifying ``` Five ``` major Storage Engines (<kbd>Mayastor</kbd>, <kbd>LocalPV-LVM</kbd>, <kbd>LocalPV-ZFS</kbd>, <kbd>LocalPV-Hostpath</kbd>, <kbd>RawFile</kbd>) into one core OpenEBS code-base.
-> * For more information, see [the parent issue]( https://github.com/openebs/openebs/issues/3701) in our main repo for more detail.
->
-<BR>
-
----
-
-[![CNCF logo](/images/CNCF_member-silver-color.svg)](https://www.datacore.com/)
-OpenEBS is a CNCF project and DataCore is a CNCF Silver member. DataCore supports CNCF extensively and has funded OpenEBS participating in every KubeCon event since 2020. Our project team is managed under the CNCF Storage Landscape and we contribute to the CNCF CSI and TAG Storage project initiatives. We proudly support CNCF Cloud Native Community Groups initiatives.<BR>
-<BR>
-
-| [<img alt="Container Storage Interface group" src="/images/CNCF_csi-horizontal-color_2024.png" width="320">](https://github.com/kubernetes/community/tree/master/sig-storage) | [<img alt="Storage Technical Advisory Group" src="/images/CNCF_tag-storage-horizontal-color_2024.png" width="320">](https://github.com/cncf/tag-storage) | &emsp; &emsp; [<img alt="Cloud Native Community Groups" src="/images/CNCF_cncg-icon-color_2024.png" width="200">](https://github.com/cncf/communitygroups)|
-| :---         |     :---:      |          ---: |
-
-<BR>
-
-**Thanks for dropping by.\
-We appreciate everyone in our community and would love to hear from you.**
+This open governance applies to all repos under the `openebs` org. Enjoy coding and collaboration in OSS world!
 
 ## Activity dashboard
 
@@ -79,3 +74,7 @@ We appreciate everyone in our community and would love to hear from you.**
 ## License
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fopenebs%2Fcommunity.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fopenebs%2Fcommunity?ref=badge_large)
+
+## OpenEBS is a [CNCF Sandbox Project](https://www.cncf.io/projects/openebs)
+
+![OpenEBS is a CNCF Sandbox Project](https://github.com/cncf/artwork/blob/main/other/cncf/horizontal/color/cncf-color.png)
