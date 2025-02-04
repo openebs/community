@@ -12,7 +12,7 @@ The list of organizations that have publicly shared the usage of OpenEBS:
 | [ByteDance](https://www.bytedance.com/) | Elasticsearch | [English](./adopters/bytedance/README.md) |
 | [Civo](https://www.civo.com/) | Virtual Machines with persistent data backed by OpenEBS | [English](./adopters/civo/README.md) |
 | [CNCF, The Linux Foundation](https://www.linuxfoundation.org/) | PostgreSQL, MariaDB, ElasticSearch, Redis, DevStats | [English](./adopters/cncf/README.md) |
-| [eXact-lab](https://www.exact-lab.it/) | ELK, Prometheus, PostgreSQL, MySQL, Apache Kafka, Grafana, GitLab |  [English](./adopters/exact/README.md) |
+| [eXact-lab](https://www.exact-lab.it/) | ELK, Prometheus, PostgreSQL, MySQL, Apache Kafka, Grafana, GitLab |  [English](./adopters/exactlab/README.md) |
 | [Hamravesh](https://github.com/hamravesh) | Multiple minio instances, Multiple docker-in-docker instances | [English](./adopters/hamravesh/README.md) |
 | [IDNT](https://idnt.net/) | Elasticsearch, RabbitMQ, KubeVirt, Prometheus, YugabyteDB, Couchbase, MySQL | [English](./adopters/idnt/README.md) |
 | [KubeSphere](https://kubesphere.io) | [KubeSphere](https://github.com/kubesphere/kubesphere), there are some stateful components of KubeSphere including Redis, MySQL, Elasticsearch, Prometheus, etc. | [English](./adopters/kubesphere/README.md) |
