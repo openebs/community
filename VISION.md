@@ -16,7 +16,7 @@ This document presents the project:
 
 ## Vision, Mission Statement and Scope
 
-**Our Vision:** The Kubernetes enterprise storage standard <BR>
+**Our Vision:** The democratized Kubernetes enterprise storage standard <BR>
 **Our Mission Statement:** OpenEBS is a *CNCF project* that provides fast, resilient, available, native, enterprise-grade storage to applications running in *Kubernetes clusters*.
 
 | Term | Meaning     |
@@ -28,6 +28,7 @@ This document presents the project:
 | *Native* | Implemented as ```container native storage```, a Kubernetes natively integrated component, optimized for storage contained inside a Kubernetes cluster (Hyper-converged). |
 | *Enterprise grade* | A fully featured, community-proven, rigorously tested, trustworthy, Mission Critical product. |
 | *Kubernetes* | OpenEBS focus is for Kubernetes-on-Linux. |
+| *Democratized* | Accessible to everyone. |
 
 <BR>
 
@@ -37,7 +38,7 @@ This document presents the project:
 
 ### Scope
 
-In the past, the OpenEBS project has tried to accomplish too much. Our scope was too broad and not clearly defined enough for our community. We are explicitly naming the following capabilities as ```in-scope``` and ```out-of-scope``` for the project:
+The OpenEBS project has a clearly defined focus for our community. We are explicitly naming the following capabilities as `in-scope` and `out-of-scope` for the project:
 
 > **In Scope** <BR>
 
@@ -89,21 +90,7 @@ OpenEBS is a self-governing project, and operates within the following restraint
 * The OpenEBS project is open source, and operations are governed by CNCF rules set up for CNCF projects.
 * The OpenEBS project adds ```domain-specific Governance```, ```Contribution``` and ```operating rules``` on **top of the CNCF rules**. We provide for exceptions from the CNCF rules if approved by the CNCF Technical Oversight Committee (TOC).
 
-[![CNCF logo](/images/CNCF_member-silver-color.svg)](https://www.datacore.com/)
-DataCore, Inc. is a CNCF Silver member. DataCore supports CNCF extensively and funds all OpenEBS CNCF events. The project team is managed under the CNCF Storage Landscape and contributes to the CNCF CSI and TAG Storage project initiatives at the CNCF membership level that funding allows. OpenEBS proudly supports CNCF Cloud Native Community Groups initiatives.<BR>
-<BR>
-
-| <img  alt="Container Storage Interface group" align="left" src="/images/CNCF_csi-horizontal-color_2024.png" width="320" /> | <img alt="Storage Technical Advisory Group" align="center" src="/images/CNCF_tag-storage-horizontal-color_2024.png" width="320" /> | &emsp; &emsp; <img alt="Cloud Native Community Groups" align="right" src="/images/CNCF_cncg-icon-color_2024.png" width="200" /> |
-| :---         |     :---:      |          ---: |
-
-### DataCore
->
-> [!IMPORTANT]
->
-> * OpenEBS was created by MayaData (now part of [DataCore Software, Inc.](https://datacore.com) ), and donated to [CNCF](https://cncf.io) in 2019.
-> * DataCore engineers contribute a majority of the contributions, program management, Engineering, Dev, and QA resources as well as considerable infrastructure funding to the daily operations of the project.
-> * The project requires multiple Full-Time ```Subject Matter Experts```, Full-Time storage engineers and Full-Time QA Engineers/testers. While the project requires this commitment, it is expected DataCore engineers may be a majority of the contributing Eng/Dev/QA/PM community.
-> * OpenEBS is a community project, and DataCore has been and continues to be a significant part of the community.
+ [<img alt="Container Storage Interface group" src="images/CNCF_csi-horizontal-color_2024.png" width="320">](https://github.com/kubernetes/community/tree/master/sig-storage)  [<img alt="Storage Technical Advisory Group" src="images/CNCF_tag-storage-horizontal-color_2024.png" width="320">](https://github.com/cncf/tag-storage)  &emsp; &emsp; [<img alt="Cloud Native Community Groups" src="images/CNCF_cncg-icon-color_2024.png" width="200">](https://github.com/cncf/communitygroups)
 
 ## Conformance
 
