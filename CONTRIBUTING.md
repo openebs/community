@@ -67,10 +67,22 @@ Please follow the [Contribution Setup Guidelines](./contribute/contribution-setu
 
 We expect that contributions via pull requests target the `develop` branch unless otherwise noted. Additional branches (such as release candidates, release branches, and backport branches) may exist for testing and maintenance purposes. Please check any project-specific guidelines if you plan to contribute outside the `develop` branch.
 
+### Sign your work
+
+> [!Important]
+> Our Organization enforces **```Developer Certificate of Origin```** (DCO) on all Pull Requests, as an additional safeguard for the OpenEBS project. This requires all **commit messages** to contain the ```Signed-off-by``` line, with an email address that matches the commit author name.
+> - This is a [well established and widely used mechanism](https://github.com/apps/dco)
+> - DCO ensures contributors have confirmed their right to license their contribution under the project's license.
+> - Please read [developer-certificate-of-origin](./contribute/developer-certificate-of-origin) to understand what you are `consenting` to and `agreeing` to adhere to when you create a commit and a PR.
+> - ALL PR's will automatically have their status set to `FAILED` if any commits in a Pull Request do not contain a valid `Signed-off-by` line.
+
+You must certify that your commits and PR's are your own work and authorized by you by adding a line to every git commit message. Any PR with Commits that Do Not have DCO Signoff will not be accepted.
+
 ### PR Guidelines
 
 * Ensure your local repository is up-to-date with the upstream repository.
 * Limit your PR to a single focus (e.g., one bug fix or feature) to simplify review.
+* Ensure the commits are signed as defined [above](#sign-your-work).
 * Push your changes to your forked repository.
 * Navigate to your repository on GitHub, click New pull request, and select the branch with your changes.
 * Fill in the pull request template with detailed information about your changes.
