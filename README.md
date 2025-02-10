@@ -20,6 +20,7 @@ Below are the list of sub-projects:
 - [Local PV Hostpath](https://github.com/openebs/dynamic-localpv-provisioner/)
 - [Local PV ZFS](https://github.com/openebs/zfs-localpv)
 - [Local PV LVM](https://github.com/openebs/lvm-localpv)
+- [Local PV Rawfile(_**Experimental**_)](https://github.com/openebs/lvm-localpv)
 - [Mayastor](https://github.com/openebs/mayastor)
 
 ## Who we are
@@ -45,6 +46,55 @@ This Community repository is the ```central location``` for project info and fil
 - [Security Guidelines](./SECURITY.md)
 - [Vision](./VISION.md)
 - [Roadmap Tracker](https://github.com/orgs/openebs/projects/78)
+
+## Integrations with other projects
+
+| Technology             | Integration                                      | Description                                                           |
+|:-----------------------|:------------------------------------------------:|:---------------------------------------------------------------------:|
+| [OpenZFS]              | [ZFS Install Guide] <br> [ZFS Code Integration]  | LocalPV ZFS integrates with OpenZFS                                   |
+| [External Provisioner] | [External Provisioner Integration]               | LocalPV Hostpath integrates with the SIG Storage External Provisioner |
+| [SPDK]                 | [spdk-rs] <br> [io-engine]                       | Mayastor uses SPDK to build a high-speed low-latency storage backend  |
+| [gRPC]                 | [Inter Service Communication]                    | Used as internal service communication                                |
+| [etcd]                 | [Persistent Store] <br> [PStor client]           | Used as persistent configuration (not volume data)                    |
+| [NATS]                 | [Event bus]                                      | Used as event bus                                                     |
+| [OpenTelemetry]        | [Tracing]                                        | Tracing system for observability                                      |
+| [Helm]                 | [Helm Install Guide]                             | Installs/upgrades on K8s cluster                                      |
+| [Grafana]              | [Grafana Dashboards]                             | Install grafana custom dashboards with OpenEBS exported metrics       |
+| [Grafana/Loki]         | [Loki Support logs]                              | Collect support logs                                                  |
+| [Prometheus]           | [Monitoring]                                     | Export stats                                                          |
+| [Kubernetes]           | [Install Guide]                                  | Runs on K8s                                                           |
+
+[//]: <>  (Technology Links)
+[OpenZFS]: https://openzfs.github.io/openzfs-docs/
+[External Provisioner]: https://github.com/kubernetes-sigs/sig-storage-lib-external-provisioner
+[Grafana]: https://grafana.com/
+[Grafana/Loki]: https://grafana.com/oss/loki/
+[SPDK]: https://spdk.io/
+[gRPC]: https://grpc.io/
+[etcd]: https://etcd.io/
+[NATS]: https://nats.io/
+[OpenTelemetry]: https://opentelemetry.io/
+[Helm]: https://helm.sh/
+[Prometheus]: https://prometheus.io/
+[Kubernetes]: https://kubernetes.io/
+
+[//]: <>  (Integrations Links)
+[ZFS Install Guide]: https://openebs.io/docs/user-guides/local-storage-user-guide/local-pv-zfs/zfs-installation
+[ZFS Code Integration]: https://github.com/openebs/zfs-localpv/blob/HEAD/pkg/zfs/zfs_util.go
+[External Provisioner Integration]: https://github.com/openebs/dynamic-localpv-provisioner/blob/develop/cmd/provisioner-localpv/app/provisioner_hostpath.go
+[Grafana Dashboards]: https://openebs.io/docs/main/user-guides/observability#install-the-helm-chart
+[Loki Support logs]: https://openebs.io/docs/user-guides/replicated-storage-user-guide/replicated-pv-mayastor/advanced-operations/supportability
+[spdk-rs]: https://github.com/openebs/spdk-rs
+[io-engine]: https://github.com/openebs/mayastor/blob/HEAD/doc/design/mayastor.md
+[Inter Service Communication]: https://github.com/openebs/mayastor/blob/HEAD/doc/design/control-plane.md#internal-communication
+[Persistent Store]: https://github.com/openebs/mayastor/blob/HEAD/doc/design/control-plane.md#persistent-store-kvstore-for-configuration-data
+[PStor client]: https://github.com/openebs/mayastor-control-plane/blob/HEAD/utils/pstor/src/etcd.rs
+[Event bus]: https://github.com/openebs/mayastor/blob/HEAD/doc/design/events.md
+[Tracing]: https://github.com/openebs/mayastor/blob/HEAD/doc/design/control-plane.md#tracing-and-telemetry
+[Helm Install Guide]: https://openebs.io/docs/quickstart-guide/installation#installation-via-helm
+[Monitoring]: https://openebs.io/docs/user-guides/replicated-storage-user-guide/replicated-pv-mayastor/advanced-operations/monitoring
+[Install Guide]: https://openebs.io/docs/quickstart-guide/installation
+
 
 ## Project Leadership team
 
