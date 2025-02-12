@@ -6,7 +6,7 @@ ________________________________________
 
 ## Roadmap change process
 
-For a CNCF sandbox project with a **small maintainer team (≤6 maintainers)**, the roadmap change process should be **lightweight, pragmatic, and efficient**, while still being transparent and community-driven. The process below balances inclusiveness with agility.
+For a CNCF sandbox project with a **small maintainer team**, the roadmap change process should be **lightweight, pragmatic, and efficient**, while still being transparent and community-driven. The process below balances inclusiveness with agility.
 ________________________________________
 
 ### 1. Principles
@@ -20,7 +20,7 @@ ________________________________________
 
 #### 2.1 Proposal Submission
 
-- **Where?** Submit a GitHub Issue or a PR modifying docs/roadmap.md.
+- **Where?** Submit a GitHub Issue or a Pull Request modifying docs/roadmap.md.
 - **What to include?**
   - **Brief description** of the change (e.g., new feature, priority shift).
   - **Why it matters** (business or technical impact).
@@ -32,6 +32,7 @@ ________________________________________
 - Proposal is **open for discussion for at least 5 business days**.
 - Discussion happens via:
   - **GitHub Issue comments** (preferred)
+  - Pull Request
   - CNCF Slack
   - Monthly community call (if timing aligns)
 - **Feedback is encouraged but optional** – if no objections are raised, the process moves forward.
@@ -59,4 +60,4 @@ ________________________________________
 
 ### 4. Continuous Process Review
 
-- Every **6 months**, maintainers **review and adjust** the roadmap change process based on project needs.
+- **Periodically**, maintainers **review and adjust** the roadmap change process based on project needs.
