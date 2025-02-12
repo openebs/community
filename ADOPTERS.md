@@ -22,7 +22,6 @@ The list of organizations that have publicly shared the usage of OpenEBS:
 | [Plaid Cloud](https://github.com/PlaidCloud) | Redis, Prometheus, Elasticsearch, PostgreSQL | [English](./adopters/plaidcloud/README.md) |
 | [Realworks BV](https://www.realworks.nl/) | Strimzi operator for Apache Kafka, Spilo operator for PostgreSQL | [English](./adopters/realworks/README.md) |
 | [Reformational Study Centre](https://www.refstudycentre.com/) | Drupal, Grafana, Moodle, MariaDB, Apache Solr, Verdaccio | [English](./adopters/reformational_study_centre/README.md) |
-| [Renthopper](https://renthopper.co.uk) | Ruby on Rails with ActiveStorage, Redmine, Docker registry, ownCloud, Mattermost, Bitbucket, Jira and Blynk | [English](./adopters/users/laimison/README.md) |
 | [Replicated](https://www.replicated.com/) | Replicated's Embedded Cluster and kURL, rqlite | [English](./adopters/replicated/README.md) |
 | [SurplusCI](https://surplusci.com/) | Postgres, KubeVirt (qemu), Grafana | [English](./adopters/surplusci/README.md) |
 | [TenxCloud](https://www.tenxcloud.com) | Kubevirt, MySQL、Redis、Kafka、RabbitMQ、MinIO | [English](./adopters/tenxcloud/README.md) |
