@@ -130,74 +130,74 @@ Overall, OpenEBS enhances Kubernetes by providing a flexible storage solution th
 
 OpenEBS can be used in several cloud-native scenarios:
 
-### 1. Kubernetes Stateful Applications
-   - Supports applications such as MySQL, PostgreSQL, MongoDB, and Cassandra that require persistent storage.
-   - Ensures high availability and resilience through replication mechanisms.
+#### 1. Kubernetes Stateful Applications
+ - Supports applications such as MySQL, PostgreSQL, MongoDB, and Cassandra that require persistent storage.
+ - Ensures high availability and resilience through replication mechanisms.
 
-### 2. Hybrid and Multi-Cloud Storage
-   - Enables organizations to run stateful workloads across different cloud providers.
-   - Provides seamless storage portability, making migrations easier.
+#### 2. Hybrid and Multi-Cloud Storage
+ - Enables organizations to run stateful workloads across different cloud providers.
+ - Provides seamless storage portability, making migrations easier.
 
-### 3. Edge Computing and IoT
-   - Can be deployed in edge environments where lightweight, distributed storage solutions are needed.
-   - Works well with Kubernetes distributions optimized for edge computing (e.g., K3s, MicroK8s).
+#### 3. Edge Computing and IoT
+ - Can be deployed in edge environments where lightweight, distributed storage solutions are needed.
+ - Works well with Kubernetes distributions optimized for edge computing (e.g., K3s, MicroK8s).
 
-### 4. CI/CD Pipelines and Dev/Test Environments
-   - Provides fast and ephemeral storage for continuous integration and testing workflows.
-   - Supports quick provisioning and teardown of test environments without affecting production systems.
+#### 4. CI/CD Pipelines and Dev/Test Environments
+ - Provides fast and ephemeral storage for continuous integration and testing workflows.
+ - Supports quick provisioning and teardown of test environments without affecting production systems.
 
-### 5. Disaster Recovery and Backup Solutions
-   - OpenEBS replication capabilities help create disaster recovery strategies for Kubernetes applications.
-   - Works with backup tools like Velero to create snapshots and restore data when needed.
+#### 5. Disaster Recovery and Backup Solutions
+ - OpenEBS replication capabilities help create disaster recovery strategies for Kubernetes applications.
+ - Works with backup tools like Velero to create snapshots and restore data when needed.
 
 OpenEBS is a versatile cloud-native storage solution designed for Kubernetes workloads. By offering dynamic provisioning, multi-tenancy, and scalability, it bridges the gap between traditional storage and the growing needs of continuously evolving Kubernetes-based applications. OpenEBS is a compelling choice for enterprises looking to build resilient, portable, and high-performance storage solutions in diverse cloud-native environments.
 
 ## Goals and Objectives
 
-OpenEBS is an open-source Cloud Native storage solution that provides container-attached storage for Kubernetes following vendor-neutral principles.  OpenEBS is a Kubernetes first approach to integrated granular storage management with data replication at infrastructure level, adhering to  Kubernetes-native principles, and delivering enhanced flexibility for stateful applications. OpenEBS empowers application owners to concentrate fully on their core application value. Storage resiliency and management becomes a worry free and reliable part of the underlying Kubernetes infrastructure.
+OpenEBS is an open-source Cloud Native storage solution that provides cloud-native storage for Kubernetes stateful workloads following vendor-neutral principles.
 
 Listed below are the goals and objectives:
 ### 1. Cloud Native Storage for Kubernetes
-   - Ensure seamless integration with Kubernetes environments.
-   - Provide container-attached storage that aligns with Kubernetes-native architectures.
-   - Deliver dynamically provisioned storage with persistent volumes (PVs) managed via Kubernetes StorageClasses.
+ - Ensure seamless integration with Kubernetes environments.
+ - Provide container-attached storage that aligns with Kubernetes-native architectures.
+ - Deliver dynamically provisioned storage with persistent volumes (PVs) managed via Kubernetes StorageClasses.
 
 ### 2. Open Source and Community-Driven
-   - Foster an open and active community contributing to continuous innovation.
-   - Ensure transparency, extensibility, and flexibility through an open governance model.
-   - Collaborate with other Cloud Native Computing Foundation (CNCF) projects and Kubernetes ecosystem tools.
+ - Foster an open and active community contributing to continuous innovation.
+ - Ensure transparency, extensibility, and flexibility through an open governance model.
+ - Collaborate with other Cloud Native Computing Foundation (CNCF) projects and Kubernetes ecosystem tools.
 
 ### 3. Simplified Storage Management
-   - Enable DevOps teams to provision, manage, and scale storage without requiring deep storage expertise.
-   - Offer policy-driven automation for storage provisioning, data protection, and lifecycle management.
-   - Ensure easy deployment with no complex external dependencies.
+ - Enable DevOps teams to provision, manage, and scale storage without requiring deep storage expertise.
+ - Offer policy-driven automation for storage provisioning, data protection, and lifecycle management.
+ - Ensure easy deployment with no complex external dependencies.
 
 ### 4. Scalability and Performance Optimization
-   - Support a scale-out architecture, allowing storage resources to grow with application demand.
-   - Provide flexible data replication and storage engine choices (Local and Replicated PV) to match performance needs.
-   - Optimize storage for cloud, hybrid, and on-premises Kubernetes deployments.
+ - Support a scale-out architecture, allowing storage resources to grow with application demand.
+ - Provide flexible data replication and storage engine choices (Local and Replicated PV) to match performance needs.
+ - Optimize storage for cloud, hybrid, and on-premises Kubernetes deployments.
 
 ### 5. Data Resilience and High Availability
-   - Offer built-in replication, snapshots, and backup capabilities.
-   - Ensure data integrity and protection across nodes and clusters.
-   - Support disaster recovery.
+ - Offer built-in replication, snapshots, and backup capabilities.
+ - Ensure data integrity and protection across the cluster nodes.
+ - Support disaster recovery.
 
 ### 6. Developer and DevOps Friendly
-   - Provide a declarative, Kubernetes-native approach to storage management.
-   - Support GitOps, CI/CD pipelines, and automated workflows for persistent storage.
-   - Enable easy monitoring and troubleshooting with Kubernetes observability tools.
+ - Provide a declarative, Kubernetes-native approach to storage management.
+ - Support GitOps, CI/CD pipelines, and automated workflows for persistent storage.
+ - Enable easy monitoring and troubleshooting with Kubernetes observability tools.
 
 ### 7. Storage Agnostic and Portable
-   - Work across cloud providers, on-premises, and hybrid environments without vendor lock-in.
-   - Support multiple storage backends, including local disks, networked storage, and cloud block storage.
-   - Integrates with cloud native backup tools to seamlessly migrate application data between different storage types and clusters.
+ - Work across cloud providers, on-premises, and hybrid environments without vendor lock-in.
+ - Support multiple storage backends, including local disks, networked storage, and cloud block storage.
+ - Integrate with cloud native backup tools to seamlessly migrate application data between different storage types and clusters.
 
 ### Differentiation in the Cloud Native Landscape
 Unlike traditional storage solutions, OpenEBS takes a Kubernetes-first approach, allowing:
   -  **Flexible Storage Choice:** Provide flexible data replication and storage engine choices (Local and Replicated PV) to match performance needs.
-   - **Containerized Storage Architecture:** Runs as Kubernetes pods, making it portable and easy to deploy across different environments.
-   - **Granular Storage Customization:** Developers can fine-tune replication, compression, and storage engine selection on a per-application basis.
-   - **No Vendor Lock-In:** Fully open-source, OpenEBS provides an alternative to proprietary Cloud Native storage solutions.
+  -  **Containerized Storage Architecture:** Runs as Kubernetes pods, making it portable and easy to deploy across different environments.
+  - **Granular Storage Customization:** Developers can configure features like replication, thin-provisioning, compression, encryption on a per-application basis with the right storage engine selection.
+  - **No Vendor Lock-In:** Fully open-source, OpenEBS provides an alternative to proprietary Cloud Native storage solutions.
 
 OpenEBS addresses the needs of Kubernetes storage by delivering a truly Cloud Native, flexible, and scalable storage solution. It empowers DevOps teams, application developers and cloud SREs in small, medium and large enterprises and CSPs to manage modern stateful workloads efficiently while integrating seamlessly into the Cloud Native ecosystem. Through its community-driven development, OpenEBS continues to evolve, solving persistent storage challenges in Kubernetes environments.
 
