@@ -1,8 +1,9 @@
 # OpenEBS Umbrella Project Vision
 
+>
 > [!Important]
-> OpenEBS is an "umbrella" project, composed as a federation of individual sub-projects (repositories). The umbrella project, every sub-project, repository/repo and file in the OpenEBS organization adopts and follows the same set of umbrella policies in the OpenEBS Community repo. This is the Umbrella Vision for OpenEBS.
-<BR>
+> OpenEBS is an `Umbrella Project` whose governance and policies are defined in the [community](https://github.com/openebs/community/) repository.<br>
+>This VISION file is applicable to every sub-project, repository and file existing within the [OpenEBS GitHub organization](https://github.com/openebs/).
 
 OpenEBS (Open-Elastic-Block-Storage) aims to provide fast, resilient, available, enterprise-grade storage; natively inside a Kubernetes cluster as Hyper-Converged storage. OpenEBS Users provision OpenEBS storage services to Kubernetes applications running natively inside a Kubernetes cluster.
 

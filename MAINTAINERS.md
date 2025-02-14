@@ -1,12 +1,10 @@
 # Official list of OpenEBS Maintainers
 
-OpenEBS is an umbrella project, composed as a federation of individual sub projects (repositories).
-THIS MAINTAINERS FILE APPLIES TO THE UMBRELLA PROJECT, EVERY SUB-PROJECT, REPOSITORY AND FILE IN THE OpenEBS ORGANIZATION.
-THIS MAINTAINERS FILE SUPERSEDES AND OVERRIDES ALL OTHER MAINTAINERS FILES.
-<BR>
+>
+> [!Important]
+> OpenEBS is an `Umbrella Project` whose governance and policies are defined in the [community](https://github.com/openebs/community/) repository.<br>
+> This MAINTAINERS file is applicable to every sub-project, repository and file existing within the [OpenEBS GitHub organization](https://github.com/openebs/).<br>
 > Please keep the lists sorted in ascending alphabetical order.
-
-<BR>
 
 ## Maintainers
 
