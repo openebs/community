@@ -28,7 +28,7 @@ projects, sub-projects and forks contained within and under the entire OpenEBS p
 
 | Name                                                     | GitHub ID                                                   | Affiliation       |
 |----------------------------------------------------------|-------------------------------------------------------------|-------------------|
-| Alexander Best                                           | [@Alex130469](https://github.com/orville-wright)            | DataCore Software |
+| Alexander Best                                           | [@Alex130469](https://github.com/Alex130469)            | DataCore Software |
 
 ### Sub-Project Maintainers
 
