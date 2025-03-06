@@ -130,6 +130,7 @@ When a sub project is removed, it is moved as-is to the OpenEBS-archive organiza
 [See decisions related to contributions](./CONTRIBUTING.md).  
 [See decisions related to roadmap](./ROADMAP.md).  
 [See decisions related to policies and governance](#changes-to-governance-and-policies).
+[Maintainer weekly meeting minutes](https://github.com/openebs/community/discussions/categories/weekly-maintainers-meetings).
 
 ## Conflict Resolution
 
