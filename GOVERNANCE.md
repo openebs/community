@@ -127,13 +127,15 @@ When a sub project is removed, it is moved as-is to the OpenEBS-archive organiza
 
 ## How are decisions made?
 
-[See CONTRIBUTING guidelines and rules doc](./CONTRIBUTING.md)
+[See decisions related to contributions](./CONTRIBUTING.md).  
+[See decisions related to roadmap](./ROADMAP.md).  
+[See decisions related to policies and governance](#changes-to-governance-and-policies).
 
 ## Conflict Resolution
 
 If you have a technical dispute that you feel has reached an impasse with a subset of the community, any contributor may open an issue, specifically calling for a resolution vote of the current maintainers to resolve the dispute. The same voting quorums required (2/3) for removing maintainers will apply to conflict resolution.
 
-## Changes to this document
+## Changes to Governance and Policies
 
 Changes to governance policy and any supporting documents must be agreed and approved by 66% of the Maintainers either by vote, or by review and approval of a PR on the document.
 
