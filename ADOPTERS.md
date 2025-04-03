@@ -19,6 +19,7 @@ The list of organizations that have publicly shared the usage of OpenEBS:
 | [NationTech](https://nationtechuae.com/) | Elasticsearch, Kibana, Prometheus, Alertmanager, PostgreSQL, Docker registry, Odoo, NextCloud, Grafana, Django, FluentD | [English](./adopters/nationtech/README.md) |
 | [Optoro](https://www.optoro.com/) | PostgreSQL, MySQL, Apache Kafka, Redis, ElasticSearch, Prometheus, Thanos | [English](./adopters/optoro/README.md) |
 | [Orange](https://www.orange.com/en/home) | Prometheus, Alertmanager, ChartMuseum, Harbor, GitLab, PostgreSQL, Redis, OpenLdap, RabbitMQ, MySQL, MinIO, Metabase, ... | [English](./adopters/orange/README.md) |
+| [ParminCloud](https://github.com/ParminCloud) | PostgreSQL, MongoDB, MySQL, OpenSearch, MinIO, GitLab, Jira/Confluence, Apache Kafka, RabbitMQ | [English](./adopters/parmin_cloud/README.md) |
 | [Plaid Cloud](https://github.com/PlaidCloud) | Redis, Prometheus, Elasticsearch, PostgreSQL | [English](./adopters/plaidcloud/README.md) |
 | [Realworks BV](https://www.realworks.nl/) | Strimzi operator for Apache Kafka, Spilo operator for PostgreSQL | [English](./adopters/realworks/README.md) |
 | [Reformational Study Centre](https://www.refstudycentre.com/) | Drupal, Grafana, Moodle, MariaDB, Apache Solr, Verdaccio | [English](./adopters/reformational_study_centre/README.md) |
