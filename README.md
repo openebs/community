@@ -20,7 +20,7 @@ Below are the list of sub-projects:
 - [Local PV Hostpath](https://github.com/openebs/dynamic-localpv-provisioner/)
 - [Local PV ZFS](https://github.com/openebs/zfs-localpv)
 - [Local PV LVM](https://github.com/openebs/lvm-localpv)
-- [Local PV Rawfile(_**Experimental**_)](https://github.com/openebs/lvm-localpv)
+- [Local PV Rawfile(_**Experimental**_)](https://github.com/openebs/rawfile-localpv)
 - [Mayastor](https://github.com/openebs/mayastor)
 
 ## Who we are
