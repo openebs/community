@@ -18,7 +18,7 @@ projects, sub-projects and forks contained within and under the entire OpenEBS p
 | [David Brace](mailto:brace.dave@gmail.com)               | [@orville-wright](https://github.com/orville-wright)         | Minds DB          |
 | [Niladri Halder](mailto:niladri.halder26@gmail.com)      | [@niladrih](https://github.com/niladrih)                     | DataCore Software |
 | [Tiago Castro](mailto:tiagolobocastro@gmail.com)         | [@tiagolobocastro](https://github.com/tiagolobocastro)       | DataCore Software |
-| [Vishnu Attur](mailto:vishnu.attur@gmail.com)            | [@avishnu](https://github.com/avishnu)                       | DataCore Software |
+| [Vishnu Attur](mailto:vishnu.attur@gmail.com)            | [@avishnu](https://github.com/avishnu)                       |  |
 
 <BR>
 
