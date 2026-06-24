@@ -34,6 +34,5 @@ projects, sub-projects and forks contained within and under the entire OpenEBS p
 
 | Name                                                     | GitHub ID                                                   | Affiliation       | Sub-Projects      |
 |----------------------------------------------------------|-------------------------------------------------------------|-------------------|-------------------|
-| Muhammed Hussein Karimi                                  | [@mhkarimi1383](https://github.com/mhkarimi1383)            | ParminCloud       | RawFile Local PV  |
 
 <BR>
