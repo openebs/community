@@ -84,10 +84,11 @@ Changes to the maintainer list (from voting-in, voting-out or resignations) are 
 
 ### Special Maintainer
 
-A Special Maintainer is appointed by the maintainers to recognize a contributor with expertise and authority in a specific domain. Special Maintainers are appointed to have elevated privilege, authority and specific responsibilities. The special maintainer role is part of the OpenEBS contributor ladder, and is the primary path from contributor to maintainer. Special maintainers are assigned or removed by the maintainers, by vote with 66% approval, and their role
-and responsibilities are scoped. A person can have one or more Special Maintainer responsibilities
+A Special Maintainer is appointed by the Maintainers to recognize a contributor with expertise and authority in a specific domain. The domain may be a sub-project, repository, function, or other responsibility defined by the Maintainers. Special Maintainers may be granted elevated privileges only for their assigned domain, using the least privilege needed to carry out the responsibilities approved by the Maintainers.
 
-OpenEBS has appointed or may appoint special maintainers for following roles:
+Special Maintainers are assigned or removed by the Maintainers, by vote with 66% approval. Their approved scope, responsibilities, and any related access should be recorded in the [MAINTAINERS](./MAINTAINERS.md#special-maintainers) document. A person can have one or more Special Maintainer responsibilities.
+
+OpenEBS has appointed or may appoint Special Maintainers for the following roles:
 
 * CNCF Liaison
   * To be a primary point of contact between the project and CNCF
@@ -103,7 +104,26 @@ OpenEBS has appointed or may appoint special maintainers for following roles:
 * Special projects
   * Other projects that come up from time-to-time
 
-Special maintainers are enabled to act independently. They do not have responsibilities within the umbrella project. They do not have voting rights over the umbrella project. They are expected to participate with the community, They are not expected to participate in maintainer meetings, unless requested.
+Special Maintainers must:
+
+* abide by this governance
+* follow the [Project Vision](./VISION.md) and [Contributing Guidelines](./CONTRIBUTING.md)
+* act only within their approved scope and responsibilities
+* engage with the community in their assigned domain
+* participate in maintainer or community meetings when requested by the Maintainers
+* ask the Maintainers for approval before taking actions outside their approved scope
+
+Special Maintainers do not have authority to:
+
+* vote on matters that apply to the OpenEBS umbrella project, unless they are also a Maintainer
+* add, archive, transfer, or remove sub-projects or repositories
+* grant, revoke, or change organization-level permissions
+* create governance rules that override or conflict with OpenEBS governance
+* publish, modify, or remove GitHub releases outside their approved scope or beyond what's reasonably expected
+* make destructive or irreversible changes to repositories, code, documentation, artifacts, or project infrastructure outside the permissions and process approved by the Maintainers
+* represent decisions as binding on the OpenEBS umbrella project unless the decision has been approved by the Maintainers
+
+The Maintainers retain final authority over all Special Maintainer decisions and may overrule decisions, narrow or revoke scope, or remove access when needed to protect the project. In urgent cases, Maintainers may temporarily suspend access while the formal review or removal process is completed.
 
 Special Maintainers are listed in the [MAINTAINERS](./MAINTAINERS.md#special-maintainers) document.
 
